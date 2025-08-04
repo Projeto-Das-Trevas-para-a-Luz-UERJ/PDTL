@@ -1,0 +1,4220 @@
+[
+  {
+    "id": "#0001#vida_tars",
+    "arcaica": "aquy",
+    "modernizada": "aqui",
+    "anotada": "aquy[i]"
+  },
+  {
+    "id": "#0002#vida_tars",
+    "arcaica": "se",
+    "modernizada": "se",
+    "anotada": "se"
+  },
+  {
+    "id": "#0003#vida_tars",
+    "arcaica": "começa",
+    "modernizada": "começa",
+    "anotada": "começa"
+  },
+  {
+    "id": "#0004#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0005#vida_tars",
+    "arcaica": "uida",
+    "modernizada": "vida",
+    "anotada": "u[v]ida"
+  },
+  {
+    "id": "#0006#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0007#vida_tars",
+    "arcaica": "tarssis",
+    "modernizada": "tarssis",
+    "anotada": "tarssis"
+  },
+  {
+    "id": "#0008#vida_tars",
+    "arcaica": "molher",
+    "modernizada": "mulher",
+    "anotada": "mo[u]lher"
+  },
+  {
+    "id": "#0009#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0010#vida_tars",
+    "arcaica": "foy",
+    "modernizada": "foi",
+    "anotada": "foy[i]"
+  },
+  {
+    "id": "#0011#vida_tars",
+    "arcaica": "muyto",
+    "modernizada": "muito",
+    "anotada": "muy[i]to"
+  },
+  {
+    "id": "#0012#vida_tars",
+    "arcaica": "peccatriz",
+    "modernizada": "peccatriz<pecadora>",
+    "anotada": "peccatriz<pecadora>"
+  },
+  {
+    "id": "#0013#vida_tars",
+    "arcaica": "hũa",
+    "modernizada": "uma",
+    "anotada": "h[0h]ũ[u][+m]a"
+  },
+  {
+    "id": "#0014#vida_tars",
+    "arcaica": "mançeba",
+    "modernizada": "manceba",
+    "anotada": "manç[c]eba"
+  },
+  {
+    "id": "#0015#vida_tars",
+    "arcaica": "foy",
+    "modernizada": "foi",
+    "anotada": "foy[i]"
+  },
+  {
+    "id": "#0016#vida_tars",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0017#vida_tars",
+    "arcaica": "mundo",
+    "modernizada": "mundo",
+    "anotada": "mundo"
+  },
+  {
+    "id": "#0018#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0019#vida_tars",
+    "arcaica": "chamauã",
+    "modernizada": "chamavam",
+    "anotada": "chamau[v]ã[a][+m]"
+  },
+  {
+    "id": "#0020#vida_tars",
+    "arcaica": "tarsis",
+    "modernizada": "tarsis",
+    "anotada": "tarsis"
+  },
+  {
+    "id": "#0021#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0022#vida_tars",
+    "arcaica": "era",
+    "modernizada": "era",
+    "anotada": "era"
+  },
+  {
+    "id": "#0023#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0024#vida_tars",
+    "arcaica": "tamanha",
+    "modernizada": "tamanha",
+    "anotada": "tamanha"
+  },
+  {
+    "id": "#0025#vida_tars",
+    "arcaica": "fremosura",
+    "modernizada": "formosura",
+    "anotada": "fr[0r]e[o][+r]mosura"
+  },
+  {
+    "id": "#0026#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0027#vida_tars",
+    "arcaica": "mujtos",
+    "modernizada": "muitos",
+    "anotada": "muj[i]tos"
+  },
+  {
+    "id": "#0028#vida_tars",
+    "arcaica": "venderõ",
+    "modernizada": "venderam",
+    "anotada": "venderõ[a][+m]"
+  },
+  {
+    "id": "#0029#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0030#vida_tars",
+    "arcaica": "beẽs",
+    "modernizada": "bens",
+    "anotada": "beẽ[n]s"
+  },
+  {
+    "id": "#0031#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0032#vida_tars",
+    "arcaica": "auyam",
+    "modernizada": "haviam",
+    "anotada": "[+h]au[v]y[i]am"
+  },
+  {
+    "id": "#0033#vida_tars",
+    "arcaica": "por",
+    "modernizada": "por",
+    "anotada": "por"
+  },
+  {
+    "id": "#0034#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0035#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0036#vida_tars",
+    "arcaica": "ueerom",
+    "modernizada": "viram",
+    "anotada": "u[v]e[i]e[0e]ro[a]m"
+  },
+  {
+    "id": "#0037#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0038#vida_tars",
+    "arcaica": "muj",
+    "modernizada": "muito",
+    "anotada": "muj[i][+t][+o]"
+  },
+  {
+    "id": "#0039#vida_tars",
+    "arcaica": "gram",
+    "modernizada": "grande",
+    "anotada": "gram[n][+d][+e]"
+  },
+  {
+    "id": "#0040#vida_tars",
+    "arcaica": "pobreza",
+    "modernizada": "pobreza",
+    "anotada": "pobreza"
+  },
+  {
+    "id": "#0041#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0042#vida_tars",
+    "arcaica": "eram",
+    "modernizada": "eram",
+    "anotada": "eram"
+  },
+  {
+    "id": "#0043#vida_tars",
+    "arcaica": "tantos",
+    "modernizada": "tantos",
+    "anotada": "tantos"
+  },
+  {
+    "id": "#0044#vida_tars",
+    "arcaica": "amadores",
+    "modernizada": "amadores",
+    "anotada": "amadores"
+  },
+  {
+    "id": "#0045#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0046#vida_tars",
+    "arcaica": "ha",
+    "modernizada": "a",
+    "anotada": "h[0h]a"
+  },
+  {
+    "id": "#0047#vida_tars",
+    "arcaica": "amauom",
+    "modernizada": "amavam",
+    "anotada": "amau[v]o[a]m"
+  },
+  {
+    "id": "#0048#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0049#vida_tars",
+    "arcaica": "mujtos",
+    "modernizada": "muitos",
+    "anotada": "muj[i]tos"
+  },
+  {
+    "id": "#0050#vida_tars",
+    "arcaica": "moryam",
+    "modernizada": "morriam",
+    "anotada": "mor[+r]y[i]am"
+  },
+  {
+    "id": "#0051#vida_tars",
+    "arcaica": "por",
+    "modernizada": "por",
+    "anotada": "por"
+  },
+  {
+    "id": "#0052#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0053#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0054#vida_tars",
+    "arcaica": "faziam",
+    "modernizada": "faziam",
+    "anotada": "faziam"
+  },
+  {
+    "id": "#0055#vida_tars",
+    "arcaica": "grandes",
+    "modernizada": "grandes",
+    "anotada": "grandes"
+  },
+  {
+    "id": "#0056#vida_tars",
+    "arcaica": "pellegas",
+    "modernizada": "pelejas",
+    "anotada": "pel[0l]leg[j]as"
+  },
+  {
+    "id": "#0057#vida_tars",
+    "arcaica": "quando",
+    "modernizada": "quando",
+    "anotada": "quando"
+  },
+  {
+    "id": "#0058#vida_tars",
+    "arcaica": "esto",
+    "modernizada": "isto",
+    "anotada": "e[i]sto"
+  },
+  {
+    "id": "#0059#vida_tars",
+    "arcaica": "soube",
+    "modernizada": "soube",
+    "anotada": "soube"
+  },
+  {
+    "id": "#0060#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0061#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0062#vida_tars",
+    "arcaica": "paunucio",
+    "modernizada": "paunucio",
+    "anotada": "paunucio"
+  },
+  {
+    "id": "#0063#vida_tars",
+    "arcaica": "ouue",
+    "modernizada": "houve",
+    "anotada": "[+h]ouu[v]e"
+  },
+  {
+    "id": "#0064#vida_tars",
+    "arcaica": "grande",
+    "modernizada": "grande",
+    "anotada": "grande"
+  },
+  {
+    "id": "#0065#vida_tars",
+    "arcaica": "doo",
+    "modernizada": "dó",
+    "anotada": "do[0o]o[ó]"
+  },
+  {
+    "id": "#0066#vida_tars",
+    "arcaica": "ẽ",
+    "modernizada": "em",
+    "anotada": "ẽ[e][+m]"
+  },
+  {
+    "id": "#0067#vida_tars",
+    "arcaica": "seu",
+    "modernizada": "seu",
+    "anotada": "seu"
+  },
+  {
+    "id": "#0068#vida_tars",
+    "arcaica": "coracõ",
+    "modernizada": "coração",
+    "anotada": "corac[ç]õ[ã][+o]"
+  },
+  {
+    "id": "#0069#vida_tars",
+    "arcaica": "della",
+    "modernizada": "dela",
+    "anotada": "del[0l]la"
+  },
+  {
+    "id": "#0070#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0071#vida_tars",
+    "arcaica": "filhou",
+    "modernizada": "filhou",
+    "anotada": "filhou"
+  },
+  {
+    "id": "#0072#vida_tars",
+    "arcaica": "panos",
+    "modernizada": "panos",
+    "anotada": "panos"
+  },
+  {
+    "id": "#0073#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0074#vida_tars",
+    "arcaica": "sagral",
+    "modernizada": "sagral<sagrado>",
+    "anotada": "sagral<sagrado>"
+  },
+  {
+    "id": "#0075#vida_tars",
+    "arcaica": "por",
+    "modernizada": "por",
+    "anotada": "por"
+  },
+  {
+    "id": "#0076#vida_tars",
+    "arcaica": "prezo",
+    "modernizada": "preço",
+    "anotada": "prez[ç]o"
+  },
+  {
+    "id": "#0077#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0078#vida_tars",
+    "arcaica": "seu",
+    "modernizada": "seu",
+    "anotada": "seu"
+  },
+  {
+    "id": "#0079#vida_tars",
+    "arcaica": "pecado",
+    "modernizada": "pecado",
+    "anotada": "pecado"
+  },
+  {
+    "id": "#0080#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0081#vida_tars",
+    "arcaica": "chegou",
+    "modernizada": "chegou",
+    "anotada": "chegou"
+  },
+  {
+    "id": "#0082#vida_tars",
+    "arcaica": "aa",
+    "modernizada": "à",
+    "anotada": "a[0a]a[à]"
+  },
+  {
+    "id": "#0083#vida_tars",
+    "arcaica": "porta",
+    "modernizada": "porta",
+    "anotada": "porta"
+  },
+  {
+    "id": "#0084#vida_tars",
+    "arcaica": "della",
+    "modernizada": "dela",
+    "anotada": "del[0l]la"
+  },
+  {
+    "id": "#0085#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0086#vida_tars",
+    "arcaica": "disse lhe",
+    "modernizada": "disse-lhe",
+    "anotada": "disse[0_][+-]lhe"
+  },
+  {
+    "id": "#0087#vida_tars",
+    "arcaica": "quero",
+    "modernizada": "quero",
+    "anotada": "quero"
+  },
+  {
+    "id": "#0088#vida_tars",
+    "arcaica": "cõtigo",
+    "modernizada": "contigo",
+    "anotada": "cõ[o][+n]tigo"
+  },
+  {
+    "id": "#0089#vida_tars",
+    "arcaica": "fazer",
+    "modernizada": "fazer",
+    "anotada": "fazer"
+  },
+  {
+    "id": "#0090#vida_tars",
+    "arcaica": "mjnha",
+    "modernizada": "minha",
+    "anotada": "mj[i]nha"
+  },
+  {
+    "id": "#0091#vida_tars",
+    "arcaica": "uontade",
+    "modernizada": "vontade",
+    "anotada": "u[v]ontade"
+  },
+  {
+    "id": "#0092#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0093#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0094#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0095#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0096#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0097#vida_tars",
+    "arcaica": "entrasse",
+    "modernizada": "entrasse",
+    "anotada": "entrasse"
+  },
+  {
+    "id": "#0098#vida_tars",
+    "arcaica": "pera",
+    "modernizada": "para",
+    "anotada": "pe[a]ra"
+  },
+  {
+    "id": "#0099#vida_tars",
+    "arcaica": "dentro",
+    "modernizada": "dentro",
+    "anotada": "dentro"
+  },
+  {
+    "id": "#0100#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0101#vida_tars",
+    "arcaica": "ẽtrou",
+    "modernizada": "entrou",
+    "anotada": "ẽ[e][+n]trou"
+  },
+  {
+    "id": "#0102#vida_tars",
+    "arcaica": "na",
+    "modernizada": "na",
+    "anotada": "na"
+  },
+  {
+    "id": "#0103#vida_tars",
+    "arcaica": "primeira",
+    "modernizada": "primeira",
+    "anotada": "primeira"
+  },
+  {
+    "id": "#0104#vida_tars",
+    "arcaica": "casa",
+    "modernizada": "casa",
+    "anotada": "casa"
+  },
+  {
+    "id": "#0105#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0106#vida_tars",
+    "arcaica": "acharom",
+    "modernizada": "acharam",
+    "anotada": "acharo[a]m"
+  },
+  {
+    "id": "#0107#vida_tars",
+    "arcaica": "huũ",
+    "modernizada": "um",
+    "anotada": "h[0h]uũ[m]"
+  },
+  {
+    "id": "#0108#vida_tars",
+    "arcaica": "leyto",
+    "modernizada": "leito",
+    "anotada": "ley[i]to"
+  },
+  {
+    "id": "#0109#vida_tars",
+    "arcaica": "muj",
+    "modernizada": "muito",
+    "anotada": "muj[i][+t][+o]"
+  },
+  {
+    "id": "#0110#vida_tars",
+    "arcaica": "boo",
+    "modernizada": "bom",
+    "anotada": "bo[0o]o[+m]"
+  },
+  {
+    "id": "#0111#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0112#vida_tars",
+    "arcaica": "mujtos",
+    "modernizada": "muitos",
+    "anotada": "muj[i]tos"
+  },
+  {
+    "id": "#0113#vida_tars",
+    "arcaica": "panos",
+    "modernizada": "panos",
+    "anotada": "panos"
+  },
+  {
+    "id": "#0114#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0115#vida_tars",
+    "arcaica": "grande",
+    "modernizada": "grande",
+    "anotada": "grande"
+  },
+  {
+    "id": "#0116#vida_tars",
+    "arcaica": "uallor",
+    "modernizada": "valor",
+    "anotada": "u[v]al[0l]lor"
+  },
+  {
+    "id": "#0117#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0118#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0119#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0120#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0121#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0122#vida_tars",
+    "arcaica": "a",
+    "modernizada": "há",
+    "anotada": "[+h]a[á]"
+  },
+  {
+    "id": "#0123#vida_tars",
+    "arcaica": "hy",
+    "modernizada": "hy<ali>",
+    "anotada": "hy<ali>"
+  },
+  {
+    "id": "#0124#vida_tars",
+    "arcaica": "outra",
+    "modernizada": "outra",
+    "anotada": "outra"
+  },
+  {
+    "id": "#0125#vida_tars",
+    "arcaica": "casa",
+    "modernizada": "casa",
+    "anotada": "casa"
+  },
+  {
+    "id": "#0126#vida_tars",
+    "arcaica": "mais",
+    "modernizada": "mais",
+    "anotada": "mais"
+  },
+  {
+    "id": "#0127#vida_tars",
+    "arcaica": "escusada",
+    "modernizada": "escusada",
+    "anotada": "escusada"
+  },
+  {
+    "id": "#0128#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0129#vida_tars",
+    "arcaica": "ascondida",
+    "modernizada": "escondida",
+    "anotada": "a[e]scondida"
+  },
+  {
+    "id": "#0130#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0131#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0132#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0133#vida_tars",
+    "arcaica": "ha",
+    "modernizada": "há",
+    "anotada": "ha[á]"
+  },
+  {
+    "id": "#0134#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0135#vida_tars",
+    "arcaica": "queres",
+    "modernizada": "queres",
+    "anotada": "queres"
+  },
+  {
+    "id": "#0136#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0137#vida_tars",
+    "arcaica": "nos",
+    "modernizada": "nos",
+    "anotada": "nos"
+  },
+  {
+    "id": "#0138#vida_tars",
+    "arcaica": "vaamos",
+    "modernizada": "vamos",
+    "anotada": "va[0a]amos"
+  },
+  {
+    "id": "#0139#vida_tars",
+    "arcaica": "pera",
+    "modernizada": "para",
+    "anotada": "pe[a]ra"
+  },
+  {
+    "id": "#0140#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0141#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0142#vida_tars",
+    "arcaica": "el",
+    "modernizada": "ele",
+    "anotada": "el[+e]"
+  },
+  {
+    "id": "#0143#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0144#vida_tars",
+    "arcaica": "ssy",
+    "modernizada": "sim",
+    "anotada": "s[0s]sy[i][+m]"
+  },
+  {
+    "id": "#0145#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0146#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0147#vida_tars",
+    "arcaica": "dise",
+    "modernizada": "disse",
+    "anotada": "dis[+s]e"
+  },
+  {
+    "id": "#0148#vida_tars",
+    "arcaica": "sse",
+    "modernizada": "se",
+    "anotada": "s[0s]se"
+  },
+  {
+    "id": "#0149#vida_tars",
+    "arcaica": "dos",
+    "modernizada": "dos",
+    "anotada": "dos"
+  },
+  {
+    "id": "#0150#vida_tars",
+    "arcaica": "homeẽs",
+    "modernizada": "homens",
+    "anotada": "homeẽ[n]s"
+  },
+  {
+    "id": "#0151#vida_tars",
+    "arcaica": "as",
+    "modernizada": "hás",
+    "anotada": "[+h]a[á]s"
+  },
+  {
+    "id": "#0152#vida_tars",
+    "arcaica": "uergonça",
+    "modernizada": "vergonhas",
+    "anotada": "u[v]ergonç[0ç][+h]a"
+  },
+  {
+    "id": "#0153#vida_tars",
+    "arcaica": "aque",
+    "modernizada": "aqui",
+    "anotada": "aque[i]"
+  },
+  {
+    "id": "#0154#vida_tars",
+    "arcaica": "te",
+    "modernizada": "te",
+    "anotada": "te"
+  },
+  {
+    "id": "#0155#vida_tars",
+    "arcaica": "nom",
+    "modernizada": "não",
+    "anotada": "no[ã]m[o]"
+  },
+  {
+    "id": "#0156#vida_tars",
+    "arcaica": "veera",
+    "modernizada": "verás",
+    "anotada": "ve[0e]era[á][+s]"
+  },
+  {
+    "id": "#0157#vida_tars",
+    "arcaica": "nehuũ",
+    "modernizada": "nenhum",
+    "anotada": "ne[+n]huũ[m]"
+  },
+  {
+    "id": "#0158#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0159#vida_tars",
+    "arcaica": "sse",
+    "modernizada": "se",
+    "anotada": "s[0s]se"
+  },
+  {
+    "id": "#0160#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0161#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0162#vida_tars",
+    "arcaica": "has",
+    "modernizada": "hás",
+    "anotada": "ha[á]s"
+  },
+  {
+    "id": "#0163#vida_tars",
+    "arcaica": "uergonça",
+    "modernizada": "vergonha",
+    "anotada": "u[v]ergonç[0ç][+h]a"
+  },
+  {
+    "id": "#0164#vida_tars",
+    "arcaica": "nom",
+    "modernizada": "não",
+    "anotada": "no[ã]m[o]"
+  },
+  {
+    "id": "#0165#vida_tars",
+    "arcaica": "ha",
+    "modernizada": "há",
+    "anotada": "ha[á]"
+  },
+  {
+    "id": "#0166#vida_tars",
+    "arcaica": "logar",
+    "modernizada": "lugar",
+    "anotada": "lo[u]gar"
+  },
+  {
+    "id": "#0167#vida_tars",
+    "arcaica": "hu",
+    "modernizada": "hu<onde>",
+    "anotada": "hu<onde>"
+  },
+  {
+    "id": "#0168#vida_tars",
+    "arcaica": "sse",
+    "modernizada": "se",
+    "anotada": "s[0s]se"
+  },
+  {
+    "id": "#0169#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0170#vida_tars",
+    "arcaica": "homẽ",
+    "modernizada": "homem",
+    "anotada": "homẽ[e][+m]"
+  },
+  {
+    "id": "#0171#vida_tars",
+    "arcaica": "ascõda",
+    "modernizada": "esconda",
+    "anotada": "a[e]scõ[o][+n]da"
+  },
+  {
+    "id": "#0172#vida_tars",
+    "arcaica": "ante",
+    "modernizada": "diante",
+    "anotada": "[+d][+i]ante"
+  },
+  {
+    "id": "#0173#vida_tars",
+    "arcaica": "os",
+    "modernizada": "dos",
+    "anotada": "[+d]os"
+  },
+  {
+    "id": "#0174#vida_tars",
+    "arcaica": "seus",
+    "modernizada": "seus",
+    "anotada": "seus"
+  },
+  {
+    "id": "#0175#vida_tars",
+    "arcaica": "olhos",
+    "modernizada": "olhos",
+    "anotada": "olhos"
+  },
+  {
+    "id": "#0176#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0177#vida_tars",
+    "arcaica": "quando",
+    "modernizada": "quando",
+    "anotada": "quando"
+  },
+  {
+    "id": "#0178#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0179#vida_tars",
+    "arcaica": "uelho",
+    "modernizada": "velho",
+    "anotada": "u[v]elho"
+  },
+  {
+    "id": "#0180#vida_tars",
+    "arcaica": "esto",
+    "modernizada": "isto",
+    "anotada": "e[i]sto"
+  },
+  {
+    "id": "#0181#vida_tars",
+    "arcaica": "ouujo",
+    "modernizada": "ouviu",
+    "anotada": "ouu[v]j[i]o[u]"
+  },
+  {
+    "id": "#0182#vida_tars",
+    "arcaica": "dise lhe",
+    "modernizada": "disse-lhe",
+    "anotada": "dis[+s]e[0_][+-]lhe"
+  },
+  {
+    "id": "#0183#vida_tars",
+    "arcaica": "sabes",
+    "modernizada": "sabes",
+    "anotada": "sabes"
+  },
+  {
+    "id": "#0184#vida_tars",
+    "arcaica": "quem",
+    "modernizada": "quem",
+    "anotada": "quem"
+  },
+  {
+    "id": "#0185#vida_tars",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0186#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0187#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0188#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0189#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0190#vida_tars",
+    "arcaica": "ssey",
+    "modernizada": "sei",
+    "anotada": "s[0s]sey[i]"
+  },
+  {
+    "id": "#0191#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0192#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0193#vida_tars",
+    "arcaica": "sseu",
+    "modernizada": "seu",
+    "anotada": "s[0s]seu"
+  },
+  {
+    "id": "#0194#vida_tars",
+    "arcaica": "reygno",
+    "modernizada": "reino",
+    "anotada": "rey[i]g[0g]no"
+  },
+  {
+    "id": "#0195#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0196#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0197#vida_tars",
+    "arcaica": "tormento",
+    "modernizada": "tormento",
+    "anotada": "tormento"
+  },
+  {
+    "id": "#0198#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0199#vida_tars",
+    "arcaica": "aueram",
+    "modernizada": "haverão",
+    "anotada": "[+h]au[v]era[ã]m[o]"
+  },
+  {
+    "id": "#0200#vida_tars",
+    "arcaica": "aquelles",
+    "modernizada": "aqueles",
+    "anotada": "aquel[0l]les"
+  },
+  {
+    "id": "#0201#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0202#vida_tars",
+    "arcaica": "mal",
+    "modernizada": "mal",
+    "anotada": "mal"
+  },
+  {
+    "id": "#0203#vida_tars",
+    "arcaica": "fezerẽ",
+    "modernizada": "fizerem",
+    "anotada": "fe[i]zerẽ[e][+m]"
+  },
+  {
+    "id": "#0204#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0205#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0206#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0207#vida_tars",
+    "arcaica": "ssy",
+    "modernizada": "sim",
+    "anotada": "s[0s]sy[i][+m]"
+  },
+  {
+    "id": "#0208#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0209#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0210#vida_tars",
+    "arcaica": "velho",
+    "modernizada": "velho",
+    "anotada": "velho"
+  },
+  {
+    "id": "#0211#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0212#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0213#vida_tars",
+    "arcaica": "se",
+    "modernizada": "se",
+    "anotada": "se"
+  },
+  {
+    "id": "#0214#vida_tars",
+    "arcaica": "esto",
+    "modernizada": "isto",
+    "anotada": "e[i]sto"
+  },
+  {
+    "id": "#0215#vida_tars",
+    "arcaica": "sabes",
+    "modernizada": "sabes",
+    "anotada": "sabes"
+  },
+  {
+    "id": "#0216#vida_tars",
+    "arcaica": "por",
+    "modernizada": "por",
+    "anotada": "por"
+  },
+  {
+    "id": "#0217#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0218#vida_tars",
+    "arcaica": "fezeste",
+    "modernizada": "fizeste",
+    "anotada": "fe[i]zeste"
+  },
+  {
+    "id": "#0219#vida_tars",
+    "arcaica": "perder",
+    "modernizada": "perder",
+    "anotada": "perder"
+  },
+  {
+    "id": "#0220#vida_tars",
+    "arcaica": "tantas",
+    "modernizada": "tantas",
+    "anotada": "tantas"
+  },
+  {
+    "id": "#0221#vida_tars",
+    "arcaica": "almas",
+    "modernizada": "almas",
+    "anotada": "almas"
+  },
+  {
+    "id": "#0222#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0223#vida_tars",
+    "arcaica": "nam",
+    "modernizada": "não",
+    "anotada": "na[ã]m[o]"
+  },
+  {
+    "id": "#0224#vida_tars",
+    "arcaica": "tam",
+    "modernizada": "tão",
+    "anotada": "ta[ã]m[o]"
+  },
+  {
+    "id": "#0225#vida_tars",
+    "arcaica": "soomente",
+    "modernizada": "somente",
+    "anotada": "so[0o]omente"
+  },
+  {
+    "id": "#0226#vida_tars",
+    "arcaica": "pella",
+    "modernizada": "pela",
+    "anotada": "pel[0l]la"
+  },
+  {
+    "id": "#0227#vida_tars",
+    "arcaica": "tua",
+    "modernizada": "tua",
+    "anotada": "tua"
+  },
+  {
+    "id": "#0228#vida_tars",
+    "arcaica": "mais",
+    "modernizada": "mas",
+    "anotada": "mai[0i]s"
+  },
+  {
+    "id": "#0229#vida_tars",
+    "arcaica": "pellas",
+    "modernizada": "pelas",
+    "anotada": "pel[0l]las"
+  },
+  {
+    "id": "#0230#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0231#vida_tars",
+    "arcaica": "mujtos",
+    "modernizada": "muitos",
+    "anotada": "muj[i]tos"
+  },
+  {
+    "id": "#0232#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0233#vida_tars",
+    "arcaica": "fezeste",
+    "modernizada": "fizeste",
+    "anotada": "fe[i]zeste"
+  },
+  {
+    "id": "#0234#vida_tars",
+    "arcaica": "perder",
+    "modernizada": "perder",
+    "anotada": "perder"
+  },
+  {
+    "id": "#0235#vida_tars",
+    "arcaica": "porque",
+    "modernizada": "porque",
+    "anotada": "porque"
+  },
+  {
+    "id": "#0236#vida_tars",
+    "arcaica": "por",
+    "modernizada": "por",
+    "anotada": "por"
+  },
+  {
+    "id": "#0237#vida_tars",
+    "arcaica": "todas",
+    "modernizada": "todas",
+    "anotada": "todas"
+  },
+  {
+    "id": "#0238#vida_tars",
+    "arcaica": "daras",
+    "modernizada": "darás",
+    "anotada": "dara[á]s"
+  },
+  {
+    "id": "#0239#vida_tars",
+    "arcaica": "conto",
+    "modernizada": "conta",
+    "anotada": "conto[a]"
+  },
+  {
+    "id": "#0240#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0241#vida_tars",
+    "arcaica": "rrazom",
+    "modernizada": "razão",
+    "anotada": "r[0r]razo[ã]m[o]"
+  },
+  {
+    "id": "#0242#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0243#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0244#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0245#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0246#vida_tars",
+    "arcaica": "quando",
+    "modernizada": "quando",
+    "anotada": "quando"
+  },
+  {
+    "id": "#0247#vida_tars",
+    "arcaica": "esto",
+    "modernizada": "isto",
+    "anotada": "e[i]sto"
+  },
+  {
+    "id": "#0248#vida_tars",
+    "arcaica": "ouujo",
+    "modernizada": "ouviu",
+    "anotada": "ouu[v]j[i]o[u]"
+  },
+  {
+    "id": "#0249#vida_tars",
+    "arcaica": "começou",
+    "modernizada": "começou",
+    "anotada": "começou"
+  },
+  {
+    "id": "#0250#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0251#vida_tars",
+    "arcaica": "chorar",
+    "modernizada": "chorar",
+    "anotada": "chorar"
+  },
+  {
+    "id": "#0252#vida_tars",
+    "arcaica": "fortemẽte",
+    "modernizada": "fortemente",
+    "anotada": "fortemẽ[e][+n]te"
+  },
+  {
+    "id": "#0253#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0254#vida_tars",
+    "arcaica": "cayo lhe",
+    "modernizada": "caiu-lhe",
+    "anotada": "cay[i]o[u][0_][+-]lhe"
+  },
+  {
+    "id": "#0255#vida_tars",
+    "arcaica": "aos",
+    "modernizada": "aos",
+    "anotada": "aos"
+  },
+  {
+    "id": "#0256#vida_tars",
+    "arcaica": "pees",
+    "modernizada": "pés",
+    "anotada": "pe[0e]e[é]s"
+  },
+  {
+    "id": "#0257#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0258#vida_tars",
+    "arcaica": "disse lhe",
+    "modernizada": "disse-lhe",
+    "anotada": "disse[0_][+-]lhe"
+  },
+  {
+    "id": "#0259#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0260#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0261#vida_tars",
+    "arcaica": "desse",
+    "modernizada": "desse",
+    "anotada": "desse"
+  },
+  {
+    "id": "#0262#vida_tars",
+    "arcaica": "peendença",
+    "modernizada": "peendença <penitência>",
+    "anotada": "peendença <penitência>"
+  },
+  {
+    "id": "#0263#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0264#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0265#vida_tars",
+    "arcaica": "orasse",
+    "modernizada": "orasse",
+    "anotada": "orasse"
+  },
+  {
+    "id": "#0266#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0267#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0268#vida_tars",
+    "arcaica": "por",
+    "modernizada": "por",
+    "anotada": "por"
+  },
+  {
+    "id": "#0269#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0270#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0271#vida_tars",
+    "arcaica": "pedio lhe",
+    "modernizada": "pediu-lhe",
+    "anotada": "pedio[u][0_][+-]lhe"
+  },
+  {
+    "id": "#0272#vida_tars",
+    "arcaica": "espaço",
+    "modernizada": "espaço",
+    "anotada": "espaço"
+  },
+  {
+    "id": "#0273#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0274#vida_tars",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0275#vida_tars",
+    "arcaica": "dias",
+    "modernizada": "dias",
+    "anotada": "dias"
+  },
+  {
+    "id": "#0276#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0277#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0278#vida_tars",
+    "arcaica": "a",
+    "modernizada": "ao",
+    "anotada": "a[+o]"
+  },
+  {
+    "id": "#0279#vida_tars",
+    "arcaica": "cabo",
+    "modernizada": "cabo",
+    "anotada": "cabo"
+  },
+  {
+    "id": "#0280#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0281#vida_tars",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0282#vida_tars",
+    "arcaica": "dias",
+    "modernizada": "dias",
+    "anotada": "dias"
+  },
+  {
+    "id": "#0283#vida_tars",
+    "arcaica": "faria",
+    "modernizada": "faria",
+    "anotada": "faria"
+  },
+  {
+    "id": "#0284#vida_tars",
+    "arcaica": "qualquer",
+    "modernizada": "qualquer",
+    "anotada": "qualquer"
+  },
+  {
+    "id": "#0285#vida_tars",
+    "arcaica": "cousa",
+    "modernizada": "coisa",
+    "anotada": "cou[i]sa"
+  },
+  {
+    "id": "#0286#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0287#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0288#vida_tars",
+    "arcaica": "el",
+    "modernizada": "ele",
+    "anotada": "el[+e]"
+  },
+  {
+    "id": "#0289#vida_tars",
+    "arcaica": "mandasse",
+    "modernizada": "mandasse",
+    "anotada": "mandasse"
+  },
+  {
+    "id": "#0290#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0291#vida_tars",
+    "arcaica": "filhou",
+    "modernizada": "filhou",
+    "anotada": "filhou"
+  },
+  {
+    "id": "#0292#vida_tars",
+    "arcaica": "cem",
+    "modernizada": "cem",
+    "anotada": "cem"
+  },
+  {
+    "id": "#0293#vida_tars",
+    "arcaica": "marcos",
+    "modernizada": "marcos",
+    "anotada": "marcos"
+  },
+  {
+    "id": "#0294#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0295#vida_tars",
+    "arcaica": "ouro",
+    "modernizada": "ouro",
+    "anotada": "ouro"
+  },
+  {
+    "id": "#0296#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0297#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0298#vida_tars",
+    "arcaica": "prata",
+    "modernizada": "prata",
+    "anotada": "prata"
+  },
+  {
+    "id": "#0299#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0300#vida_tars",
+    "arcaica": "mujto",
+    "modernizada": "muito",
+    "anotada": "muj[i]to"
+  },
+  {
+    "id": "#0301#vida_tars",
+    "arcaica": "aljofar",
+    "modernizada": "aljôfar",
+    "anotada": "aljo[ô]far"
+  },
+  {
+    "id": "#0302#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0303#vida_tars",
+    "arcaica": "mujtas",
+    "modernizada": "muitas",
+    "anotada": "muj[i]tas"
+  },
+  {
+    "id": "#0304#vida_tars",
+    "arcaica": "outras",
+    "modernizada": "outras",
+    "anotada": "outras"
+  },
+  {
+    "id": "#0305#vida_tars",
+    "arcaica": "doas",
+    "modernizada": "doas",
+    "anotada": "doas"
+  },
+  {
+    "id": "#0306#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0307#vida_tars",
+    "arcaica": "panos",
+    "modernizada": "panos",
+    "anotada": "panos"
+  },
+  {
+    "id": "#0308#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0309#vida_tars",
+    "arcaica": "sirgo",
+    "modernizada": "sirgo",
+    "anotada": "sirgo"
+  },
+  {
+    "id": "#0310#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0311#vida_tars",
+    "arcaica": "tijnha",
+    "modernizada": "tinha",
+    "anotada": "tij[0j]nha"
+  },
+  {
+    "id": "#0312#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0313#vida_tars",
+    "arcaica": "veo",
+    "modernizada": "veio",
+    "anotada": "ve[+i]o"
+  },
+  {
+    "id": "#0314#vida_tars",
+    "arcaica": "sse",
+    "modernizada": "se",
+    "anotada": "s[0s]se"
+  },
+  {
+    "id": "#0315#vida_tars",
+    "arcaica": "cõ",
+    "modernizada": "com",
+    "anotada": "cõ[o][+m]"
+  },
+  {
+    "id": "#0316#vida_tars",
+    "arcaica": "elle",
+    "modernizada": "ele",
+    "anotada": "el[0l]le"
+  },
+  {
+    "id": "#0317#vida_tars",
+    "arcaica": "aa",
+    "modernizada": "à",
+    "anotada": "a[0a]a[à]"
+  },
+  {
+    "id": "#0318#vida_tars",
+    "arcaica": "praça",
+    "modernizada": "praça",
+    "anotada": "praça"
+  },
+  {
+    "id": "#0319#vida_tars",
+    "arcaica": "da",
+    "modernizada": "da",
+    "anotada": "da"
+  },
+  {
+    "id": "#0320#vida_tars",
+    "arcaica": "ujla",
+    "modernizada": "vila",
+    "anotada": "u[v]j[i]la"
+  },
+  {
+    "id": "#0321#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0322#vida_tars",
+    "arcaica": "começou",
+    "modernizada": "começou",
+    "anotada": "começou"
+  },
+  {
+    "id": "#0323#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0324#vida_tars",
+    "arcaica": "braadar",
+    "modernizada": "bradar",
+    "anotada": "bra[0a]adar"
+  },
+  {
+    "id": "#0325#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0326#vida_tars",
+    "arcaica": "dizer",
+    "modernizada": "dizer",
+    "anotada": "dizer"
+  },
+  {
+    "id": "#0327#vida_tars",
+    "arcaica": "vinde",
+    "modernizada": "vinde",
+    "anotada": "vinde"
+  },
+  {
+    "id": "#0328#vida_tars",
+    "arcaica": "ueer",
+    "modernizada": "ver",
+    "anotada": "u[v]e[0e]er"
+  },
+  {
+    "id": "#0329#vida_tars",
+    "arcaica": "amadores",
+    "modernizada": "amadores",
+    "anotada": "amadores"
+  },
+  {
+    "id": "#0330#vida_tars",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0331#vida_tars",
+    "arcaica": "mundo",
+    "modernizada": "mundo",
+    "anotada": "mundo"
+  },
+  {
+    "id": "#0332#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0333#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0334#vida_tars",
+    "arcaica": "eu",
+    "modernizada": "eu",
+    "anotada": "eu"
+  },
+  {
+    "id": "#0335#vida_tars",
+    "arcaica": "conuosco",
+    "modernizada": "convosco",
+    "anotada": "conu[v]osco"
+  },
+  {
+    "id": "#0336#vida_tars",
+    "arcaica": "gaanhey",
+    "modernizada": "ganhei",
+    "anotada": "ga[0a]anhey[i]"
+  },
+  {
+    "id": "#0337#vida_tars",
+    "arcaica": "como",
+    "modernizada": "como",
+    "anotada": "como"
+  },
+  {
+    "id": "#0338#vida_tars",
+    "arcaica": "ho",
+    "modernizada": "o",
+    "anotada": "eu"
+  },
+  {
+    "id": "#0339#vida_tars",
+    "arcaica": "eu",
+    "modernizada": "eu",
+    "anotada": "eu"
+  },
+  {
+    "id": "#0340#vida_tars",
+    "arcaica": "aquy",
+    "modernizada": "aqui",
+    "anotada": "aquy[i]"
+  },
+  {
+    "id": "#0341#vida_tars",
+    "arcaica": "queymo",
+    "modernizada": "queimo",
+    "anotada": "quey[i]mo"
+  },
+  {
+    "id": "#0342#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0343#vida_tars",
+    "arcaica": "desy",
+    "modernizada": "desy<depois>",
+    "anotada": "desy<depois>"
+  },
+  {
+    "id": "#0344#vida_tars",
+    "arcaica": "posselhe",
+    "modernizada": "pôs-se-lhe",
+    "anotada": "po[ô]s[+-]se[+-]lhe"
+  },
+  {
+    "id": "#0345#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0346#vida_tars",
+    "arcaica": "ffogo",
+    "modernizada": "fogo",
+    "anotada": "f[0f]fogo"
+  },
+  {
+    "id": "#0347#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0348#vida_tars",
+    "arcaica": "queymou o",
+    "modernizada": "queimou-o",
+    "anotada": "quey[i]mou[0_][+-]o"
+  },
+  {
+    "id": "#0349#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0350#vida_tars",
+    "arcaica": "esto",
+    "modernizada": "isto",
+    "anotada": "e[i]sto"
+  },
+  {
+    "id": "#0351#vida_tars",
+    "arcaica": "acabado",
+    "modernizada": "acabado",
+    "anotada": "acabado"
+  },
+  {
+    "id": "#0352#vida_tars",
+    "arcaica": "foi se",
+    "modernizada": "foi-se",
+    "anotada": "foi[0_][+-]se"
+  },
+  {
+    "id": "#0353#vida_tars",
+    "arcaica": "pera",
+    "modernizada": "para",
+    "anotada": "pe[a]ra"
+  },
+  {
+    "id": "#0354#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0355#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0356#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0357#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0358#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0359#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0360#vida_tars",
+    "arcaica": "mandou",
+    "modernizada": "mandou",
+    "anotada": "mandou"
+  },
+  {
+    "id": "#0361#vida_tars",
+    "arcaica": "fazer",
+    "modernizada": "fazer",
+    "anotada": "fazer"
+  },
+  {
+    "id": "#0362#vida_tars",
+    "arcaica": "hũua",
+    "modernizada": "uma",
+    "anotada": "h[0h]ũ[0ũ]u[+m]a"
+  },
+  {
+    "id": "#0363#vida_tars",
+    "arcaica": "çella",
+    "modernizada": "cela",
+    "anotada": "ç[c]el[0l]la"
+  },
+  {
+    "id": "#0364#vida_tars",
+    "arcaica": "pequena",
+    "modernizada": "pequena",
+    "anotada": "pequena"
+  },
+  {
+    "id": "#0365#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0366#vida_tars",
+    "arcaica": "par",
+    "modernizada": "par",
+    "anotada": "par"
+  },
+  {
+    "id": "#0367#vida_tars",
+    "arcaica": "d’hũu",
+    "modernizada": "de um",
+    "anotada": "d’[e][+_]h[0h]ũ[0ũ]u[+m]"
+  },
+  {
+    "id": "#0368#vida_tars",
+    "arcaica": "mosteyro",
+    "modernizada": "mosteiro",
+    "anotada": "mostey[i]ro"
+  },
+  {
+    "id": "#0369#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0370#vida_tars",
+    "arcaica": "donas",
+    "modernizada": "donas",
+    "anotada": "donas"
+  },
+  {
+    "id": "#0371#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0372#vida_tars",
+    "arcaica": "mandou",
+    "modernizada": "mandou",
+    "anotada": "mandou"
+  },
+  {
+    "id": "#0373#vida_tars",
+    "arcaica": "lha",
+    "modernizada": "lhe",
+    "anotada": "lha[e]"
+  },
+  {
+    "id": "#0374#vida_tars",
+    "arcaica": "mujto",
+    "modernizada": "muito",
+    "anotada": "muj[i]to"
+  },
+  {
+    "id": "#0375#vida_tars",
+    "arcaica": "bem",
+    "modernizada": "bem",
+    "anotada": "bem"
+  },
+  {
+    "id": "#0376#vida_tars",
+    "arcaica": "çarrar",
+    "modernizada": "cerrar",
+    "anotada": "ç[c]a[e]rrar"
+  },
+  {
+    "id": "#0377#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0378#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0379#vida_tars",
+    "arcaica": "nom",
+    "modernizada": "não",
+    "anotada": "no[ã]m[o]"
+  },
+  {
+    "id": "#0380#vida_tars",
+    "arcaica": "leixou",
+    "modernizada": "deixou",
+    "anotada": "l[d]eixou"
+  },
+  {
+    "id": "#0381#vida_tars",
+    "arcaica": "sse",
+    "modernizada": "se",
+    "anotada": "s[0s]se"
+  },
+  {
+    "id": "#0382#vida_tars",
+    "arcaica": "nom",
+    "modernizada": "não",
+    "anotada": "no[ã]m[o]"
+  },
+  {
+    "id": "#0383#vida_tars",
+    "arcaica": "hũa",
+    "modernizada": "uma",
+    "anotada": "h[0h]ũ[u][+m]a"
+  },
+  {
+    "id": "#0384#vida_tars",
+    "arcaica": "janella",
+    "modernizada": "janela",
+    "anotada": "janel[0l]la"
+  },
+  {
+    "id": "#0385#vida_tars",
+    "arcaica": "pequena",
+    "modernizada": "pequena",
+    "anotada": "pequena"
+  },
+  {
+    "id": "#0386#vida_tars",
+    "arcaica": "per",
+    "modernizada": "para",
+    "anotada": "pe[a]r[+a]"
+  },
+  {
+    "id": "#0387#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0388#vida_tars",
+    "arcaica": "uisse",
+    "modernizada": "visse",
+    "anotada": "u[v]isse"
+  },
+  {
+    "id": "#0389#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0390#vida_tars",
+    "arcaica": "mandou",
+    "modernizada": "mandou",
+    "anotada": "mandou"
+  },
+  {
+    "id": "#0391#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0392#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0393#vida_tars",
+    "arcaica": "comesse",
+    "modernizada": "comesse",
+    "anotada": "comesse"
+  },
+  {
+    "id": "#0394#vida_tars",
+    "arcaica": "hũu",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u][+m]"
+  },
+  {
+    "id": "#0395#vida_tars",
+    "arcaica": "pouco",
+    "modernizada": "pouco",
+    "anotada": "pouco"
+  },
+  {
+    "id": "#0396#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0397#vida_tars",
+    "arcaica": "pom",
+    "modernizada": "pão",
+    "anotada": "po[ã]m[o]"
+  },
+  {
+    "id": "#0398#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0399#vida_tars",
+    "arcaica": "d’auga",
+    "modernizada": "de água",
+    "anotada": "d’[e][+_]a[á]u[0u]g[+u]a"
+  },
+  {
+    "id": "#0400#vida_tars",
+    "arcaica": "cada",
+    "modernizada": "cada",
+    "anotada": "cada"
+  },
+  {
+    "id": "#0401#vida_tars",
+    "arcaica": "dia",
+    "modernizada": "dia",
+    "anotada": "dia"
+  },
+  {
+    "id": "#0402#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0403#vida_tars",
+    "arcaica": "mais",
+    "modernizada": "mais",
+    "anotada": "mais"
+  },
+  {
+    "id": "#0404#vida_tars",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0405#vida_tars",
+    "arcaica": "e",
+    "modernizada": "a",
+    "anotada": "e[a]"
+  },
+  {
+    "id": "#0406#vida_tars",
+    "arcaica": "ẽsynou lhe",
+    "modernizada": "ensinou-lhe",
+    "anotada": "ẽ[e][+n]sy[i]nou[0_][+-]lhe"
+  },
+  {
+    "id": "#0407#vida_tars",
+    "arcaica": "como",
+    "modernizada": "como",
+    "anotada": "como"
+  },
+  {
+    "id": "#0408#vida_tars",
+    "arcaica": "orasse",
+    "modernizada": "orasse",
+    "anotada": "orasse"
+  },
+  {
+    "id": "#0409#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0410#vida_tars",
+    "arcaica": "dise lhe",
+    "modernizada": "disse-lhe",
+    "anotada": "dis[+s]e[0_][+-]lhe"
+  },
+  {
+    "id": "#0411#vida_tars",
+    "arcaica": "tu",
+    "modernizada": "tu",
+    "anotada": "tu"
+  },
+  {
+    "id": "#0412#vida_tars",
+    "arcaica": "nom",
+    "modernizada": "não",
+    "anotada": "no[ã]m[o]"
+  },
+  {
+    "id": "#0413#vida_tars",
+    "arcaica": "es",
+    "modernizada": "és",
+    "anotada": "e[é]s"
+  },
+  {
+    "id": "#0414#vida_tars",
+    "arcaica": "digna",
+    "modernizada": "digna",
+    "anotada": "digna"
+  },
+  {
+    "id": "#0415#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0416#vida_tars",
+    "arcaica": "nomear",
+    "modernizada": "nomear",
+    "anotada": "nomear"
+  },
+  {
+    "id": "#0417#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0418#vida_tars",
+    "arcaica": "nome",
+    "modernizada": "nome",
+    "anotada": "nome"
+  },
+  {
+    "id": "#0419#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0420#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0421#vida_tars",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0422#vida_tars",
+    "arcaica": "es",
+    "modernizada": "és",
+    "anotada": "e[é]s"
+  },
+  {
+    "id": "#0423#vida_tars",
+    "arcaica": "digna",
+    "modernizada": "digna",
+    "anotada": "digna"
+  },
+  {
+    "id": "#0424#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0425#vida_tars",
+    "arcaica": "alçar",
+    "modernizada": "alçar",
+    "anotada": "alçar"
+  },
+  {
+    "id": "#0426#vida_tars",
+    "arcaica": "as",
+    "modernizada": "as",
+    "anotada": "as"
+  },
+  {
+    "id": "#0427#vida_tars",
+    "arcaica": "maaos",
+    "modernizada": "mãos",
+    "anotada": "ma[0a]a[ã]os"
+  },
+  {
+    "id": "#0428#vida_tars",
+    "arcaica": "contra",
+    "modernizada": "contra",
+    "anotada": "contra"
+  },
+  {
+    "id": "#0429#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0430#vida_tars",
+    "arcaica": "çeeo",
+    "modernizada": "céu",
+    "anotada": "ç[c]e[é]e[0e]o[u]"
+  },
+  {
+    "id": "#0431#vida_tars",
+    "arcaica": "porque",
+    "modernizada": "porque",
+    "anotada": "porque"
+  },
+  {
+    "id": "#0432#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0433#vida_tars",
+    "arcaica": "teuos",
+    "modernizada": "teus",
+    "anotada": "teuo[0o]s"
+  },
+  {
+    "id": "#0434#vida_tars",
+    "arcaica": "olhos",
+    "modernizada": "olhos",
+    "anotada": "olhos"
+  },
+  {
+    "id": "#0435#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0436#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0437#vida_tars",
+    "arcaica": "teus",
+    "modernizada": "teus",
+    "anotada": "teus"
+  },
+  {
+    "id": "#0438#vida_tars",
+    "arcaica": "beyços",
+    "modernizada": "beiços",
+    "anotada": "bey[i]ços"
+  },
+  {
+    "id": "#0439#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0440#vida_tars",
+    "arcaica": "as",
+    "modernizada": "as",
+    "anotada": "as"
+  },
+  {
+    "id": "#0441#vida_tars",
+    "arcaica": "tuas",
+    "modernizada": "tuas",
+    "anotada": "tuas"
+  },
+  {
+    "id": "#0442#vida_tars",
+    "arcaica": "maaos",
+    "modernizada": "mãos",
+    "anotada": "ma[0a]a[ã]os"
+  },
+  {
+    "id": "#0443#vida_tars",
+    "arcaica": "ouerom",
+    "modernizada": "houveram",
+    "anotada": "[+h]ou[v]ero[a]m"
+  },
+  {
+    "id": "#0444#vida_tars",
+    "arcaica": "grandes",
+    "modernizada": "grandes",
+    "anotada": "grandes"
+  },
+  {
+    "id": "#0445#vida_tars",
+    "arcaica": "maldades",
+    "modernizada": "maldades",
+    "anotada": "maldades"
+  },
+  {
+    "id": "#0446#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0447#vida_tars",
+    "arcaica": "grandes",
+    "modernizada": "grandes",
+    "anotada": "grandes"
+  },
+  {
+    "id": "#0448#vida_tars",
+    "arcaica": "pecados",
+    "modernizada": "pecados",
+    "anotada": "pecados"
+  },
+  {
+    "id": "#0449#vida_tars",
+    "arcaica": "mais",
+    "modernizada": "mas",
+    "anotada": "mai[0i]s"
+  },
+  {
+    "id": "#0450#vida_tars",
+    "arcaica": "tam",
+    "modernizada": "tão",
+    "anotada": "ta[ã]m[o]"
+  },
+  {
+    "id": "#0451#vida_tars",
+    "arcaica": "ssoomente",
+    "modernizada": "somente",
+    "anotada": "s[0s]so[0o]omente"
+  },
+  {
+    "id": "#0452#vida_tars",
+    "arcaica": "olha",
+    "modernizada": "olha",
+    "anotada": "olha"
+  },
+  {
+    "id": "#0453#vida_tars",
+    "arcaica": "contra",
+    "modernizada": "contra",
+    "anotada": "contra"
+  },
+  {
+    "id": "#0454#vida_tars",
+    "arcaica": "ho",
+    "modernizada": "o",
+    "anotada": "h[0h]o"
+  },
+  {
+    "id": "#0455#vida_tars",
+    "arcaica": "ouryente",
+    "modernizada": "oriente",
+    "anotada": "ou[0u]ry[i]ente"
+  },
+  {
+    "id": "#0456#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0457#vida_tars",
+    "arcaica": "pide",
+    "modernizada": "pede",
+    "anotada": "pi[e]de"
+  },
+  {
+    "id": "#0458#vida_tars",
+    "arcaica": "assy",
+    "modernizada": "assim",
+    "anotada": "assy[i][+m]"
+  },
+  {
+    "id": "#0459#vida_tars",
+    "arcaica": "senhor",
+    "modernizada": "senhor",
+    "anotada": "senhor"
+  },
+  {
+    "id": "#0460#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0461#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0462#vida_tars",
+    "arcaica": "me",
+    "modernizada": "me",
+    "anotada": "me"
+  },
+  {
+    "id": "#0463#vida_tars",
+    "arcaica": "fezeste",
+    "modernizada": "fizeste",
+    "anotada": "fe[i]zeste"
+  },
+  {
+    "id": "#0464#vida_tars",
+    "arcaica": "amerçea te",
+    "modernizada": "amerceia-te",
+    "anotada": "amerç[c]e[+i]a[0_][+-]te"
+  },
+  {
+    "id": "#0465#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0466#vida_tars",
+    "arcaica": "mỹ",
+    "modernizada": "mim",
+    "anotada": "mỹ[i][+m]"
+  },
+  {
+    "id": "#0467#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0468#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0469#vida_tars",
+    "arcaica": "esteue",
+    "modernizada": "esteve",
+    "anotada": "esteu[v]e"
+  },
+  {
+    "id": "#0470#vida_tars",
+    "arcaica": "em aquella",
+    "modernizada": "naquela",
+    "anotada": "e[0e]m[n][0_]aquel[0l]la"
+  },
+  {
+    "id": "#0471#vida_tars",
+    "arcaica": "casa",
+    "modernizada": "casa",
+    "anotada": "casa"
+  },
+  {
+    "id": "#0472#vida_tars",
+    "arcaica": "per",
+    "modernizada": "por",
+    "anotada": "pe[o]r"
+  },
+  {
+    "id": "#0473#vida_tars",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0474#vida_tars",
+    "arcaica": "annos",
+    "modernizada": "anos",
+    "anotada": "an[0n]nos"
+  },
+  {
+    "id": "#0475#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0476#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0477#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0478#vida_tars",
+    "arcaica": "panunçio",
+    "modernizada": "panúncio",
+    "anotada": "panu[ú]nç[c]io"
+  },
+  {
+    "id": "#0479#vida_tars",
+    "arcaica": "doeusse",
+    "modernizada": "doeu-se",
+    "anotada": "doeu[+-]se"
+  },
+  {
+    "id": "#0480#vida_tars",
+    "arcaica": "della",
+    "modernizada": "dela",
+    "anotada": "del[0l]la"
+  },
+  {
+    "id": "#0481#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0482#vida_tars",
+    "arcaica": "foysse",
+    "modernizada": "foi-se",
+    "anotada": "foy[i][+-]se"
+  },
+  {
+    "id": "#0483#vida_tars",
+    "arcaica": "pera",
+    "modernizada": "para",
+    "anotada": "pe[a]ra"
+  },
+  {
+    "id": "#0484#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0485#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0486#vida_tars",
+    "arcaica": "antonjo",
+    "modernizada": "antônio",
+    "anotada": "anto[ô]nj[i]o"
+  },
+  {
+    "id": "#0487#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0488#vida_tars",
+    "arcaica": "cõtoulhe",
+    "modernizada": "contou-lhe",
+    "anotada": "cõ[o][+n]tou[+-]lhe"
+  },
+  {
+    "id": "#0489#vida_tars",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0490#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0491#vida_tars",
+    "arcaica": "feyto",
+    "modernizada": "feito",
+    "anotada": "fey[i]to"
+  },
+  {
+    "id": "#0492#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0493#vida_tars",
+    "arcaica": "rogoulhe",
+    "modernizada": "rogou-lhe",
+    "anotada": "rogou[+-]lhe"
+  },
+  {
+    "id": "#0494#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0495#vida_tars",
+    "arcaica": "orasse",
+    "modernizada": "orasse",
+    "anotada": "orasse"
+  },
+  {
+    "id": "#0496#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0497#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0498#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0499#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0500#vida_tars",
+    "arcaica": "mostrasse",
+    "modernizada": "mostrasse",
+    "anotada": "mostrasse"
+  },
+  {
+    "id": "#0501#vida_tars",
+    "arcaica": "sse",
+    "modernizada": "se",
+    "anotada": "s[0s]se"
+  },
+  {
+    "id": "#0502#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0503#vida_tars",
+    "arcaica": "perdoara",
+    "modernizada": "perdoara",
+    "anotada": "perdoara"
+  },
+  {
+    "id": "#0504#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0505#vida_tars",
+    "arcaica": "sseus",
+    "modernizada": "seus",
+    "anotada": "s[0s]seus"
+  },
+  {
+    "id": "#0506#vida_tars",
+    "arcaica": "pecados",
+    "modernizada": "pecados",
+    "anotada": "pecados"
+  },
+  {
+    "id": "#0507#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0508#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0509#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0510#vida_tars",
+    "arcaica": "antonio",
+    "modernizada": "antônio",
+    "anotada": "anto[ô]nio"
+  },
+  {
+    "id": "#0511#vida_tars",
+    "arcaica": "chamou",
+    "modernizada": "chamou",
+    "anotada": "chamou"
+  },
+  {
+    "id": "#0512#vida_tars",
+    "arcaica": "todos",
+    "modernizada": "todos",
+    "anotada": "todos"
+  },
+  {
+    "id": "#0513#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0514#vida_tars",
+    "arcaica": "seus",
+    "modernizada": "seus",
+    "anotada": "seus"
+  },
+  {
+    "id": "#0515#vida_tars",
+    "arcaica": "disçipolos",
+    "modernizada": "discípulos",
+    "anotada": "disç[c]i[í]po[u]los"
+  },
+  {
+    "id": "#0516#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0517#vida_tars",
+    "arcaica": "disselhes",
+    "modernizada": "disse-lhes",
+    "anotada": "disse[+-]lhes"
+  },
+  {
+    "id": "#0518#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0519#vida_tars",
+    "arcaica": "orassem",
+    "modernizada": "orassem",
+    "anotada": "orassem"
+  },
+  {
+    "id": "#0520#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0521#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0522#vida_tars",
+    "arcaica": "sse",
+    "modernizada": "se",
+    "anotada": "s[0s]se"
+  },
+  {
+    "id": "#0523#vida_tars",
+    "arcaica": "perdoara",
+    "modernizada": "perdoara",
+    "anotada": "perdoara"
+  },
+  {
+    "id": "#0524#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0525#vida_tars",
+    "arcaica": "pecados",
+    "modernizada": "pecados",
+    "anotada": "pecados"
+  },
+  {
+    "id": "#0526#vida_tars",
+    "arcaica": "aaquela",
+    "modernizada": "daquela",
+    "anotada": "[+d]a[0a]aquela"
+  },
+  {
+    "id": "#0527#vida_tars",
+    "arcaica": "molher",
+    "modernizada": "mulher",
+    "anotada": "mo[u]lher"
+  },
+  {
+    "id": "#0528#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0529#vida_tars",
+    "arcaica": "paullo",
+    "modernizada": "paulo",
+    "anotada": "paul[0l]lo"
+  },
+  {
+    "id": "#0530#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0531#vida_tars",
+    "arcaica": "sinprez",
+    "modernizada": "simples",
+    "anotada": "sin[m]pr[l]ez[s]"
+  },
+  {
+    "id": "#0532#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0533#vida_tars",
+    "arcaica": "mayor",
+    "modernizada": "maior",
+    "anotada": "may[i]or"
+  },
+  {
+    "id": "#0534#vida_tars",
+    "arcaica": "dos",
+    "modernizada": "dos",
+    "anotada": "dos"
+  },
+  {
+    "id": "#0535#vida_tars",
+    "arcaica": "diçipollos",
+    "modernizada": "discípulos",
+    "anotada": "di[+s]ç[c]i[í]po[u]l[0l]los"
+  },
+  {
+    "id": "#0536#vida_tars",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0537#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0538#vida_tars",
+    "arcaica": "antonjo",
+    "modernizada": "antônio",
+    "anotada": "anto[ô]nj[i]o"
+  },
+  {
+    "id": "#0539#vida_tars",
+    "arcaica": "vyo",
+    "modernizada": "viu",
+    "anotada": "vy[i]o[u]"
+  },
+  {
+    "id": "#0540#vida_tars",
+    "arcaica": "vijr",
+    "modernizada": "vir",
+    "anotada": "vij[0j]r"
+  },
+  {
+    "id": "#0541#vida_tars",
+    "arcaica": "pello",
+    "modernizada": "pelo",
+    "anotada": "pel[0l]lo"
+  },
+  {
+    "id": "#0542#vida_tars",
+    "arcaica": "çeeo",
+    "modernizada": "céu",
+    "anotada": "ç[c]e[é]e[0e]o[u]"
+  },
+  {
+    "id": "#0543#vida_tars",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0544#vida_tars",
+    "arcaica": "leyto",
+    "modernizada": "leito",
+    "anotada": "ley[i]to"
+  },
+  {
+    "id": "#0545#vida_tars",
+    "arcaica": "muj",
+    "modernizada": "muito",
+    "anotada": "muj[i][+t][+o]"
+  },
+  {
+    "id": "#0546#vida_tars",
+    "arcaica": "bem",
+    "modernizada": "bem",
+    "anotada": "bem"
+  },
+  {
+    "id": "#0547#vida_tars",
+    "arcaica": "afeytado",
+    "modernizada": "enfeitado",
+    "anotada": "a[e][+n]fey[i]tado"
+  },
+  {
+    "id": "#0548#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0549#vida_tars",
+    "arcaica": "panos",
+    "modernizada": "panos",
+    "anotada": "panos"
+  },
+  {
+    "id": "#0550#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0551#vida_tars",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0552#vida_tars",
+    "arcaica": "virgees",
+    "modernizada": "virgens",
+    "anotada": "virgee[n]s"
+  },
+  {
+    "id": "#0553#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0554#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0555#vida_tars",
+    "arcaica": "guardauã",
+    "modernizada": "guardavam",
+    "anotada": "guardau[v]ã[a][+m]"
+  },
+  {
+    "id": "#0556#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0557#vida_tars",
+    "arcaica": "paulo",
+    "modernizada": "paulo",
+    "anotada": "paulo"
+  },
+  {
+    "id": "#0558#vida_tars",
+    "arcaica": "coidou",
+    "modernizada": "cuidou",
+    "anotada": "co[u]idou"
+  },
+  {
+    "id": "#0559#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0560#vida_tars",
+    "arcaica": "era",
+    "modernizada": "era",
+    "anotada": "era"
+  },
+  {
+    "id": "#0561#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0562#vida_tars",
+    "arcaica": "lleyto",
+    "modernizada": "leito",
+    "anotada": "l[0l]ley[i]to"
+  },
+  {
+    "id": "#0563#vida_tars",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0564#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0565#vida_tars",
+    "arcaica": "antonjo",
+    "modernizada": "antônio",
+    "anotada": "anto[ô]nj[i]o"
+  },
+  {
+    "id": "#0566#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0567#vida_tars",
+    "arcaica": "hũa",
+    "modernizada": "uma",
+    "anotada": "h[0h]ũ[u][+m]a"
+  },
+  {
+    "id": "#0568#vida_tars",
+    "arcaica": "uoz",
+    "modernizada": "voz",
+    "anotada": "u[v]oz"
+  },
+  {
+    "id": "#0569#vida_tars",
+    "arcaica": "veo",
+    "modernizada": "veio",
+    "anotada": "ve[+i]o"
+  },
+  {
+    "id": "#0570#vida_tars",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0571#vida_tars",
+    "arcaica": "çeeo",
+    "modernizada": "céu",
+    "anotada": "ç[c]e[é]e[0e]o[u]"
+  },
+  {
+    "id": "#0572#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0573#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0574#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0575#vida_tars",
+    "arcaica": "nom",
+    "modernizada": "não",
+    "anotada": "no[ã]m[o]"
+  },
+  {
+    "id": "#0576#vida_tars",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0577#vida_tars",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0578#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0579#vida_tars",
+    "arcaica": "antonjo",
+    "modernizada": "antônio",
+    "anotada": "anto[ô]nj[i]o"
+  },
+  {
+    "id": "#0580#vida_tars",
+    "arcaica": "mais",
+    "modernizada": "mas",
+    "anotada": "mai[0i]s"
+  },
+  {
+    "id": "#0581#vida_tars",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0582#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0583#vida_tars",
+    "arcaica": "tarsys",
+    "modernizada": "tarsis",
+    "anotada": "tarsy[i]s"
+  },
+  {
+    "id": "#0584#vida_tars",
+    "arcaica": "aquella",
+    "modernizada": "aquela",
+    "anotada": "aquel[0l]la"
+  },
+  {
+    "id": "#0585#vida_tars",
+    "arcaica": "molher",
+    "modernizada": "mulher",
+    "anotada": "mo[u]lher"
+  },
+  {
+    "id": "#0586#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0587#vida_tars",
+    "arcaica": "jaz",
+    "modernizada": "jaz",
+    "anotada": "jaz"
+  },
+  {
+    "id": "#0588#vida_tars",
+    "arcaica": "emçarrada",
+    "modernizada": "encerrada",
+    "anotada": "em[n]ç[c]a[e]rrada"
+  },
+  {
+    "id": "#0589#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0590#vida_tars",
+    "arcaica": "paullo",
+    "modernizada": "paulo",
+    "anotada": "paul[0l]lo"
+  },
+  {
+    "id": "#0591#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0592#vida_tars",
+    "arcaica": "cõtou",
+    "modernizada": "contou",
+    "anotada": "cõ[o][+n]tou"
+  },
+  {
+    "id": "#0593#vida_tars",
+    "arcaica": "ẽ",
+    "modernizada": "em",
+    "anotada": "ẽ[e][+m]"
+  },
+  {
+    "id": "#0594#vida_tars",
+    "arcaica": "outro",
+    "modernizada": "outro",
+    "anotada": "outro"
+  },
+  {
+    "id": "#0595#vida_tars",
+    "arcaica": "dia",
+    "modernizada": "dia",
+    "anotada": "dia"
+  },
+  {
+    "id": "#0596#vida_tars",
+    "arcaica": "ao",
+    "modernizada": "ao",
+    "anotada": "ao"
+  },
+  {
+    "id": "#0597#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0598#vida_tars",
+    "arcaica": "panunçio",
+    "modernizada": "panúncio",
+    "anotada": "panu[ú]nç[c]io"
+  },
+  {
+    "id": "#0599#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0600#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0601#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0602#vida_tars",
+    "arcaica": "panunçio",
+    "modernizada": "panúncio",
+    "anotada": "panu[ú]nç[c]io"
+  },
+  {
+    "id": "#0603#vida_tars",
+    "arcaica": "foy",
+    "modernizada": "foi",
+    "anotada": "foy[i]"
+  },
+  {
+    "id": "#0604#vida_tars",
+    "arcaica": "hu",
+    "modernizada": "hu<onde>",
+    "anotada": "hu<onde>"
+  },
+  {
+    "id": "#0605#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0606#vida_tars",
+    "arcaica": "jazia",
+    "modernizada": "jazia",
+    "anotada": "jazia"
+  },
+  {
+    "id": "#0607#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0608#vida_tars",
+    "arcaica": "disselhe",
+    "modernizada": "disse-lhe",
+    "anotada": "disse[+-]lhe"
+  },
+  {
+    "id": "#0609#vida_tars",
+    "arcaica": "perdoado",
+    "modernizada": "perdoado",
+    "anotada": "perdoado"
+  },
+  {
+    "id": "#0610#vida_tars",
+    "arcaica": "te",
+    "modernizada": "te",
+    "anotada": "te"
+  },
+  {
+    "id": "#0611#vida_tars",
+    "arcaica": "tem",
+    "modernizada": "tem",
+    "anotada": "tem"
+  },
+  {
+    "id": "#0612#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0613#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0614#vida_tars",
+    "arcaica": "teus",
+    "modernizada": "teus",
+    "anotada": "teus"
+  },
+  {
+    "id": "#0615#vida_tars",
+    "arcaica": "pecados",
+    "modernizada": "pecados",
+    "anotada": "pecados"
+  },
+  {
+    "id": "#0616#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0617#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0618#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0619#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0620#vida_tars",
+    "arcaica": "despoys",
+    "modernizada": "depois",
+    "anotada": "des[0s]poy[i]s"
+  },
+  {
+    "id": "#0621#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0622#vida_tars",
+    "arcaica": "aquj",
+    "modernizada": "aqui",
+    "anotada": "aquj[i]"
+  },
+  {
+    "id": "#0623#vida_tars",
+    "arcaica": "jaço",
+    "modernizada": "jazo",
+    "anotada": "jaç[z]o"
+  },
+  {
+    "id": "#0624#vida_tars",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0625#vida_tars",
+    "arcaica": "todolos",
+    "modernizada": "todos os",
+    "anotada": "todo[+s][+_][0l]os"
+  },
+  {
+    "id": "#0626#vida_tars",
+    "arcaica": "meus",
+    "modernizada": "meus",
+    "anotada": "meus"
+  },
+  {
+    "id": "#0627#vida_tars",
+    "arcaica": "pecados",
+    "modernizada": "pecados",
+    "anotada": "pecados"
+  },
+  {
+    "id": "#0628#vida_tars",
+    "arcaica": "fige",
+    "modernizada": "fiz",
+    "anotada": "fig[z]e[0e]"
+  },
+  {
+    "id": "#0629#vida_tars",
+    "arcaica": "hũa",
+    "modernizada": "uma",
+    "anotada": "h[0h]ũ[u][+m]a"
+  },
+  {
+    "id": "#0630#vida_tars",
+    "arcaica": "carrega",
+    "modernizada": "carga",
+    "anotada": "car[0r]re[0e]ga"
+  },
+  {
+    "id": "#0631#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0632#vida_tars",
+    "arcaica": "pugy a",
+    "modernizada": "pugy a<pus-a>",
+    "anotada": "pugy a<pus-a>"
+  },
+  {
+    "id": "#0633#vida_tars",
+    "arcaica": "ante",
+    "modernizada": "ante",
+    "anotada": "ante"
+  },
+  {
+    "id": "#0634#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0635#vida_tars",
+    "arcaica": "meus",
+    "modernizada": "meus",
+    "anotada": "meus"
+  },
+  {
+    "id": "#0636#vida_tars",
+    "arcaica": "olhos",
+    "modernizada": "olhos",
+    "anotada": "olhos"
+  },
+  {
+    "id": "#0637#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0638#vida_tars",
+    "arcaica": "senpre",
+    "modernizada": "sempre",
+    "anotada": "sen[m]pre"
+  },
+  {
+    "id": "#0639#vida_tars",
+    "arcaica": "me",
+    "modernizada": "me",
+    "anotada": "me"
+  },
+  {
+    "id": "#0640#vida_tars",
+    "arcaica": "deles",
+    "modernizada": "deles",
+    "anotada": "deles"
+  },
+  {
+    "id": "#0641#vida_tars",
+    "arcaica": "doy",
+    "modernizada": "dói",
+    "anotada": "do[ó]y[i]"
+  },
+  {
+    "id": "#0642#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0643#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0644#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0645#vida_tars",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0646#vida_tars",
+    "arcaica": "disse",
+    "modernizada": "disse",
+    "anotada": "disse"
+  },
+  {
+    "id": "#0647#vida_tars",
+    "arcaica": "nom",
+    "modernizada": "não",
+    "anotada": "no[ã]m[o]"
+  },
+  {
+    "id": "#0648#vida_tars",
+    "arcaica": "te",
+    "modernizada": "te",
+    "anotada": "te"
+  },
+  {
+    "id": "#0649#vida_tars",
+    "arcaica": "perdoou",
+    "modernizada": "perdoou",
+    "anotada": "perdoou"
+  },
+  {
+    "id": "#0650#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0651#vida_tars",
+    "arcaica": "pella",
+    "modernizada": "pela",
+    "anotada": "pel[0l]la"
+  },
+  {
+    "id": "#0652#vida_tars",
+    "arcaica": "tua",
+    "modernizada": "tua",
+    "anotada": "tua"
+  },
+  {
+    "id": "#0653#vida_tars",
+    "arcaica": "peendença",
+    "modernizada": "peendença<penitência>",
+    "anotada": "peendença<penitência>"
+  },
+  {
+    "id": "#0654#vida_tars",
+    "arcaica": "mais",
+    "modernizada": "mas",
+    "anotada": "mai[0i]s"
+  },
+  {
+    "id": "#0655#vida_tars",
+    "arcaica": "pello",
+    "modernizada": "pelo",
+    "anotada": "pel[0l]lo"
+  },
+  {
+    "id": "#0656#vida_tars",
+    "arcaica": "teu",
+    "modernizada": "teu",
+    "anotada": "teu"
+  },
+  {
+    "id": "#0657#vida_tars",
+    "arcaica": "arrepeendimẽto",
+    "modernizada": "arrependimento",
+    "anotada": "arrepe[0e]endimẽ[e][+n]to"
+  },
+  {
+    "id": "#0658#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0659#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0660#vida_tars",
+    "arcaica": "nom",
+    "modernizada": "não",
+    "anotada": "no[ã]m[o]"
+  },
+  {
+    "id": "#0661#vida_tars",
+    "arcaica": "viueo",
+    "modernizada": "viveu",
+    "anotada": "viu[v]eo[u]"
+  },
+  {
+    "id": "#0662#vida_tars",
+    "arcaica": "mais",
+    "modernizada": "mais",
+    "anotada": "mais"
+  },
+  {
+    "id": "#0663#vida_tars",
+    "arcaica": "xv",
+    "modernizada": "xv",
+    "anotada": "xv"
+  },
+  {
+    "id": "#0664#vida_tars",
+    "arcaica": "dias",
+    "modernizada": "dias",
+    "anotada": "dias"
+  },
+  {
+    "id": "#0665#vida_tars",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0666#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0667#vida_tars",
+    "arcaica": "abbade",
+    "modernizada": "abade",
+    "anotada": "ab[0b]bade"
+  },
+  {
+    "id": "#0668#vida_tars",
+    "arcaica": "vyo",
+    "modernizada": "viu",
+    "anotada": "vy[i]o[u]"
+  },
+  {
+    "id": "#0669#vida_tars",
+    "arcaica": "hyr",
+    "modernizada": "ir",
+    "anotada": "h[0h]y[i]r"
+  },
+  {
+    "id": "#0670#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0671#vida_tars",
+    "arcaica": "sua",
+    "modernizada": "sua",
+    "anotada": "sua"
+  },
+  {
+    "id": "#0672#vida_tars",
+    "arcaica": "alma",
+    "modernizada": "alma",
+    "anotada": "alma"
+  },
+  {
+    "id": "#0673#vida_tars",
+    "arcaica": "pera",
+    "modernizada": "para",
+    "anotada": "pe[a]ra"
+  },
+  {
+    "id": "#0674#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0675#vida_tars",
+    "arcaica": "çeeo",
+    "modernizada": "céu",
+    "anotada": "ç[c]e[é]e[0e]o[u]"
+  },
+  {
+    "id": "#0676#vida_tars",
+    "arcaica": "cõ",
+    "modernizada": "com",
+    "anotada": "cõ[o][+m]"
+  },
+  {
+    "id": "#0677#vida_tars",
+    "arcaica": "gram",
+    "modernizada": "grande",
+    "anotada": "gram[n][+d][+e]"
+  },
+  {
+    "id": "#0678#vida_tars",
+    "arcaica": "cõpanha",
+    "modernizada": "companhia",
+    "anotada": "cõ[o][+m]panh[+i]a"
+  },
+  {
+    "id": "#0679#vida_tars",
+    "arcaica": "d’angos",
+    "modernizada": "de anjos",
+    "anotada": "d’[e][+_]ang[j]os"
+  },
+  {
+    "id": "#0680#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0681#vida_tars",
+    "arcaica": "faziam",
+    "modernizada": "faziam",
+    "anotada": "faziam"
+  },
+  {
+    "id": "#0682#vida_tars",
+    "arcaica": "grande",
+    "modernizada": "grande",
+    "anotada": "grande"
+  },
+  {
+    "id": "#0683#vida_tars",
+    "arcaica": "allegria",
+    "modernizada": "alegria",
+    "anotada": "al[0l]legria"
+  },
+  {
+    "id": "#0684#vida_tars",
+    "arcaica": "cõ",
+    "modernizada": "com",
+    "anotada": "cõ[o][+m]"
+  },
+  {
+    "id": "#0685#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0686#vida_tars",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0687#vida_tars",
+    "arcaica": "ssenhor",
+    "modernizada": "senhor",
+    "anotada": "s[0s]senhor"
+  },
+  {
+    "id": "#0688#vida_tars",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0689#vida_tars",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0690#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0691#vida_tars",
+    "arcaica": "ella",
+    "modernizada": "ela",
+    "anotada": "el[0l]la"
+  },
+  {
+    "id": "#0692#vida_tars",
+    "arcaica": "perdoou",
+    "modernizada": "perdoou",
+    "anotada": "perdoou"
+  },
+  {
+    "id": "#0693#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0694#vida_tars",
+    "arcaica": "sseus",
+    "modernizada": "seus",
+    "anotada": "s[0s]seus"
+  },
+  {
+    "id": "#0695#vida_tars",
+    "arcaica": "pecados",
+    "modernizada": "pecados",
+    "anotada": "pecados"
+  },
+  {
+    "id": "#0696#vida_tars",
+    "arcaica": "perdoe",
+    "modernizada": "perdoe",
+    "anotada": "perdoe"
+  },
+  {
+    "id": "#0697#vida_tars",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0698#vida_tars",
+    "arcaica": "nos",
+    "modernizada": "nós",
+    "anotada": "no[ó]s"
+  },
+  {
+    "id": "#0699#vida_tars",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0700#vida_tars",
+    "arcaica": "nossos",
+    "modernizada": "nossos",
+    "anotada": "nossos"
+  },
+  {
+    "id": "#0701#vida_tars",
+    "arcaica": "amẽ",
+    "modernizada": "amém",
+    "anotada": "amẽ[é][+m]"
+  },
+  {
+    "id": "#0702#vida_tars",
+    "arcaica": "deo",
+    "modernizada": "deo",
+    "anotada": "deo"
+  },
+  {
+    "id": "#0703#vida_tars",
+    "arcaica": "gracias",
+    "modernizada": "gracias",
+    "anotada": "gracias"
+  }
+]

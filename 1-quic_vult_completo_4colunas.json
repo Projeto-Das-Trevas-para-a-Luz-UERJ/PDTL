@@ -1,0 +1,3848 @@
+[
+  {
+    "id": "#0001#quic_vult",
+    "arcaica": "este",
+    "modernizada": "este",
+    "anotada": "este"
+  },
+  {
+    "id": "#0002#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0003#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0004#quic_vult",
+    "arcaica": "quicunque",
+    "modernizada": "quicunque",
+    "anotada": "quicunque"
+  },
+  {
+    "id": "#0005#quic_vult",
+    "arcaica": "uult",
+    "modernizada": "vult",
+    "anotada": "u[v]ult"
+  },
+  {
+    "id": "#0006#quic_vult",
+    "arcaica": "per",
+    "modernizada": "por",
+    "anotada": "pe[o]r"
+  },
+  {
+    "id": "#0007#quic_vult",
+    "arcaica": "linguajem",
+    "modernizada": "linguagem",
+    "anotada": "linguaj[g]em"
+  },
+  {
+    "id": "#0008#quic_vult",
+    "arcaica": "etcetera",
+    "modernizada": "etcetera",
+    "anotada": "etcetera"
+  },
+  {
+    "id": "#0009#quic_vult",
+    "arcaica": "qualquer",
+    "modernizada": "qualquer",
+    "anotada": "qualquer"
+  },
+  {
+    "id": "#0010#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0011#quic_vult",
+    "arcaica": "quiser",
+    "modernizada": "quiser",
+    "anotada": "quiser"
+  },
+  {
+    "id": "#0012#quic_vult",
+    "arcaica": "saluo",
+    "modernizada": "salvo",
+    "anotada": "salu[v]o"
+  },
+  {
+    "id": "#0013#quic_vult",
+    "arcaica": "seer",
+    "modernizada": "ser",
+    "anotada": "se[0e]er"
+  },
+  {
+    "id": "#0014#quic_vult",
+    "arcaica": "sobre",
+    "modernizada": "sobre",
+    "anotada": "sobre"
+  },
+  {
+    "id": "#0015#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0016#quic_vult",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0017#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0018#quic_vult",
+    "arcaica": "mester",
+    "modernizada": "mister",
+    "anotada": "me[i]ster"
+  },
+  {
+    "id": "#0019#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0020#quic_vult",
+    "arcaica": "téér",
+    "modernizada": "ter",
+    "anotada": "té[e]é[0é]r"
+  },
+  {
+    "id": "#0021#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0022#quic_vult",
+    "arcaica": "fe",
+    "modernizada": "fé",
+    "anotada": "fe[é]"
+  },
+  {
+    "id": "#0023#quic_vult",
+    "arcaica": "chatolica",
+    "modernizada": "católica",
+    "anotada": "ch[0h]ato[ó]lica"
+  },
+  {
+    "id": "#0024#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0025#quic_vult",
+    "arcaica": "qual",
+    "modernizada": "qual",
+    "anotada": "qual"
+  },
+  {
+    "id": "#0026#quic_vult",
+    "arcaica": "se",
+    "modernizada": "se",
+    "anotada": "se"
+  },
+  {
+    "id": "#0027#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0028#quic_vult",
+    "arcaica": "cada",
+    "modernizada": "cada",
+    "anotada": "cada"
+  },
+  {
+    "id": "#0029#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0030#quic_vult",
+    "arcaica": "non",
+    "modernizada": "não",
+    "anotada": "n[+ã]on[0n]"
+  },
+  {
+    "id": "#0031#quic_vult",
+    "arcaica": "teuer",
+    "modernizada": "tiver",
+    "anotada": "te[i]u[v]er"
+  },
+  {
+    "id": "#0032#quic_vult",
+    "arcaica": "enteira",
+    "modernizada": "inteira",
+    "anotada": "e[i]nteira"
+  },
+  {
+    "id": "#0033#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0034#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0035#quic_vult",
+    "arcaica": "conrrõpida",
+    "modernizada": "corrompida",
+    "anotada": "con[0n]rrõ[o][+m]pida"
+  },
+  {
+    "id": "#0036#quic_vult",
+    "arcaica": "sem",
+    "modernizada": "sem",
+    "anotada": "sem"
+  },
+  {
+    "id": "#0037#quic_vult",
+    "arcaica": "duuida",
+    "modernizada": "dúvida",
+    "anotada": "du[ú]u[v]ida"
+  },
+  {
+    "id": "#0038#quic_vult",
+    "arcaica": "pera",
+    "modernizada": "para",
+    "anotada": "pe[a]ra"
+  },
+  {
+    "id": "#0039#quic_vult",
+    "arcaica": "sẽpre",
+    "modernizada": "sempre",
+    "anotada": "sẽ[e][+m]pre"
+  },
+  {
+    "id": "#0040#quic_vult",
+    "arcaica": "sua",
+    "modernizada": "sua",
+    "anotada": "sua"
+  },
+  {
+    "id": "#0041#quic_vult",
+    "arcaica": "alma",
+    "modernizada": "alma",
+    "anotada": "alma"
+  },
+  {
+    "id": "#0042#quic_vult",
+    "arcaica": "sera",
+    "modernizada": "será",
+    "anotada": "sera[á]"
+  },
+  {
+    "id": "#0043#quic_vult",
+    "arcaica": "perdida",
+    "modernizada": "perdida",
+    "anotada": "perdida"
+  },
+  {
+    "id": "#0044#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0045#quic_vult",
+    "arcaica": "fe",
+    "modernizada": "fé",
+    "anotada": "fe[é]"
+  },
+  {
+    "id": "#0046#quic_vult",
+    "arcaica": "chatolica",
+    "modernizada": "católica",
+    "anotada": "ch[0h]ato[ó]lica"
+  },
+  {
+    "id": "#0047#quic_vult",
+    "arcaica": "aque",
+    "modernizada": "aque<eis>",
+    "anotada": "aque<eis>"
+  },
+  {
+    "id": "#0048#quic_vult",
+    "arcaica": "esta",
+    "modernizada": "esta",
+    "anotada": "esta"
+  },
+  {
+    "id": "#0049#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0050#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0051#quic_vult",
+    "arcaica": "honrremos",
+    "modernizada": "honremos",
+    "anotada": "honr[0r]remos"
+  },
+  {
+    "id": "#0052#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0053#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0054#quic_vult",
+    "arcaica": "em",
+    "modernizada": "em",
+    "anotada": "em"
+  },
+  {
+    "id": "#0055#quic_vult",
+    "arcaica": "trindade",
+    "modernizada": "trindade",
+    "anotada": "trindade"
+  },
+  {
+    "id": "#0056#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0057#quic_vult",
+    "arcaica": "trindade",
+    "modernizada": "trindade",
+    "anotada": "trindade"
+  },
+  {
+    "id": "#0058#quic_vult",
+    "arcaica": "ẽ",
+    "modernizada": "em",
+    "anotada": "ẽ[e][+m]"
+  },
+  {
+    "id": "#0059#quic_vult",
+    "arcaica": "hunidade",
+    "modernizada": "unidade",
+    "anotada": "h[0h]unidade"
+  },
+  {
+    "id": "#0060#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0061#quic_vult",
+    "arcaica": "muy",
+    "modernizada": "muito",
+    "anotada": "muy[i][+t][+o]"
+  },
+  {
+    "id": "#0062#quic_vult",
+    "arcaica": "confundentes",
+    "modernizada": "confundentes",
+    "anotada": "confundentes"
+  },
+  {
+    "id": "#0063#quic_vult",
+    "arcaica": "as",
+    "modernizada": "as",
+    "anotada": "as"
+  },
+  {
+    "id": "#0064#quic_vult",
+    "arcaica": "pessoas",
+    "modernizada": "pessoas",
+    "anotada": "pessoas"
+  },
+  {
+    "id": "#0065#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0066#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0067#quic_vult",
+    "arcaica": "substancia",
+    "modernizada": "substância",
+    "anotada": "substa[â]ncia"
+  },
+  {
+    "id": "#0068#quic_vult",
+    "arcaica": "separentes",
+    "modernizada": "separantes",
+    "anotada": "separe[a]ntes"
+  },
+  {
+    "id": "#0069#quic_vult",
+    "arcaica": "porque",
+    "modernizada": "porque",
+    "anotada": "porque"
+  },
+  {
+    "id": "#0070#quic_vult",
+    "arcaica": "hũa",
+    "modernizada": "uma",
+    "anotada": "h[0h]ũ[u][+m]a"
+  },
+  {
+    "id": "#0071#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0072#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0073#quic_vult",
+    "arcaica": "pessoa",
+    "modernizada": "pessoa",
+    "anotada": "pessoa"
+  },
+  {
+    "id": "#0074#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0075#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0076#quic_vult",
+    "arcaica": "outra",
+    "modernizada": "outra",
+    "anotada": "outra"
+  },
+  {
+    "id": "#0077#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0078#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0079#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0080#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0081#quic_vult",
+    "arcaica": "outra",
+    "modernizada": "outra",
+    "anotada": "outra"
+  },
+  {
+    "id": "#0082#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0083#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0084#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0085#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0086#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0087#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0088#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0089#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0090#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0091#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0092#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0093#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0094#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0095#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0096#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0097#quic_vult",
+    "arcaica": "hũũa",
+    "modernizada": "uma",
+    "anotada": "h[0h]ũ[u]ũ[m]a"
+  },
+  {
+    "id": "#0098#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0099#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0100#quic_vult",
+    "arcaica": "diuĩdade",
+    "modernizada": "divindade",
+    "anotada": "diu[v]ĩ[i][+n]dade"
+  },
+  {
+    "id": "#0101#quic_vult",
+    "arcaica": "jgual",
+    "modernizada": "igual",
+    "anotada": "j[i]gual"
+  },
+  {
+    "id": "#0102#quic_vult",
+    "arcaica": "gloria",
+    "modernizada": "glória",
+    "anotada": "glo[ó]ria"
+  },
+  {
+    "id": "#0103#quic_vult",
+    "arcaica": "coeterna",
+    "modernizada": "coeterna",
+    "anotada": "coeterna"
+  },
+  {
+    "id": "#0104#quic_vult",
+    "arcaica": "maiestade",
+    "modernizada": "majestade",
+    "anotada": "mai[j]estade"
+  },
+  {
+    "id": "#0105#quic_vult",
+    "arcaica": "qual",
+    "modernizada": "qual",
+    "anotada": "qual"
+  },
+  {
+    "id": "#0106#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0107#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0108#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0109#quic_vult",
+    "arcaica": "tal",
+    "modernizada": "tal",
+    "anotada": "tal"
+  },
+  {
+    "id": "#0110#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0111#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0112#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0113#quic_vult",
+    "arcaica": "tal",
+    "modernizada": "tal",
+    "anotada": "tal"
+  },
+  {
+    "id": "#0114#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0115#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0116#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0117#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0118#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0119#quic_vult",
+    "arcaica": "criado",
+    "modernizada": "criado",
+    "anotada": "criado"
+  },
+  {
+    "id": "#0120#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0121#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0122#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0123#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0124#quic_vult",
+    "arcaica": "criado",
+    "modernizada": "criado",
+    "anotada": "criado"
+  },
+  {
+    "id": "#0125#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0126#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0127#quic_vult",
+    "arcaica": "ffilho",
+    "modernizada": "filho",
+    "anotada": "f[0f]filho"
+  },
+  {
+    "id": "#0128#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0129#quic_vult",
+    "arcaica": "criado",
+    "modernizada": "criado",
+    "anotada": "criado"
+  },
+  {
+    "id": "#0130#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0131#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0132#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0133#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0134#quic_vult",
+    "arcaica": "sem",
+    "modernizada": "sem",
+    "anotada": "sem"
+  },
+  {
+    "id": "#0135#quic_vult",
+    "arcaica": "medida",
+    "modernizada": "medida",
+    "anotada": "medida"
+  },
+  {
+    "id": "#0136#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0137#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0138#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0139#quic_vult",
+    "arcaica": "sem",
+    "modernizada": "sem",
+    "anotada": "sem"
+  },
+  {
+    "id": "#0140#quic_vult",
+    "arcaica": "medida",
+    "modernizada": "medida",
+    "anotada": "medida"
+  },
+  {
+    "id": "#0141#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0142#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0143#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0144#quic_vult",
+    "arcaica": "sem",
+    "modernizada": "sem",
+    "anotada": "sem"
+  },
+  {
+    "id": "#0145#quic_vult",
+    "arcaica": "medida",
+    "modernizada": "medida",
+    "anotada": "medida"
+  },
+  {
+    "id": "#0146#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0147#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0148#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0149#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0150#quic_vult",
+    "arcaica": "eternal",
+    "modernizada": "eterno",
+    "anotada": "eterna[o]l[0l]"
+  },
+  {
+    "id": "#0151#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0152#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0153#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0154#quic_vult",
+    "arcaica": "eternal",
+    "modernizada": "eterno",
+    "anotada": "eterna[o]l[0l]"
+  },
+  {
+    "id": "#0155#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0156#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0157#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0158#quic_vult",
+    "arcaica": "eternal",
+    "modernizada": "eterno",
+    "anotada": "eterna[o]l[0l]"
+  },
+  {
+    "id": "#0159#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0160#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0161#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0162#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0163#quic_vult",
+    "arcaica": "pero",
+    "modernizada": "pero<mas>",
+    "anotada": "pero<mas>"
+  },
+  {
+    "id": "#0164#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0165#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0166#quic_vult",
+    "arcaica": "eternaes",
+    "modernizada": "eternos",
+    "anotada": "eterna[o]e[0e]s"
+  },
+  {
+    "id": "#0167#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0168#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0169#quic_vult",
+    "arcaica": "sóó",
+    "modernizada": "só",
+    "anotada": "só[0ó]ó"
+  },
+  {
+    "id": "#0170#quic_vult",
+    "arcaica": "eternal",
+    "modernizada": "eterno",
+    "anotada": "eterna[o]l[0l]"
+  },
+  {
+    "id": "#0171#quic_vult",
+    "arcaica": "asy",
+    "modernizada": "assim",
+    "anotada": "as[+s]y[i][+m]"
+  },
+  {
+    "id": "#0172#quic_vult",
+    "arcaica": "como",
+    "modernizada": "como",
+    "anotada": "como"
+  },
+  {
+    "id": "#0173#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0174#quic_vult",
+    "arcaica": "som",
+    "modernizada": "são",
+    "anotada": "so[ã]m[o]"
+  },
+  {
+    "id": "#0175#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0176#quic_vult",
+    "arcaica": "jncriados",
+    "modernizada": "incriados",
+    "anotada": "j[i]ncriados"
+  },
+  {
+    "id": "#0177#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0178#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0179#quic_vult",
+    "arcaica": "sem",
+    "modernizada": "sem",
+    "anotada": "sem"
+  },
+  {
+    "id": "#0180#quic_vult",
+    "arcaica": "medida",
+    "modernizada": "medida",
+    "anotada": "medida"
+  },
+  {
+    "id": "#0181#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0182#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0183#quic_vult",
+    "arcaica": "jncriado",
+    "modernizada": "incriado",
+    "anotada": "j[i]ncriado"
+  },
+  {
+    "id": "#0184#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0185#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0186#quic_vult",
+    "arcaica": "sem",
+    "modernizada": "sem",
+    "anotada": "sem"
+  },
+  {
+    "id": "#0187#quic_vult",
+    "arcaica": "medida",
+    "modernizada": "medida",
+    "anotada": "medida"
+  },
+  {
+    "id": "#0188#quic_vult",
+    "arcaica": "semelhauelmẽte",
+    "modernizada": "semelhavelmente",
+    "anotada": "semelhau[v]elmẽ[e][+n]te"
+  },
+  {
+    "id": "#0189#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0190#quic_vult",
+    "arcaica": "poderoso",
+    "modernizada": "poderoso",
+    "anotada": "poderoso"
+  },
+  {
+    "id": "#0191#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0192#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0193#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0194#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0195#quic_vult",
+    "arcaica": "poderoso",
+    "modernizada": "poderoso",
+    "anotada": "poderoso"
+  },
+  {
+    "id": "#0196#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0197#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0198#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0199#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0200#quic_vult",
+    "arcaica": "poderoso",
+    "modernizada": "poderoso",
+    "anotada": "poderoso"
+  },
+  {
+    "id": "#0201#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0202#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0203#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0204#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0205#quic_vult",
+    "arcaica": "pero",
+    "modernizada": "pero<mas>",
+    "anotada": "pero<mas>"
+  },
+  {
+    "id": "#0206#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0207#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0208#quic_vult",
+    "arcaica": "omnipotentes",
+    "modernizada": "onipotentes",
+    "anotada": "om[0m]nipotentes"
+  },
+  {
+    "id": "#0209#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0210#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0211#quic_vult",
+    "arcaica": "omnipotente",
+    "modernizada": "onipotente",
+    "anotada": "om[0m]nipotente"
+  },
+  {
+    "id": "#0212#quic_vult",
+    "arcaica": "bem",
+    "modernizada": "bem",
+    "anotada": "bem"
+  },
+  {
+    "id": "#0213#quic_vult",
+    "arcaica": "asi",
+    "modernizada": "assim",
+    "anotada": "as[+s]i[+m]"
+  },
+  {
+    "id": "#0214#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0215#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0216#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0217#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0218#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0219#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0220#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0221#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0222#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0223#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0224#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0225#quic_vult",
+    "arcaica": "pero",
+    "modernizada": "pero<mas>",
+    "anotada": "pero<mas>"
+  },
+  {
+    "id": "#0226#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0227#quic_vult",
+    "arcaica": "som",
+    "modernizada": "são",
+    "anotada": "so[ã]m[o]"
+  },
+  {
+    "id": "#0228#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0229#quic_vult",
+    "arcaica": "deoses",
+    "modernizada": "deuses",
+    "anotada": "deo[u]ses"
+  },
+  {
+    "id": "#0230#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0231#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0232#quic_vult",
+    "arcaica": "soo",
+    "modernizada": "só",
+    "anotada": "so[0o]o[ó]"
+  },
+  {
+    "id": "#0233#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0234#quic_vult",
+    "arcaica": "asi",
+    "modernizada": "assim",
+    "anotada": "as[+s]i[+m]"
+  },
+  {
+    "id": "#0235#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0236#quic_vult",
+    "arcaica": "senhor",
+    "modernizada": "senhor",
+    "anotada": "senhor"
+  },
+  {
+    "id": "#0237#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0238#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0239#quic_vult",
+    "arcaica": "senhor",
+    "modernizada": "senhor",
+    "anotada": "senhor"
+  },
+  {
+    "id": "#0240#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0241#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0242#quic_vult",
+    "arcaica": "senhor",
+    "modernizada": "senhor",
+    "anotada": "senhor"
+  },
+  {
+    "id": "#0243#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0244#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0245#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0246#quic_vult",
+    "arcaica": "pero",
+    "modernizada": "pero<mas>",
+    "anotada": "pero<mas>"
+  },
+  {
+    "id": "#0247#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0248#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0249#quic_vult",
+    "arcaica": "senhores",
+    "modernizada": "senhores",
+    "anotada": "senhores"
+  },
+  {
+    "id": "#0250#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0251#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0252#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0253#quic_vult",
+    "arcaica": "senhor",
+    "modernizada": "senhor",
+    "anotada": "senhor"
+  },
+  {
+    "id": "#0254#quic_vult",
+    "arcaica": "qua",
+    "modernizada": "que",
+    "anotada": "qua[e]"
+  },
+  {
+    "id": "#0255#quic_vult",
+    "arcaica": "asi",
+    "modernizada": "assim",
+    "anotada": "as[+s]i[+m]"
+  },
+  {
+    "id": "#0256#quic_vult",
+    "arcaica": "como",
+    "modernizada": "como",
+    "anotada": "como"
+  },
+  {
+    "id": "#0257#quic_vult",
+    "arcaica": "singularmẽte",
+    "modernizada": "singularmente",
+    "anotada": "singularmẽ[e][+n]te"
+  },
+  {
+    "id": "#0258#quic_vult",
+    "arcaica": "cada",
+    "modernizada": "cada",
+    "anotada": "cada"
+  },
+  {
+    "id": "#0259#quic_vult",
+    "arcaica": "hũa",
+    "modernizada": "uma",
+    "anotada": "h[0h]ũ[u][+m]a"
+  },
+  {
+    "id": "#0260#quic_vult",
+    "arcaica": "das",
+    "modernizada": "das",
+    "anotada": "das"
+  },
+  {
+    "id": "#0261#quic_vult",
+    "arcaica": "persoas",
+    "modernizada": "pessoas",
+    "anotada": "per[0r]s[+s]oas"
+  },
+  {
+    "id": "#0262#quic_vult",
+    "arcaica": "séér",
+    "modernizada": "ser",
+    "anotada": "sé[0é]é[e]r"
+  },
+  {
+    "id": "#0263#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0264#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0265#quic_vult",
+    "arcaica": "senhor",
+    "modernizada": "senhor",
+    "anotada": "senhor"
+  },
+  {
+    "id": "#0266#quic_vult",
+    "arcaica": "por",
+    "modernizada": "por",
+    "anotada": "por"
+  },
+  {
+    "id": "#0267#quic_vult",
+    "arcaica": "uerdade",
+    "modernizada": "verdade",
+    "anotada": "u[v]erdade"
+  },
+  {
+    "id": "#0268#quic_vult",
+    "arcaica": "christãã",
+    "modernizada": "cristã",
+    "anotada": "ch[0h]ristã[0ã]ã"
+  },
+  {
+    "id": "#0269#quic_vult",
+    "arcaica": "cõfessarnos",
+    "modernizada": "confessar-nos",
+    "anotada": "cõ[o][+n]fessar[+-]nos"
+  },
+  {
+    "id": "#0270#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0271#quic_vult",
+    "arcaica": "amoestado",
+    "modernizada": "admoestado",
+    "anotada": "a[+d]moestado"
+  },
+  {
+    "id": "#0272#quic_vult",
+    "arcaica": "asy",
+    "modernizada": "assim",
+    "anotada": "as[+s]y[i][+m]"
+  },
+  {
+    "id": "#0273#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0274#quic_vult",
+    "arcaica": "deosses",
+    "modernizada": "deuses",
+    "anotada": "deo[u]s[0s]ses"
+  },
+  {
+    "id": "#0275#quic_vult",
+    "arcaica": "ou",
+    "modernizada": "ou",
+    "anotada": "ou"
+  },
+  {
+    "id": "#0276#quic_vult",
+    "arcaica": "senhores",
+    "modernizada": "senhores",
+    "anotada": "senhores"
+  },
+  {
+    "id": "#0277#quic_vult",
+    "arcaica": "dizermos",
+    "modernizada": "dizermos",
+    "anotada": "dizermos"
+  },
+  {
+    "id": "#0278#quic_vult",
+    "arcaica": "per",
+    "modernizada": "por",
+    "anotada": "pe[o]r"
+  },
+  {
+    "id": "#0279#quic_vult",
+    "arcaica": "catholica",
+    "modernizada": "católica",
+    "anotada": "cath[0h]o[ó]lica"
+  },
+  {
+    "id": "#0280#quic_vult",
+    "arcaica": "religiã",
+    "modernizada": "religião",
+    "anotada": "religiã[+o]"
+  },
+  {
+    "id": "#0281#quic_vult",
+    "arcaica": "nos",
+    "modernizada": "nos",
+    "anotada": "nos"
+  },
+  {
+    "id": "#0282#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0283#quic_vult",
+    "arcaica": "defeso",
+    "modernizada": "defeso",
+    "anotada": "defeso"
+  },
+  {
+    "id": "#0284#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0285#quic_vult",
+    "arcaica": "non",
+    "modernizada": "não",
+    "anotada": "n[+ã]on[0n]"
+  },
+  {
+    "id": "#0286#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0287#quic_vult",
+    "arcaica": "feito",
+    "modernizada": "feito",
+    "anotada": "feito"
+  },
+  {
+    "id": "#0288#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0289#quic_vult",
+    "arcaica": "nẽhũũ",
+    "modernizada": "nenhum",
+    "anotada": "nẽ[e][+n]hũ[0ũ]ũ[m]"
+  },
+  {
+    "id": "#0290#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0291#quic_vult",
+    "arcaica": "criado",
+    "modernizada": "criado",
+    "anotada": "criado"
+  },
+  {
+    "id": "#0292#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0293#quic_vult",
+    "arcaica": "jéérado",
+    "modernizada": "gerado",
+    "anotada": "j[g]é[0é]é[e]rado"
+  },
+  {
+    "id": "#0294#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0295#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0296#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0297#quic_vult",
+    "arcaica": "sóó",
+    "modernizada": "só",
+    "anotada": "só[0ó]ó"
+  },
+  {
+    "id": "#0298#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0299#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0300#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0301#quic_vult",
+    "arcaica": "fecto",
+    "modernizada": "feito",
+    "anotada": "fec[i]to"
+  },
+  {
+    "id": "#0302#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0303#quic_vult",
+    "arcaica": "criado",
+    "modernizada": "criado",
+    "anotada": "criado"
+  },
+  {
+    "id": "#0304#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0305#quic_vult",
+    "arcaica": "jéérado",
+    "modernizada": "gerado",
+    "anotada": "j[g]é[0é]é[e]rado"
+  },
+  {
+    "id": "#0306#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0307#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0308#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0309#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0310#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0311#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0312#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0313#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0314#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0315#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0316#quic_vult",
+    "arcaica": "fecto",
+    "modernizada": "feito",
+    "anotada": "fec[i]to"
+  },
+  {
+    "id": "#0317#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0318#quic_vult",
+    "arcaica": "criado",
+    "modernizada": "criado",
+    "anotada": "criado"
+  },
+  {
+    "id": "#0319#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0320#quic_vult",
+    "arcaica": "jéérado",
+    "modernizada": "gerado",
+    "anotada": "j[g]é[0é]é[e]rado"
+  },
+  {
+    "id": "#0321#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0322#quic_vult",
+    "arcaica": "procedente",
+    "modernizada": "procedente",
+    "anotada": "procedente"
+  },
+  {
+    "id": "#0323#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0324#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0325#quic_vult",
+    "arcaica": "ergo",
+    "modernizada": "ergo<assim>",
+    "anotada": "ergo<assim>"
+  },
+  {
+    "id": "#0326#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0327#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0328#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0329#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0330#quic_vult",
+    "arcaica": "padres",
+    "modernizada": "pais",
+    "anotada": "pad[0d]r[0r]e[i]s"
+  },
+  {
+    "id": "#0331#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0332#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0333#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0334#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0335#quic_vult",
+    "arcaica": "filhos",
+    "modernizada": "filhos",
+    "anotada": "filhos"
+  },
+  {
+    "id": "#0336#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0337#quic_vult",
+    "arcaica": "spiritu",
+    "modernizada": "espírito",
+    "anotada": "[+e]spi[í]ritu[o]"
+  },
+  {
+    "id": "#0338#quic_vult",
+    "arcaica": "sancto",
+    "modernizada": "santo",
+    "anotada": "sanc[0c]to"
+  },
+  {
+    "id": "#0339#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0340#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0341#quic_vult",
+    "arcaica": "spiritus",
+    "modernizada": "espíritos",
+    "anotada": "[+e]spi[í]ritu[o]s"
+  },
+  {
+    "id": "#0342#quic_vult",
+    "arcaica": "sanctos",
+    "modernizada": "santos",
+    "anotada": "sanc[0c]tos"
+  },
+  {
+    "id": "#0343#quic_vult",
+    "arcaica": "em esta",
+    "modernizada": "nesta",
+    "anotada": "em[n] [0_]esta"
+  },
+  {
+    "id": "#0344#quic_vult",
+    "arcaica": "trindade",
+    "modernizada": "trindade",
+    "anotada": "trindade"
+  },
+  {
+    "id": "#0345#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0346#quic_vult",
+    "arcaica": "ha",
+    "modernizada": "há",
+    "anotada": "ha[á]"
+  },
+  {
+    "id": "#0347#quic_vult",
+    "arcaica": "hy",
+    "modernizada": "hy<ali>",
+    "anotada": "hy<ali>"
+  },
+  {
+    "id": "#0348#quic_vult",
+    "arcaica": "cousa",
+    "modernizada": "coisa",
+    "anotada": "cou[i]sa"
+  },
+  {
+    "id": "#0349#quic_vult",
+    "arcaica": "primeira",
+    "modernizada": "primeira",
+    "anotada": "primeira"
+  },
+  {
+    "id": "#0350#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0351#quic_vult",
+    "arcaica": "postumeira",
+    "modernizada": "postumeira",
+    "anotada": "postumeira"
+  },
+  {
+    "id": "#0352#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0353#quic_vult",
+    "arcaica": "mayor",
+    "modernizada": "maior",
+    "anotada": "may[i]or"
+  },
+  {
+    "id": "#0354#quic_vult",
+    "arcaica": "nẽ",
+    "modernizada": "nem",
+    "anotada": "nẽ[e][+m]"
+  },
+  {
+    "id": "#0355#quic_vult",
+    "arcaica": "meor",
+    "modernizada": "menor",
+    "anotada": "me[+n]or"
+  },
+  {
+    "id": "#0356#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0357#quic_vult",
+    "arcaica": "todas",
+    "modernizada": "todas",
+    "anotada": "todas"
+  },
+  {
+    "id": "#0358#quic_vult",
+    "arcaica": "tres",
+    "modernizada": "três",
+    "anotada": "tre[ê]s"
+  },
+  {
+    "id": "#0359#quic_vult",
+    "arcaica": "pessoas",
+    "modernizada": "pessoas",
+    "anotada": "pessoas"
+  },
+  {
+    "id": "#0360#quic_vult",
+    "arcaica": "sam",
+    "modernizada": "são",
+    "anotada": "sa[ã]m[o]"
+  },
+  {
+    "id": "#0361#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0362#quic_vult",
+    "arcaica": "si",
+    "modernizada": "assim",
+    "anotada": "[+a]s[+s]i[+m]"
+  },
+  {
+    "id": "#0363#quic_vult",
+    "arcaica": "méésmas",
+    "modernizada": "mesmas",
+    "anotada": "mé[0é]é[e]smas"
+  },
+  {
+    "id": "#0364#quic_vult",
+    "arcaica": "coeternááes",
+    "modernizada": "coeternas",
+    "anotada": "coeterná[a]á[0á]e[0e]s"
+  },
+  {
+    "id": "#0365#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0366#quic_vult",
+    "arcaica": "yguááes",
+    "modernizada": "iguais",
+    "anotada": "y[i]guá[a]á[0á]e[i]s"
+  },
+  {
+    "id": "#0367#quic_vult",
+    "arcaica": "asi",
+    "modernizada": "assim",
+    "anotada": "as[+s]i[+m]"
+  },
+  {
+    "id": "#0368#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0369#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0370#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0371#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0372#quic_vult",
+    "arcaica": "per",
+    "modernizada": "por",
+    "anotada": "pe[o]r"
+  },
+  {
+    "id": "#0373#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0374#quic_vult",
+    "arcaica": "asi",
+    "modernizada": "assim",
+    "anotada": "as[+s]i[+m]"
+  },
+  {
+    "id": "#0375#quic_vult",
+    "arcaica": "como",
+    "modernizada": "como",
+    "anotada": "como"
+  },
+  {
+    "id": "#0376#quic_vult",
+    "arcaica": "dicto",
+    "modernizada": "dito",
+    "anotada": "dic[0c]to"
+  },
+  {
+    "id": "#0377#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0378#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0379#quic_vult",
+    "arcaica": "hunidade",
+    "modernizada": "unidade",
+    "anotada": "h[0h]unidade"
+  },
+  {
+    "id": "#0380#quic_vult",
+    "arcaica": "nos",
+    "modernizada": "nos",
+    "anotada": "nos"
+  },
+  {
+    "id": "#0381#quic_vult",
+    "arcaica": "seja",
+    "modernizada": "seja",
+    "anotada": "seja"
+  },
+  {
+    "id": "#0382#quic_vult",
+    "arcaica": "honrradoyra",
+    "modernizada": "honradora",
+    "anotada": "honr[0r]radoy[0y]ra"
+  },
+  {
+    "id": "#0383#quic_vult",
+    "arcaica": "ergo",
+    "modernizada": "ergo<assim>",
+    "anotada": "ergo<assim>"
+  },
+  {
+    "id": "#0384#quic_vult",
+    "arcaica": "aquell",
+    "modernizada": "aquele",
+    "anotada": "aquel[0l]l[+e]"
+  },
+  {
+    "id": "#0385#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0386#quic_vult",
+    "arcaica": "quiser",
+    "modernizada": "quiser",
+    "anotada": "quiser"
+  },
+  {
+    "id": "#0387#quic_vult",
+    "arcaica": "saluo",
+    "modernizada": "salvo",
+    "anotada": "salu[v]o"
+  },
+  {
+    "id": "#0388#quic_vult",
+    "arcaica": "seer",
+    "modernizada": "ser",
+    "anotada": "se[0e]er"
+  },
+  {
+    "id": "#0389#quic_vult",
+    "arcaica": "asi",
+    "modernizada": "assim",
+    "anotada": "as[+s]i[+m]"
+  },
+  {
+    "id": "#0390#quic_vult",
+    "arcaica": "da",
+    "modernizada": "da",
+    "anotada": "da"
+  },
+  {
+    "id": "#0391#quic_vult",
+    "arcaica": "trindade",
+    "modernizada": "trindade",
+    "anotada": "trindade"
+  },
+  {
+    "id": "#0392#quic_vult",
+    "arcaica": "lhe",
+    "modernizada": "lhe",
+    "anotada": "lhe"
+  },
+  {
+    "id": "#0393#quic_vult",
+    "arcaica": "cõuẽ",
+    "modernizada": "convém",
+    "anotada": "cõ[o][+n]u[v]ẽ[é][+m]"
+  },
+  {
+    "id": "#0394#quic_vult",
+    "arcaica": "entẽder",
+    "modernizada": "entender",
+    "anotada": "entẽ[e][+n]der"
+  },
+  {
+    "id": "#0395#quic_vult",
+    "arcaica": "pero",
+    "modernizada": "pero<mas>",
+    "anotada": "pero<mas>"
+  },
+  {
+    "id": "#0396#quic_vult",
+    "arcaica": "necesaryo",
+    "modernizada": "necessário",
+    "anotada": "neces[+s]a[á]ry[i]o"
+  },
+  {
+    "id": "#0397#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0398#quic_vult",
+    "arcaica": "pera",
+    "modernizada": "para",
+    "anotada": "pe[a]ra"
+  },
+  {
+    "id": "#0399#quic_vult",
+    "arcaica": "saude",
+    "modernizada": "saúde",
+    "anotada": "sau[ú]de"
+  },
+  {
+    "id": "#0400#quic_vult",
+    "arcaica": "eternal",
+    "modernizada": "eterna",
+    "anotada": "eternal[0l]"
+  },
+  {
+    "id": "#0401#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0402#quic_vult",
+    "arcaica": "cada",
+    "modernizada": "cada",
+    "anotada": "cada"
+  },
+  {
+    "id": "#0403#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0404#quic_vult",
+    "arcaica": "conhoça",
+    "modernizada": "conheça",
+    "anotada": "conho[e]ça"
+  },
+  {
+    "id": "#0405#quic_vult",
+    "arcaica": "fielmẽte",
+    "modernizada": "fielmente",
+    "anotada": "fielmẽ[e][+n]te"
+  },
+  {
+    "id": "#0406#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0407#quic_vult",
+    "arcaica": "ẽcarnaçõ",
+    "modernizada": "encarnação",
+    "anotada": "ẽ[e][+n]carnaçõ[ã][+o]"
+  },
+  {
+    "id": "#0408#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0409#quic_vult",
+    "arcaica": "nosso",
+    "modernizada": "nosso",
+    "anotada": "nosso"
+  },
+  {
+    "id": "#0410#quic_vult",
+    "arcaica": "senhor",
+    "modernizada": "senhor",
+    "anotada": "senhor"
+  },
+  {
+    "id": "#0411#quic_vult",
+    "arcaica": "ihesu",
+    "modernizada": "jesus",
+    "anotada": "i[j]h[0h]esu[+s]"
+  },
+  {
+    "id": "#0412#quic_vult",
+    "arcaica": "christo",
+    "modernizada": "cristo",
+    "anotada": "ch[0h]risto"
+  },
+  {
+    "id": "#0413#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0414#quic_vult",
+    "arcaica": "logo",
+    "modernizada": "logo",
+    "anotada": "logo"
+  },
+  {
+    "id": "#0415#quic_vult",
+    "arcaica": "fe",
+    "modernizada": "fé",
+    "anotada": "fe[é]"
+  },
+  {
+    "id": "#0416#quic_vult",
+    "arcaica": "dereita",
+    "modernizada": "direita",
+    "anotada": "de[i]reita"
+  },
+  {
+    "id": "#0417#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0418#quic_vult",
+    "arcaica": "creamos",
+    "modernizada": "creiamos",
+    "anotada": "cre[+i]amos"
+  },
+  {
+    "id": "#0419#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0420#quic_vult",
+    "arcaica": "cõfessemos",
+    "modernizada": "confessemos",
+    "anotada": "cõ[o][+n]fessemos"
+  },
+  {
+    "id": "#0421#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0422#quic_vult",
+    "arcaica": "nosso",
+    "modernizada": "nosso",
+    "anotada": "nosso"
+  },
+  {
+    "id": "#0423#quic_vult",
+    "arcaica": "senhor",
+    "modernizada": "senhor",
+    "anotada": "senhor"
+  },
+  {
+    "id": "#0424#quic_vult",
+    "arcaica": "ihesu",
+    "modernizada": "jesus",
+    "anotada": "i[j]h[0h]esu[+s]"
+  },
+  {
+    "id": "#0425#quic_vult",
+    "arcaica": "christo",
+    "modernizada": "cristo",
+    "anotada": "ch[0h]risto"
+  },
+  {
+    "id": "#0426#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0427#quic_vult",
+    "arcaica": "filho",
+    "modernizada": "filho",
+    "anotada": "filho"
+  },
+  {
+    "id": "#0428#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0429#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0430#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0431#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0432#quic_vult",
+    "arcaica": "homẽ",
+    "modernizada": "homem",
+    "anotada": "homẽ[e][+m]"
+  },
+  {
+    "id": "#0433#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0434#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0435#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0436#quic_vult",
+    "arcaica": "da",
+    "modernizada": "da",
+    "anotada": "da"
+  },
+  {
+    "id": "#0437#quic_vult",
+    "arcaica": "substancia",
+    "modernizada": "substância",
+    "anotada": "substa[â]ncia"
+  },
+  {
+    "id": "#0438#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0439#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0440#quic_vult",
+    "arcaica": "ante",
+    "modernizada": "ante",
+    "anotada": "ante"
+  },
+  {
+    "id": "#0441#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0442#quic_vult",
+    "arcaica": "segre",
+    "modernizada": "segre<mundo>",
+    "anotada": "segre<mundo>"
+  },
+  {
+    "id": "#0443#quic_vult",
+    "arcaica": "jéérado",
+    "modernizada": "gerado",
+    "anotada": "j[g]é[0é]é[e]rado"
+  },
+  {
+    "id": "#0444#quic_vult",
+    "arcaica": "homẽ",
+    "modernizada": "homem",
+    "anotada": "homẽ[e][+m]"
+  },
+  {
+    "id": "#0445#quic_vult",
+    "arcaica": "da",
+    "modernizada": "da",
+    "anotada": "da"
+  },
+  {
+    "id": "#0446#quic_vult",
+    "arcaica": "substancia",
+    "modernizada": "substância",
+    "anotada": "substa[â]ncia"
+  },
+  {
+    "id": "#0447#quic_vult",
+    "arcaica": "da",
+    "modernizada": "da",
+    "anotada": "da"
+  },
+  {
+    "id": "#0448#quic_vult",
+    "arcaica": "madre",
+    "modernizada": "mãe",
+    "anotada": "ma[ã]d[0d]r[0r]e"
+  },
+  {
+    "id": "#0449#quic_vult",
+    "arcaica": "no",
+    "modernizada": "no",
+    "anotada": "no"
+  },
+  {
+    "id": "#0450#quic_vult",
+    "arcaica": "mũdo",
+    "modernizada": "mundo",
+    "anotada": "mũ[u][+n]do"
+  },
+  {
+    "id": "#0451#quic_vult",
+    "arcaica": "nacido",
+    "modernizada": "nascido",
+    "anotada": "na[+s]cido"
+  },
+  {
+    "id": "#0452#quic_vult",
+    "arcaica": "perfeito",
+    "modernizada": "perfeito",
+    "anotada": "perfeito"
+  },
+  {
+    "id": "#0453#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0454#quic_vult",
+    "arcaica": "perfeito",
+    "modernizada": "perfeito",
+    "anotada": "perfeito"
+  },
+  {
+    "id": "#0455#quic_vult",
+    "arcaica": "homẽ",
+    "modernizada": "homem",
+    "anotada": "homẽ[e][+m]"
+  },
+  {
+    "id": "#0456#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0457#quic_vult",
+    "arcaica": "alma",
+    "modernizada": "alma",
+    "anotada": "alma"
+  },
+  {
+    "id": "#0458#quic_vult",
+    "arcaica": "racional",
+    "modernizada": "racional",
+    "anotada": "racional"
+  },
+  {
+    "id": "#0459#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0460#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0461#quic_vult",
+    "arcaica": "humana",
+    "modernizada": "humana",
+    "anotada": "humana"
+  },
+  {
+    "id": "#0462#quic_vult",
+    "arcaica": "carne",
+    "modernizada": "carne",
+    "anotada": "carne"
+  },
+  {
+    "id": "#0463#quic_vult",
+    "arcaica": "subsistente",
+    "modernizada": "subsistente",
+    "anotada": "subsistente"
+  },
+  {
+    "id": "#0464#quic_vult",
+    "arcaica": "igual",
+    "modernizada": "igual",
+    "anotada": "igual"
+  },
+  {
+    "id": "#0465#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0466#quic_vult",
+    "arcaica": "ao",
+    "modernizada": "ao",
+    "anotada": "ao"
+  },
+  {
+    "id": "#0467#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0468#quic_vult",
+    "arcaica": "segũdo",
+    "modernizada": "segundo",
+    "anotada": "segũ[u][+n]do"
+  },
+  {
+    "id": "#0469#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0470#quic_vult",
+    "arcaica": "diuĩj̃dade",
+    "modernizada": "divindade",
+    "anotada": "diu[v]ĩ[i]j̃[n]dade"
+  },
+  {
+    "id": "#0471#quic_vult",
+    "arcaica": "menor",
+    "modernizada": "menor",
+    "anotada": "menor"
+  },
+  {
+    "id": "#0472#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0473#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0474#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0475#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0476#quic_vult",
+    "arcaica": "segundo",
+    "modernizada": "segundo",
+    "anotada": "segundo"
+  },
+  {
+    "id": "#0477#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0478#quic_vult",
+    "arcaica": "humanidade",
+    "modernizada": "humanidade",
+    "anotada": "humanidade"
+  },
+  {
+    "id": "#0479#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0480#quic_vult",
+    "arcaica": "qual",
+    "modernizada": "qual",
+    "anotada": "qual"
+  },
+  {
+    "id": "#0481#quic_vult",
+    "arcaica": "ajnda",
+    "modernizada": "ainda",
+    "anotada": "aj[i]nda"
+  },
+  {
+    "id": "#0482#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0483#quic_vult",
+    "arcaica": "seja",
+    "modernizada": "seja",
+    "anotada": "seja"
+  },
+  {
+    "id": "#0484#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0485#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0486#quic_vult",
+    "arcaica": "homẽ",
+    "modernizada": "homem",
+    "anotada": "homẽ[e][+m]"
+  },
+  {
+    "id": "#0487#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0488#quic_vult",
+    "arcaica": "som",
+    "modernizada": "são",
+    "anotada": "so[ã]m[o]"
+  },
+  {
+    "id": "#0489#quic_vult",
+    "arcaica": "pero",
+    "modernizada": "pero<mas>",
+    "anotada": "pero<mas>"
+  },
+  {
+    "id": "#0490#quic_vult",
+    "arcaica": "duas",
+    "modernizada": "duas",
+    "anotada": "duas"
+  },
+  {
+    "id": "#0491#quic_vult",
+    "arcaica": "cousas",
+    "modernizada": "coisas",
+    "anotada": "cou[i]sas"
+  },
+  {
+    "id": "#0492#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0493#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0494#quic_vult",
+    "arcaica": "sóó",
+    "modernizada": "só",
+    "anotada": "só[0ó]ó"
+  },
+  {
+    "id": "#0495#quic_vult",
+    "arcaica": "christo",
+    "modernizada": "cristo",
+    "anotada": "ch[0h]risto"
+  },
+  {
+    "id": "#0496#quic_vult",
+    "arcaica": "hũu",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u][+m]"
+  },
+  {
+    "id": "#0497#quic_vult",
+    "arcaica": "na",
+    "modernizada": "na",
+    "anotada": "na"
+  },
+  {
+    "id": "#0498#quic_vult",
+    "arcaica": "cõuersaçõ",
+    "modernizada": "conversação",
+    "anotada": "cõ[o][+n]u[v]ersaçõ[ã][+o]"
+  },
+  {
+    "id": "#0499#quic_vult",
+    "arcaica": "da",
+    "modernizada": "da",
+    "anotada": "da"
+  },
+  {
+    "id": "#0500#quic_vult",
+    "arcaica": "deuĩj̃dade",
+    "modernizada": "divindade",
+    "anotada": "de[i]u[v]ĩ[i]j̃[n]dade"
+  },
+  {
+    "id": "#0501#quic_vult",
+    "arcaica": "em",
+    "modernizada": "em",
+    "anotada": "em"
+  },
+  {
+    "id": "#0502#quic_vult",
+    "arcaica": "carne",
+    "modernizada": "carne",
+    "anotada": "carne"
+  },
+  {
+    "id": "#0503#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0504#quic_vult",
+    "arcaica": "asunçõ",
+    "modernizada": "assunção",
+    "anotada": "a[+s]sunçõ[ã][+o]"
+  },
+  {
+    "id": "#0505#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0506#quic_vult",
+    "arcaica": "humanidade",
+    "modernizada": "humanidade",
+    "anotada": "humanidade"
+  },
+  {
+    "id": "#0507#quic_vult",
+    "arcaica": "ẽ",
+    "modernizada": "em",
+    "anotada": "ẽ[e][+m]"
+  },
+  {
+    "id": "#0508#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0509#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0510#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0511#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0512#quic_vult",
+    "arcaica": "em",
+    "modernizada": "em",
+    "anotada": "em"
+  },
+  {
+    "id": "#0513#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0514#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0515#quic_vult",
+    "arcaica": "per",
+    "modernizada": "por",
+    "anotada": "pe[o]r"
+  },
+  {
+    "id": "#0516#quic_vult",
+    "arcaica": "confusom",
+    "modernizada": "confusão",
+    "anotada": "confuso[ã]m[o]"
+  },
+  {
+    "id": "#0517#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0518#quic_vult",
+    "arcaica": "substancia",
+    "modernizada": "substância",
+    "anotada": "substa[â]ncia"
+  },
+  {
+    "id": "#0519#quic_vult",
+    "arcaica": "mas",
+    "modernizada": "mas",
+    "anotada": "mas"
+  },
+  {
+    "id": "#0520#quic_vult",
+    "arcaica": "per",
+    "modernizada": "por",
+    "anotada": "pe[o]r"
+  },
+  {
+    "id": "#0521#quic_vult",
+    "arcaica": "hunidade",
+    "modernizada": "unidade",
+    "anotada": "h[0h]unidade"
+  },
+  {
+    "id": "#0522#quic_vult",
+    "arcaica": "da",
+    "modernizada": "da",
+    "anotada": "da"
+  },
+  {
+    "id": "#0523#quic_vult",
+    "arcaica": "pessoa",
+    "modernizada": "pessoa",
+    "anotada": "pessoa"
+  },
+  {
+    "id": "#0524#quic_vult",
+    "arcaica": "ca",
+    "modernizada": "ca<porque>",
+    "anotada": "ca<porque>"
+  },
+  {
+    "id": "#0525#quic_vult",
+    "arcaica": "asy",
+    "modernizada": "assim",
+    "anotada": "as[+s]y[i][+m]"
+  },
+  {
+    "id": "#0526#quic_vult",
+    "arcaica": "como",
+    "modernizada": "como",
+    "anotada": "como"
+  },
+  {
+    "id": "#0527#quic_vult",
+    "arcaica": "á",
+    "modernizada": "a",
+    "anotada": "á[a]"
+  },
+  {
+    "id": "#0528#quic_vult",
+    "arcaica": "álma",
+    "modernizada": "alma",
+    "anotada": "á[a]lma"
+  },
+  {
+    "id": "#0529#quic_vult",
+    "arcaica": "rracional",
+    "modernizada": "racional",
+    "anotada": "r[0r]racional"
+  },
+  {
+    "id": "#0530#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0531#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0532#quic_vult",
+    "arcaica": "carne",
+    "modernizada": "carne",
+    "anotada": "carne"
+  },
+  {
+    "id": "#0533#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0534#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0535#quic_vult",
+    "arcaica": "homẽ",
+    "modernizada": "homem",
+    "anotada": "homẽ[e][+m]"
+  },
+  {
+    "id": "#0536#quic_vult",
+    "arcaica": "asy",
+    "modernizada": "assim",
+    "anotada": "as[+s]y[i][+m]"
+  },
+  {
+    "id": "#0537#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0538#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0539#quic_vult",
+    "arcaica": "homẽ",
+    "modernizada": "homem",
+    "anotada": "homẽ[e][+m]"
+  },
+  {
+    "id": "#0540#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0541#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0542#quic_vult",
+    "arcaica": "christo",
+    "modernizada": "cristo",
+    "anotada": "ch[0h]risto"
+  },
+  {
+    "id": "#0543#quic_vult",
+    "arcaica": "o",
+    "modernizada": "o",
+    "anotada": "o"
+  },
+  {
+    "id": "#0544#quic_vult",
+    "arcaica": "qual",
+    "modernizada": "qual",
+    "anotada": "qual"
+  },
+  {
+    "id": "#0545#quic_vult",
+    "arcaica": "padeceo",
+    "modernizada": "padeceu",
+    "anotada": "padeceo[u]"
+  },
+  {
+    "id": "#0546#quic_vult",
+    "arcaica": "por",
+    "modernizada": "por",
+    "anotada": "por"
+  },
+  {
+    "id": "#0547#quic_vult",
+    "arcaica": "nossa",
+    "modernizada": "nossa",
+    "anotada": "nossa"
+  },
+  {
+    "id": "#0548#quic_vult",
+    "arcaica": "saude",
+    "modernizada": "saúde",
+    "anotada": "sau[ú]de"
+  },
+  {
+    "id": "#0549#quic_vult",
+    "arcaica": "descẽdeo",
+    "modernizada": "descendeu",
+    "anotada": "descẽ[e][+n]deo[u]"
+  },
+  {
+    "id": "#0550#quic_vult",
+    "arcaica": "aos",
+    "modernizada": "aos",
+    "anotada": "aos"
+  },
+  {
+    "id": "#0551#quic_vult",
+    "arcaica": "jnfernos",
+    "modernizada": "infernos",
+    "anotada": "j[i]nfernos"
+  },
+  {
+    "id": "#0552#quic_vult",
+    "arcaica": "ao",
+    "modernizada": "ao",
+    "anotada": "ao"
+  },
+  {
+    "id": "#0553#quic_vult",
+    "arcaica": "terceiro",
+    "modernizada": "terceiro",
+    "anotada": "terceiro"
+  },
+  {
+    "id": "#0554#quic_vult",
+    "arcaica": "dia",
+    "modernizada": "dia",
+    "anotada": "dia"
+  },
+  {
+    "id": "#0555#quic_vult",
+    "arcaica": "resurgio",
+    "modernizada": "ressurgiu",
+    "anotada": "res[+s]urgio[u]"
+  },
+  {
+    "id": "#0556#quic_vult",
+    "arcaica": "d’antre",
+    "modernizada": "diante",
+    "anotada": "d’[i]antr[0r]e"
+  },
+  {
+    "id": "#0557#quic_vult",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0558#quic_vult",
+    "arcaica": "mortos",
+    "modernizada": "mortos",
+    "anotada": "mortos"
+  },
+  {
+    "id": "#0559#quic_vult",
+    "arcaica": "acendeo",
+    "modernizada": "ascendeu",
+    "anotada": "a[+s]cendeo[u]"
+  },
+  {
+    "id": "#0560#quic_vult",
+    "arcaica": "aos",
+    "modernizada": "aos",
+    "anotada": "aos"
+  },
+  {
+    "id": "#0561#quic_vult",
+    "arcaica": "cééos",
+    "modernizada": "céus",
+    "anotada": "cé[0é]éo[u]s"
+  },
+  {
+    "id": "#0562#quic_vult",
+    "arcaica": "see",
+    "modernizada": "senta",
+    "anotada": "see[+n][+t][+a]"
+  },
+  {
+    "id": "#0563#quic_vult",
+    "arcaica": "aa",
+    "modernizada": "à",
+    "anotada": "a[0a]a[à]"
+  },
+  {
+    "id": "#0564#quic_vult",
+    "arcaica": "deestra",
+    "modernizada": "destra",
+    "anotada": "de[0e]estra"
+  },
+  {
+    "id": "#0565#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0566#quic_vult",
+    "arcaica": "deus",
+    "modernizada": "deus",
+    "anotada": "deus"
+  },
+  {
+    "id": "#0567#quic_vult",
+    "arcaica": "padre",
+    "modernizada": "pai",
+    "anotada": "pad[0d]r[0r]e[i]"
+  },
+  {
+    "id": "#0568#quic_vult",
+    "arcaica": "todo",
+    "modernizada": "todo",
+    "anotada": "todo"
+  },
+  {
+    "id": "#0569#quic_vult",
+    "arcaica": "poderoso",
+    "modernizada": "poderoso",
+    "anotada": "poderoso"
+  },
+  {
+    "id": "#0570#quic_vult",
+    "arcaica": "donde",
+    "modernizada": "donde",
+    "anotada": "donde"
+  },
+  {
+    "id": "#0571#quic_vult",
+    "arcaica": "ha",
+    "modernizada": "há",
+    "anotada": "ha[á]"
+  },
+  {
+    "id": "#0572#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0573#quic_vult",
+    "arcaica": "uĩj̃r",
+    "modernizada": "vir",
+    "anotada": "u[v]ĩ[0ĩ]j̃[i]r"
+  },
+  {
+    "id": "#0574#quic_vult",
+    "arcaica": "julgar",
+    "modernizada": "julgar",
+    "anotada": "julgar"
+  },
+  {
+    "id": "#0575#quic_vult",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0576#quic_vult",
+    "arcaica": "uiuos",
+    "modernizada": "vivos",
+    "anotada": "u[v]iu[v]os"
+  },
+  {
+    "id": "#0577#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0578#quic_vult",
+    "arcaica": "os",
+    "modernizada": "os",
+    "anotada": "os"
+  },
+  {
+    "id": "#0579#quic_vult",
+    "arcaica": "mortos",
+    "modernizada": "mortos",
+    "anotada": "mortos"
+  },
+  {
+    "id": "#0580#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0581#quic_vult",
+    "arcaica": "uinda",
+    "modernizada": "vinda",
+    "anotada": "u[v]inda"
+  },
+  {
+    "id": "#0582#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0583#quic_vult",
+    "arcaica": "quall",
+    "modernizada": "qual",
+    "anotada": "qual[0l]l"
+  },
+  {
+    "id": "#0584#quic_vult",
+    "arcaica": "todollos",
+    "modernizada": "todos os",
+    "anotada": "todo[+s][+_]l[0l]l[0l]os"
+  },
+  {
+    "id": "#0585#quic_vult",
+    "arcaica": "llos",
+    "modernizada": "os",
+    "anotada": "l[0l]l[0l]os"
+  },
+  {
+    "id": "#0586#quic_vult",
+    "arcaica": "homẽẽs",
+    "modernizada": "homens",
+    "anotada": "homẽ[0ẽ]ẽ[n]s"
+  },
+  {
+    "id": "#0587#quic_vult",
+    "arcaica": "ham",
+    "modernizada": "hão",
+    "anotada": "ha[ã]m[o]"
+  },
+  {
+    "id": "#0588#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0589#quic_vult",
+    "arcaica": "rresurgir",
+    "modernizada": "ressurgir",
+    "anotada": "r[0r]res[+s]urgir"
+  },
+  {
+    "id": "#0590#quic_vult",
+    "arcaica": "cõ",
+    "modernizada": "com",
+    "anotada": "cõ[o][+m]"
+  },
+  {
+    "id": "#0591#quic_vult",
+    "arcaica": "seus",
+    "modernizada": "seus",
+    "anotada": "seus"
+  },
+  {
+    "id": "#0592#quic_vult",
+    "arcaica": "corpos",
+    "modernizada": "corpos",
+    "anotada": "corpos"
+  },
+  {
+    "id": "#0593#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0594#quic_vult",
+    "arcaica": "am",
+    "modernizada": "hão",
+    "anotada": "[+h]a[ã]m[o]"
+  },
+  {
+    "id": "#0595#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0596#quic_vult",
+    "arcaica": "dar",
+    "modernizada": "dar",
+    "anotada": "dar"
+  },
+  {
+    "id": "#0597#quic_vult",
+    "arcaica": "rrazõ",
+    "modernizada": "razão",
+    "anotada": "r[0r]razõ[ã][+o]"
+  },
+  {
+    "id": "#0598#quic_vult",
+    "arcaica": "de",
+    "modernizada": "de",
+    "anotada": "de"
+  },
+  {
+    "id": "#0599#quic_vult",
+    "arcaica": "seus",
+    "modernizada": "seus",
+    "anotada": "seus"
+  },
+  {
+    "id": "#0600#quic_vult",
+    "arcaica": "proprios",
+    "modernizada": "próprios",
+    "anotada": "pro[ó]prios"
+  },
+  {
+    "id": "#0601#quic_vult",
+    "arcaica": "feitos",
+    "modernizada": "feitos",
+    "anotada": "feitos"
+  },
+  {
+    "id": "#0602#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0603#quic_vult",
+    "arcaica": "aquelles",
+    "modernizada": "aqueles",
+    "anotada": "aquel[0l]les"
+  },
+  {
+    "id": "#0604#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0605#quic_vult",
+    "arcaica": "fezerẽ",
+    "modernizada": "fizerem",
+    "anotada": "fe[i]zerẽ[e][+m]"
+  },
+  {
+    "id": "#0606#quic_vult",
+    "arcaica": "bem",
+    "modernizada": "bem",
+    "anotada": "bem"
+  },
+  {
+    "id": "#0607#quic_vult",
+    "arcaica": "jram",
+    "modernizada": "irão",
+    "anotada": "j[i]ra[ã]m[o]"
+  },
+  {
+    "id": "#0608#quic_vult",
+    "arcaica": "aa",
+    "modernizada": "à",
+    "anotada": "a[0a]a[à]"
+  },
+  {
+    "id": "#0609#quic_vult",
+    "arcaica": "uida",
+    "modernizada": "vida",
+    "anotada": "u[v]ida"
+  },
+  {
+    "id": "#0610#quic_vult",
+    "arcaica": "eternal",
+    "modernizada": "eterna",
+    "anotada": "eternal[0l]"
+  },
+  {
+    "id": "#0611#quic_vult",
+    "arcaica": "e",
+    "modernizada": "e",
+    "anotada": "e"
+  },
+  {
+    "id": "#0612#quic_vult",
+    "arcaica": "aquelles",
+    "modernizada": "aqueles",
+    "anotada": "aquel[0l]les"
+  },
+  {
+    "id": "#0613#quic_vult",
+    "arcaica": "que",
+    "modernizada": "que",
+    "anotada": "que"
+  },
+  {
+    "id": "#0614#quic_vult",
+    "arcaica": "fezerõ",
+    "modernizada": "fizeram",
+    "anotada": "fe[i]zerõ[a][+m]"
+  },
+  {
+    "id": "#0615#quic_vult",
+    "arcaica": "mal",
+    "modernizada": "mal",
+    "anotada": "mal"
+  },
+  {
+    "id": "#0616#quic_vult",
+    "arcaica": "iram",
+    "modernizada": "irão",
+    "anotada": "ira[ã]m[o]"
+  },
+  {
+    "id": "#0617#quic_vult",
+    "arcaica": "ao",
+    "modernizada": "ao",
+    "anotada": "ao"
+  },
+  {
+    "id": "#0618#quic_vult",
+    "arcaica": "fogo",
+    "modernizada": "fogo",
+    "anotada": "fogo"
+  },
+  {
+    "id": "#0619#quic_vult",
+    "arcaica": "do",
+    "modernizada": "do",
+    "anotada": "do"
+  },
+  {
+    "id": "#0620#quic_vult",
+    "arcaica": "jnferno",
+    "modernizada": "inferno",
+    "anotada": "j[i]nferno"
+  },
+  {
+    "id": "#0621#quic_vult",
+    "arcaica": "esta",
+    "modernizada": "esta",
+    "anotada": "esta"
+  },
+  {
+    "id": "#0622#quic_vult",
+    "arcaica": "he",
+    "modernizada": "é",
+    "anotada": "h[0h]e[é]"
+  },
+  {
+    "id": "#0623#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0624#quic_vult",
+    "arcaica": "fe",
+    "modernizada": "fé",
+    "anotada": "fe[é]"
+  },
+  {
+    "id": "#0625#quic_vult",
+    "arcaica": "catholica",
+    "modernizada": "católica",
+    "anotada": "cath[0h]o[ó]lica"
+  },
+  {
+    "id": "#0626#quic_vult",
+    "arcaica": "a",
+    "modernizada": "a",
+    "anotada": "a"
+  },
+  {
+    "id": "#0627#quic_vult",
+    "arcaica": "quall",
+    "modernizada": "qual",
+    "anotada": "qual[0l]l"
+  },
+  {
+    "id": "#0628#quic_vult",
+    "arcaica": "se",
+    "modernizada": "se",
+    "anotada": "se"
+  },
+  {
+    "id": "#0629#quic_vult",
+    "arcaica": "cada",
+    "modernizada": "cada",
+    "anotada": "cada"
+  },
+  {
+    "id": "#0630#quic_vult",
+    "arcaica": "hũũ",
+    "modernizada": "um",
+    "anotada": "h[0h]ũ[u]ũ[m]"
+  },
+  {
+    "id": "#0631#quic_vult",
+    "arcaica": "fielmẽte",
+    "modernizada": "fielmente",
+    "anotada": "fielmẽ[e][+n]te"
+  },
+  {
+    "id": "#0632#quic_vult",
+    "arcaica": "firmemẽte",
+    "modernizada": "firmemente",
+    "anotada": "firmemẽ[e][+n]te"
+  },
+  {
+    "id": "#0633#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0634#quic_vult",
+    "arcaica": "creer",
+    "modernizada": "crer",
+    "anotada": "cre[0e]er"
+  },
+  {
+    "id": "#0635#quic_vult",
+    "arcaica": "per",
+    "modernizada": "por",
+    "anotada": "pe[o]r"
+  },
+  {
+    "id": "#0636#quic_vult",
+    "arcaica": "nẽhũa",
+    "modernizada": "nenhuma",
+    "anotada": "nẽ[e][+n]hũ[u][+m]a"
+  },
+  {
+    "id": "#0637#quic_vult",
+    "arcaica": "guisa",
+    "modernizada": "guisa<forma>",
+    "anotada": "guisa<forma>"
+  },
+  {
+    "id": "#0638#quic_vult",
+    "arcaica": "saluo",
+    "modernizada": "salvo",
+    "anotada": "salu[v]o"
+  },
+  {
+    "id": "#0639#quic_vult",
+    "arcaica": "nõ",
+    "modernizada": "não",
+    "anotada": "nõ[ã][+o]"
+  },
+  {
+    "id": "#0640#quic_vult",
+    "arcaica": "pode",
+    "modernizada": "pode",
+    "anotada": "pode"
+  },
+  {
+    "id": "#0641#quic_vult",
+    "arcaica": "séér",
+    "modernizada": "ser",
+    "anotada": "sé[0é]é[e]r"
+  }
+]
