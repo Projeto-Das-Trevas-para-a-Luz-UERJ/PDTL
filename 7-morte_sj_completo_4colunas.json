@@ -4790,8 +4790,8 @@
   {
     "id": "#0799#morte_sj",
     "arcaica": "destra",
-    "modernizada": "destra",
-    "anotada": "destra"
+    "modernizada": "destra<direita>",
+    "anotada": "destra<direita>"
   },
   {
     "id": "#0800#morte_sj",
@@ -7232,7 +7232,7 @@
   {
     "id": "#1206#morte_sj",
     "arcaica": "sees",
-    "modernizada": "és",
+    "modernizada": "sees<és>",
     "anotada": "sees<és>"
   },
   {
@@ -7256,8 +7256,8 @@
   {
     "id": "#1210#morte_sj",
     "arcaica": "destra",
-    "modernizada": "destra",
-    "anotada": "destra"
+    "modernizada": "destra<direita>",
+    "anotada": "destra<direita>"
   },
   {
     "id": "#1211#morte_sj",
@@ -8174,7 +8174,7 @@
   {
     "id": "#1363#morte_sj",
     "arcaica": "sees",
-    "modernizada": "és",
+    "modernizada": "sees<és>",
     "anotada": "sees<és>"
   },
   {
@@ -14318,7 +14318,7 @@
   {
     "id": "#2387#morte_sj",
     "arcaica": "todos",
-    "modernizada": "todos os",
+    "modernizada": "todos",
     "anotada": "todos"
   },
   {

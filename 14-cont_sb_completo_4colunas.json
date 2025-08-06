@@ -27,7 +27,7 @@
     "id": "#0005#cont_sb",
     "arcaica": "san to",
     "modernizada": "santo",
-    "anotada": "santo"
+    "anotada": "san [0_]to"
   },
   {
     "id": "#0006#cont_sb",
@@ -29846,8 +29846,8 @@
   {
     "id": "#4975#cont_sb",
     "arcaica": "destra",
-    "modernizada": "destra",
-    "anotada": "destra"
+    "modernizada": "destra<direita>",
+    "anotada": "destra<direita>"
   },
   {
     "id": "#4976#cont_sb",
@@ -29870,8 +29870,8 @@
   {
     "id": "#4979#cont_sb",
     "arcaica": "sestra",
-    "modernizada": "sestra",
-    "anotada": "sestra"
+    "modernizada": "sestra<esquerda>",
+    "anotada": "sestra<esquerda>"
   },
   {
     "id": "#4980#cont_sb",
@@ -40202,7 +40202,7 @@
   {
     "id": "#6701#cont_sb",
     "arcaica": "ey",
-    "modernizada": "há",
+    "modernizada": "ey<há>",
     "anotada": "ey<há>"
   },
   {

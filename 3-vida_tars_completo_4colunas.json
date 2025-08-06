@@ -38,8 +38,8 @@
   {
     "id": "#0007#vida_tars",
     "arcaica": "tarssis",
-    "modernizada": "tarssis",
-    "anotada": "tarssis"
+    "modernizada": "tarsis",
+    "anotada": "tars[0s]sis"
   },
   {
     "id": "#0008#vida_tars",
@@ -2024,8 +2024,8 @@
   {
     "id": "#0338#vida_tars",
     "arcaica": "ho",
-    "modernizada": "o",
-    "anotada": "eu"
+    "modernizada": "hoje",
+    "anotada": "ho[+j][+e]"
   },
   {
     "id": "#0339#vida_tars",

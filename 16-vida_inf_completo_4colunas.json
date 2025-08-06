@@ -41378,8 +41378,8 @@
   {
     "id": "#06897#vida_inf",
     "arcaica": "njmjgalha",
-    "modernizada": "njmjgalha<nimidade>",
-    "anotada": "njmjgalha<nimidade>"
+    "modernizada": "njmjgalha<pequenez>",
+    "anotada": "njmjgalha<pequenez>"
   },
   {
     "id": "#06898#vida_inf",
@@ -100867,15 +100867,15 @@
   },
   {
     "id": "#16816#vida_inf",
-    "arcaica": "a",
-    "modernizada": "a",
-    "anotada": "a"
+    "arcaica": "a el",
+    "modernizada": "a el<ao>",
+    "anotada": "a el<ao>"
   },
   {
     "id": "#16817#vida_inf",
-    "arcaica": "el rey",
-    "modernizada": "el-rei",
-    "anotada": "el[0_][+-]rey[i]"
+    "arcaica": "rey",
+    "modernizada": "rei",
+    "anotada": "rey[i]"
   },
   {
     "id": "#16818#vida_inf",
@@ -113066,8 +113066,8 @@
   {
     "id": "#18849#vida_inf",
     "arcaica": "sestra",
-    "modernizada": "sestra",
-    "anotada": "sestra"
+    "modernizada": "sestra<esquerda>",
+    "anotada": "sestra<esquerda>"
   },
   {
     "id": "#18850#vida_inf",
@@ -118551,7 +118551,7 @@
     "id": "#19763#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#19764#vida_inf",
@@ -118928,8 +118928,8 @@
   {
     "id": "#19826#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#19827#vida_inf",
@@ -119469,7 +119469,7 @@
     "id": "#19916#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#19917#vida_inf",
@@ -120026,8 +120026,8 @@
   {
     "id": "#20009#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#20010#vida_inf",
@@ -123195,7 +123195,7 @@
     "id": "#20537#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#20538#vida_inf",
@@ -123344,8 +123344,8 @@
   {
     "id": "#20562#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#20563#vida_inf",
@@ -123584,8 +123584,8 @@
   {
     "id": "#20602#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#20603#vida_inf",
@@ -124604,8 +124604,8 @@
   {
     "id": "#20772#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#20773#vida_inf",
@@ -125091,7 +125091,7 @@
     "id": "#20853#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#20854#vida_inf",
@@ -125282,8 +125282,8 @@
   {
     "id": "#20885#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#20886#vida_inf",
@@ -125852,8 +125852,8 @@
   {
     "id": "#20980#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#20981#vida_inf",
@@ -126351,7 +126351,7 @@
     "id": "#21063#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#21064#vida_inf",
@@ -127700,8 +127700,8 @@
   {
     "id": "#21288#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#21289#vida_inf",
@@ -127905,7 +127905,7 @@
     "id": "#21322#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#21323#vida_inf",
@@ -128588,8 +128588,8 @@
   {
     "id": "#21436#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#21437#vida_inf",
@@ -129159,7 +129159,7 @@
     "id": "#21531#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#21532#vida_inf",
@@ -129861,7 +129861,7 @@
     "id": "#21648#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#21649#vida_inf",
@@ -130035,7 +130035,7 @@
     "id": "#21677#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#21678#vida_inf",
@@ -131492,8 +131492,8 @@
   {
     "id": "#21920#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#21921#vida_inf",
@@ -133352,8 +133352,8 @@
   {
     "id": "#22231#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#22232#vida_inf",
@@ -133653,7 +133653,7 @@
     "id": "#22281#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#22282#vida_inf",
@@ -134073,7 +134073,7 @@
     "id": "#22351#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#22352#vida_inf",
@@ -135111,7 +135111,7 @@
     "id": "#22524#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#22525#vida_inf",
@@ -135339,7 +135339,7 @@
     "id": "#22562#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#22563#vida_inf",
@@ -135800,8 +135800,8 @@
   {
     "id": "#22639#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#22640#vida_inf",
@@ -136928,8 +136928,8 @@
   {
     "id": "#22827#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#22828#vida_inf",
@@ -137306,8 +137306,8 @@
   {
     "id": "#22890#vida_inf",
     "arcaica": "desy",
-    "modernizada": "desde então",
-    "anotada": "desde então"
+    "modernizada": "desy<desde então>",
+    "anotada": "desy<desde então>"
   },
   {
     "id": "#22891#vida_inf",
@@ -138272,8 +138272,8 @@
   {
     "id": "#23051#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#23052#vida_inf",
@@ -138686,8 +138686,8 @@
   {
     "id": "#23120#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#23121#vida_inf",
@@ -138807,7 +138807,7 @@
     "id": "#23140#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#23141#vida_inf",
@@ -138896,8 +138896,8 @@
   {
     "id": "#23155#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#23156#vida_inf",
@@ -139509,7 +139509,7 @@
     "id": "#23258#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#23259#vida_inf",
@@ -140901,7 +140901,7 @@
     "id": "#23490#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#23491#vida_inf",
@@ -141188,8 +141188,8 @@
   {
     "id": "#23538#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#23539#vida_inf",
@@ -141764,8 +141764,8 @@
   {
     "id": "#23635#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#23636#vida_inf",
@@ -141884,8 +141884,8 @@
   {
     "id": "#23655#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#23656#vida_inf",
@@ -142592,8 +142592,8 @@
   {
     "id": "#23773#vida_inf",
     "arcaica": "barlaão",
-    "modernizada": "barlão",
-    "anotada": "barla[0a]ão"
+    "modernizada": "barlaão",
+    "anotada": "barlaão"
   },
   {
     "id": "#23774#vida_inf",
@@ -143511,7 +143511,7 @@
     "id": "#23926#vida_inf",
     "arcaica": "barlãao",
     "modernizada": "barlão",
-    "anotada": "barlãa[0a]o"
+    "anotada": "barl[+a]ãa[0a]o"
   },
   {
     "id": "#23927#vida_inf",
