@@ -302,7 +302,7 @@
   {
     "id": "#0051#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -326,7 +326,7 @@
   {
     "id": "#0055#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -404,7 +404,7 @@
   {
     "id": "#0068#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -632,7 +632,7 @@
   {
     "id": "#0106#trat_dev",
     "arcaica": "che",
-    "modernizada": "che<te>",
+    "modernizada": "te",
     "anotada": "che<te>"
   },
   {
@@ -1148,7 +1148,7 @@
   {
     "id": "#0192#trat_dev",
     "arcaica": "troussir",
-    "modernizada": "troussir<tragar>",
+    "modernizada": "tragar",
     "anotada": "troussir<tragar>"
   },
   {
@@ -1478,13 +1478,13 @@
   {
     "id": "#0247#trat_dev",
     "arcaica": "hy",
-    "modernizada": "hy<aí>",
+    "modernizada": "aí",
     "anotada": "hy<aí>"
   },
   {
     "id": "#0248#trat_dev",
     "arcaica": "al",
-    "modernizada": "al<outro>",
+    "modernizada": "outro",
     "anotada": "al<outro>"
   },
   {
@@ -1604,13 +1604,13 @@
   {
     "id": "#0268#trat_dev",
     "arcaica": "cõpridamẽte",
-    "modernizada": "cõpridamẽte<cumprimento>",
+    "modernizada": "cumprimento",
     "anotada": "cõpridamẽte<cumprimento>"
   },
   {
     "id": "#0269#trat_dev",
     "arcaica": "ajam",
-    "modernizada": "ajam<tenham>",
+    "modernizada": "tenham",
     "anotada": "ajam<tenham>"
   },
   {
@@ -1670,7 +1670,7 @@
   {
     "id": "#0279#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -4040,7 +4040,7 @@
   {
     "id": "#0674#trat_dev",
     "arcaica": "profaça",
-    "modernizada": "profaça<profira>",
+    "modernizada": "profira",
     "anotada": "profaça<profira>"
   },
   {
@@ -4268,7 +4268,7 @@
   {
     "id": "#0712#trat_dev",
     "arcaica": "angosto",
-    "modernizada": "angosto<apertado>",
+    "modernizada": "apertado",
     "anotada": "angosto<apertado>"
   },
   {
@@ -4292,7 +4292,7 @@
   {
     "id": "#0716#trat_dev",
     "arcaica": "hy",
-    "modernizada": "hy<aí>",
+    "modernizada": "aí",
     "anotada": "hy<aí>"
   },
   {
@@ -4340,7 +4340,7 @@
   {
     "id": "#0724#trat_dev",
     "arcaica": "des y",
-    "modernizada": "des y<então>",
+    "modernizada": "então",
     "anotada": "des y<então>"
   },
   {
@@ -4562,7 +4562,7 @@
   {
     "id": "#0761#trat_dev",
     "arcaica": "des y",
-    "modernizada": "des y<então>",
+    "modernizada": "então",
     "anotada": "des y<então>"
   },
   {
@@ -5366,7 +5366,7 @@
   {
     "id": "#0895#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -5684,7 +5684,7 @@
   {
     "id": "#0948#trat_dev",
     "arcaica": "mancibia",
-    "modernizada": "mancibia<mocidade>",
+    "modernizada": "mocidade",
     "anotada": "mancibia<mocidade>"
   },
   {
@@ -5798,7 +5798,7 @@
   {
     "id": "#0967#trat_dev",
     "arcaica": "al",
-    "modernizada": "al<outra coisa>",
+    "modernizada": "outra coisa",
     "anotada": "al<outra coisa>"
   },
   {
@@ -5906,7 +5906,7 @@
   {
     "id": "#0985#trat_dev",
     "arcaica": "hy",
-    "modernizada": "hy<aí>",
+    "modernizada": "aí",
     "anotada": "hy<aí>"
   },
   {
@@ -6602,7 +6602,7 @@
   {
     "id": "#1101#trat_dev",
     "arcaica": "tomar",
-    "modernizada": "tomar<tomando>",
+    "modernizada": "tomando",
     "anotada": "tomar<tomando>"
   },
   {
@@ -6962,7 +6962,7 @@
   {
     "id": "#1161#trat_dev",
     "arcaica": "alicornyo",
-    "modernizada": "alicornyo<unicórnio>",
+    "modernizada": "unicórnio",
     "anotada": "alicornyo<unicórnio>"
   },
   {
@@ -7010,13 +7010,13 @@
   {
     "id": "#1169#trat_dev",
     "arcaica": "pollo",
-    "modernizada": "pollo<para o>",
+    "modernizada": "para o",
     "anotada": "pollo<para o>"
   },
   {
     "id": "#1170#trat_dev",
     "arcaica": "debrotir",
-    "modernizada": "debrotir<devorar>",
+    "modernizada": "devorar",
     "anotada": "debrotir<devorar>"
   },
   {
@@ -7154,7 +7154,7 @@
   {
     "id": "#1193#trat_dev",
     "arcaica": "dello",
-    "modernizada": "dello<delas>",
+    "modernizada": "delas",
     "anotada": "dello<delas>"
   },
   {
@@ -7934,7 +7934,7 @@
   {
     "id": "#1323#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -8354,7 +8354,7 @@
   {
     "id": "#1393#trat_dev",
     "arcaica": "ellrrey",
-    "modernizada": "ellrrey<o rei>",
+    "modernizada": "o rei",
     "anotada": "ellrrey<o rei>"
   },
   {
@@ -8480,7 +8480,7 @@
   {
     "id": "#1414#trat_dev",
     "arcaica": "desy",
-    "modernizada": "desy<desde aí>",
+    "modernizada": "desde aí",
     "anotada": "desy<desde aí>"
   },
   {
@@ -8570,7 +8570,7 @@
   {
     "id": "#1429#trat_dev",
     "arcaica": "acorresse",
-    "modernizada": "acorresse<acudisse>",
+    "modernizada": "acudisse",
     "anotada": "acorresse<acudisse>"
   },
   {
@@ -8684,13 +8684,13 @@
   {
     "id": "#1448#trat_dev",
     "arcaica": "hy",
-    "modernizada": "hy<aí>",
+    "modernizada": "aí",
     "anotada": "hy<aí>"
   },
   {
     "id": "#1449#trat_dev",
     "arcaica": "al",
-    "modernizada": "al<algo>",
+    "modernizada": "algo",
     "anotada": "al<algo>"
   },
   {
@@ -8750,7 +8750,7 @@
   {
     "id": "#1459#trat_dev",
     "arcaica": "desy",
-    "modernizada": "desy<desde aí>",
+    "modernizada": "desde aí",
     "anotada": "desy<desde aí>"
   },
   {
@@ -8864,7 +8864,7 @@
   {
     "id": "#1478#trat_dev",
     "arcaica": "acorresse",
-    "modernizada": "acorresse<acudisse>",
+    "modernizada": "acudisse",
     "anotada": "acorresse<acudisse>"
   },
   {
@@ -9344,7 +9344,7 @@
   {
     "id": "#1558#trat_dev",
     "arcaica": "pollas",
-    "modernizada": "pollas<para as>",
+    "modernizada": "para as",
     "anotada": "pollas<para as>"
   },
   {
@@ -9788,7 +9788,7 @@
   {
     "id": "#1632#trat_dev",
     "arcaica": "falla",
-    "modernizada": "falla<falta>",
+    "modernizada": "falta",
     "anotada": "falla<falta>"
   },
   {
@@ -9818,7 +9818,7 @@
   {
     "id": "#1637#trat_dev",
     "arcaica": "por",
-    "modernizada": "por<pela>",
+    "modernizada": "pela",
     "anotada": "por<pela>"
   },
   {
@@ -9860,7 +9860,7 @@
   {
     "id": "#1644#trat_dev",
     "arcaica": "aca",
-    "modernizada": "aca<aqui>",
+    "modernizada": "aqui",
     "anotada": "aca<aqui>"
   },
   {
@@ -9872,7 +9872,7 @@
   {
     "id": "#1646#trat_dev",
     "arcaica": "pollos",
-    "modernizada": "pollos<para os>",
+    "modernizada": "para os",
     "anotada": "pollos<para os>"
   },
   {
@@ -9884,7 +9884,7 @@
   {
     "id": "#1648#trat_dev",
     "arcaica": "des y",
-    "modernizada": "des y<então>",
+    "modernizada": "então",
     "anotada": "des y<então>"
   },
   {
@@ -10112,7 +10112,7 @@
   {
     "id": "#1686#trat_dev",
     "arcaica": "enpero",
-    "modernizada": "enpero<porém>",
+    "modernizada": "porém",
     "anotada": "enpero<porém>"
   },
   {
@@ -10196,7 +10196,7 @@
   {
     "id": "#1700#trat_dev",
     "arcaica": "pollo",
-    "modernizada": "pollo<para o>",
+    "modernizada": "para o",
     "anotada": "pollo<para o>"
   },
   {
@@ -10214,7 +10214,7 @@
   {
     "id": "#1703#trat_dev",
     "arcaica": "pollo",
-    "modernizada": "pollo<para o>",
+    "modernizada": "para o",
     "anotada": "pollo<para o>"
   },
   {
@@ -10430,7 +10430,7 @@
   {
     "id": "#1739#trat_dev",
     "arcaica": "avondado",
-    "modernizada": "avondado<abastado>",
+    "modernizada": "abastado",
     "anotada": "avondado<abastado>"
   },
   {
@@ -10772,7 +10772,7 @@
   {
     "id": "#1796#trat_dev",
     "arcaica": "siia",
-    "modernizada": "siia<estava>",
+    "modernizada": "estava",
     "anotada": "siia<estava>"
   },
   {
@@ -11066,7 +11066,7 @@
   {
     "id": "#1845#trat_dev",
     "arcaica": "enpeçonhētavā",
-    "modernizada": "enpeçonhētavā<envenenavam>",
+    "modernizada": "envenenavam",
     "anotada": "enpeçonhētavā<envenenavam>"
   },
   {
@@ -11114,7 +11114,7 @@
   {
     "id": "#1853#trat_dev",
     "arcaica": "des y",
-    "modernizada": "des y<então>",
+    "modernizada": "então",
     "anotada": "des y<então>"
   },
   {
@@ -11174,7 +11174,7 @@
   {
     "id": "#1863#trat_dev",
     "arcaica": "cabo",
-    "modernizada": "cabo<lado>",
+    "modernizada": "lado",
     "anotada": "cabo<lado>"
   },
   {
@@ -11474,7 +11474,7 @@
   {
     "id": "#1913#trat_dev",
     "arcaica": "falleceryã",
-    "modernizada": "falleceryã<faltariam>",
+    "modernizada": "faltariam",
     "anotada": "falleceryã<faltariam>"
   },
   {
@@ -11510,7 +11510,7 @@
   {
     "id": "#1919#trat_dev",
     "arcaica": "nostro",
-    "modernizada": "nostro<nosso>",
+    "modernizada": "nosso",
     "anotada": "nostro<nosso>"
   },
   {
@@ -11546,7 +11546,7 @@
   {
     "id": "#1925#trat_dev",
     "arcaica": "ca",
-    "modernizada": "ca<pois>",
+    "modernizada": "pois",
     "anotada": "ca<pois>"
   },
   {
@@ -11708,7 +11708,7 @@
   {
     "id": "#1952#trat_dev",
     "arcaica": "mingua",
-    "modernizada": "mingua<falta>",
+    "modernizada": "falta",
     "anotada": "mingua<falta>"
   },
   {
@@ -11846,7 +11846,7 @@
   {
     "id": "#1975#trat_dev",
     "arcaica": "chanto",
-    "modernizada": "chanto<pranto>",
+    "modernizada": "pranto",
     "anotada": "chanto<pranto>"
   },
   {
@@ -11972,7 +11972,7 @@
   {
     "id": "#1996#trat_dev",
     "arcaica": "afinar",
-    "modernizada": "afinar<falecer>",
+    "modernizada": "falecer",
     "anotada": "afinar<falecer>"
   },
   {
@@ -12038,7 +12038,7 @@
   {
     "id": "#2007#trat_dev",
     "arcaica": "ello",
-    "modernizada": "ello<isso>",
+    "modernizada": "isso",
     "anotada": "ello<isso>"
   },
   {
@@ -12602,7 +12602,7 @@
   {
     "id": "#2101#trat_dev",
     "arcaica": "descendyam",
-    "modernizada": "descendyam<desciam>",
+    "modernizada": "desciam",
     "anotada": "descendyam<desciam>"
   },
   {
@@ -12626,7 +12626,7 @@
   {
     "id": "#2105#trat_dev",
     "arcaica": "arryba",
-    "modernizada": "arryba<acima>",
+    "modernizada": "acima",
     "anotada": "arryba<acima>"
   },
   {
@@ -13586,7 +13586,7 @@
   {
     "id": "#2265#trat_dev",
     "arcaica": "allo",
-    "modernizada": "allo<daí>",
+    "modernizada": "daí",
     "anotada": "allo<daí>"
   },
   {
@@ -13928,7 +13928,7 @@
   {
     "id": "#2322#trat_dev",
     "arcaica": "ouve",
-    "modernizada": "ouve<teve>",
+    "modernizada": "teve",
     "anotada": "ouve<teve>"
   },
   {
@@ -14078,13 +14078,13 @@
   {
     "id": "#2347#trat_dev",
     "arcaica": "continuadamẽte",
-    "modernizada": "continuadamẽte<continuamente>",
+    "modernizada": "continuamente",
     "anotada": "continuadamẽte<continuamente>"
   },
   {
     "id": "#2348#trat_dev",
     "arcaica": "jouve",
-    "modernizada": "jouve<esteve>",
+    "modernizada": "esteve",
     "anotada": "jouve<esteve>"
   },
   {
@@ -14432,7 +14432,7 @@
   {
     "id": "#2406#trat_dev",
     "arcaica": "pẽedença",
-    "modernizada": "pẽedença<penitência>",
+    "modernizada": "penitência",
     "anotada": "pẽedença<penitência>"
   },
   {
@@ -14534,7 +14534,7 @@
   {
     "id": "#2423#trat_dev",
     "arcaica": "vedra",
-    "modernizada": "vedra<velha>",
+    "modernizada": "velha",
     "anotada": "vedra<velha>"
   },
   {
@@ -15386,7 +15386,7 @@
   {
     "id": "#2565#trat_dev",
     "arcaica": "ledo",
-    "modernizada": "ledo<alegre>",
+    "modernizada": "alegre",
     "anotada": "ledo<alegre>"
   },
   {
@@ -15836,7 +15836,7 @@
   {
     "id": "#2640#trat_dev",
     "arcaica": "chantaste",
-    "modernizada": "chantaste<plantaste>",
+    "modernizada": "plantaste",
     "anotada": "chantaste<plantaste>"
   },
   {
@@ -17054,7 +17054,7 @@
   {
     "id": "#2843#trat_dev",
     "arcaica": "pééndença",
-    "modernizada": "pééndença<penitência>",
+    "modernizada": "penitência",
     "anotada": "pééndença<penitência>"
   },
   {
@@ -17066,7 +17066,7 @@
   {
     "id": "#2845#trat_dev",
     "arcaica": "porende",
-    "modernizada": "porende<por isso>",
+    "modernizada": "por isso",
     "anotada": "porende<por isso>"
   },
   {
@@ -17240,7 +17240,7 @@
   {
     "id": "#2874#trat_dev",
     "arcaica": "pẽdença",
-    "modernizada": "pẽdença<penitência>",
+    "modernizada": "penitência",
     "anotada": "pẽdença<penitência>"
   },
   {
@@ -17516,7 +17516,7 @@
   {
     "id": "#2920#trat_dev",
     "arcaica": "os",
-    "modernizada": "os<de>",
+    "modernizada": "de",
     "anotada": "os<de>"
   },
   {
@@ -17834,7 +17834,7 @@
   {
     "id": "#2973#trat_dev",
     "arcaica": "louçãao",
-    "modernizada": "louçãao<belo>",
+    "modernizada": "belo",
     "anotada": "louçãao<belo>"
   },
   {
@@ -18320,7 +18320,7 @@
   {
     "id": "#3054#trat_dev",
     "arcaica": "consiira",
-    "modernizada": "consiira<considera>",
+    "modernizada": "considera",
     "anotada": "consiira<considera>"
   },
   {
@@ -18458,7 +18458,7 @@
   {
     "id": "#3077#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -20282,7 +20282,7 @@
   {
     "id": "#3381#trat_dev",
     "arcaica": "punava",
-    "modernizada": "punava<punha>",
+    "modernizada": "punha",
     "anotada": "punava<punha>"
   },
   {
@@ -20312,7 +20312,7 @@
   {
     "id": "#3386#trat_dev",
     "arcaica": "aquesta",
-    "modernizada": "aquesta<esta>",
+    "modernizada": "esta",
     "anotada": "aquesta<esta>"
   },
   {
@@ -20600,7 +20600,7 @@
   {
     "id": "#3434#trat_dev",
     "arcaica": "rrem",
-    "modernizada": "rrem<nada>",
+    "modernizada": "nada",
     "anotada": "rrem<nada>"
   },
   {
@@ -20612,7 +20612,7 @@
   {
     "id": "#3436#trat_dev",
     "arcaica": "nẽguu",
-    "modernizada": "nẽguu<ninguém>",
+    "modernizada": "ninguém",
     "anotada": "nẽguu<ninguém>"
   },
   {
@@ -20648,7 +20648,7 @@
   {
     "id": "#3442#trat_dev",
     "arcaica": "des y",
-    "modernizada": "des y<então>",
+    "modernizada": "então",
     "anotada": "des y<então>"
   },
   {
@@ -20690,7 +20690,7 @@
   {
     "id": "#3449#trat_dev",
     "arcaica": "passo",
-    "modernizada": "passo<devagar>",
+    "modernizada": "devagar",
     "anotada": "passo<devagar>"
   },
   {
@@ -21050,7 +21050,7 @@
   {
     "id": "#3509#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -21344,13 +21344,13 @@
   {
     "id": "#3558#trat_dev",
     "arcaica": "ella",
-    "modernizada": "ella<vê>",
+    "modernizada": "vê",
     "anotada": "ella<vê>"
   },
   {
     "id": "#3559#trat_dev",
     "arcaica": "veer",
-    "modernizada": "veer<lo>",
+    "modernizada": "lo",
     "anotada": "veer<lo>"
   },
   {
@@ -21542,7 +21542,7 @@
   {
     "id": "#3591#trat_dev",
     "arcaica": "al",
-    "modernizada": "al<outra coisa>",
+    "modernizada": "outra coisa",
     "anotada": "al<outra coisa>"
   },
   {
@@ -21716,7 +21716,7 @@
   {
     "id": "#3620#trat_dev",
     "arcaica": "elrrey",
-    "modernizada": "elrrey<o rei>",
+    "modernizada": "o rei",
     "anotada": "elrrey<o rei>"
   },
   {
@@ -21830,7 +21830,7 @@
   {
     "id": "#3639#trat_dev",
     "arcaica": "ellrey",
-    "modernizada": "ellrey<o rei>",
+    "modernizada": "o rei",
     "anotada": "ellrey<o rei>"
   },
   {
@@ -21980,7 +21980,7 @@
   {
     "id": "#3664#trat_dev",
     "arcaica": "des y",
-    "modernizada": "des y<então>",
+    "modernizada": "então",
     "anotada": "des y<então>"
   },
   {
@@ -22646,7 +22646,7 @@
   {
     "id": "#3775#trat_dev",
     "arcaica": "pendença",
-    "modernizada": "pendença<penitência>",
+    "modernizada": "penitência",
     "anotada": "pendença<penitência>"
   },
   {
@@ -22760,7 +22760,7 @@
   {
     "id": "#3794#trat_dev",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -22910,7 +22910,7 @@
   {
     "id": "#3819#trat_dev",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -23612,7 +23612,7 @@
   {
     "id": "#3936#trat_dev",
     "arcaica": "mal treito",
-    "modernizada": "mal treito<maltratado>",
+    "modernizada": "maltratado",
     "anotada": "mal treito<maltratado>"
   },
   {
@@ -23858,7 +23858,7 @@
   {
     "id": "#3977#trat_dev",
     "arcaica": "antressy",
-    "modernizada": "antressy<entretanto>",
+    "modernizada": "entretanto",
     "anotada": "antressy<entretanto>"
   },
   {
@@ -24008,7 +24008,7 @@
   {
     "id": "#4002#trat_dev",
     "arcaica": "des y",
-    "modernizada": "des y<então>",
+    "modernizada": "então",
     "anotada": "des y<então>"
   },
   {
@@ -24386,7 +24386,7 @@
   {
     "id": "#4065#trat_dev",
     "arcaica": "desy",
-    "modernizada": "desy<desde aí>",
+    "modernizada": "desde aí",
     "anotada": "desy<desde aí>"
   },
   {
@@ -24944,7 +24944,7 @@
   {
     "id": "#4158#trat_dev",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -25526,7 +25526,7 @@
   {
     "id": "#4255#trat_dev",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -25544,7 +25544,7 @@
   {
     "id": "#4258#trat_dev",
     "arcaica": "hospeda",
-    "modernizada": "hospeda<hospedeira>",
+    "modernizada": "hospedeira",
     "anotada": "hospeda<hospedeira>"
   },
   {
@@ -25736,7 +25736,7 @@
   {
     "id": "#4290#trat_dev",
     "arcaica": "catarõ",
-    "modernizada": "catarõ<procuraram>",
+    "modernizada": "procuraram",
     "anotada": "catarõ<procuraram>"
   },
   {
@@ -25910,7 +25910,7 @@
   {
     "id": "#4319#trat_dev",
     "arcaica": "ospeda",
-    "modernizada": "ospeda<hospedeira>",
+    "modernizada": "hospedeira",
     "anotada": "ospeda<hospedeira>"
   },
   {
@@ -25970,7 +25970,7 @@
   {
     "id": "#4329#trat_dev",
     "arcaica": "ouvera",
-    "modernizada": "ouvera<houvesse>",
+    "modernizada": "houvesse",
     "anotada": "ouvera<houvesse>"
   },
   {

@@ -68,7 +68,7 @@
   {
     "id": "#0012#vida_tars",
     "arcaica": "peccatriz",
-    "modernizada": "peccatriz<pecadora>",
+    "modernizada": "pecadora",
     "anotada": "peccatriz<pecadora>"
   },
   {
@@ -440,7 +440,7 @@
   {
     "id": "#0074#vida_tars",
     "arcaica": "sagral",
-    "modernizada": "sagral<sagrado>",
+    "modernizada": "sagrado",
     "anotada": "sagral<sagrado>"
   },
   {
@@ -734,7 +734,7 @@
   {
     "id": "#0123#vida_tars",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -998,7 +998,7 @@
   {
     "id": "#0167#vida_tars",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -1568,7 +1568,7 @@
   {
     "id": "#0262#vida_tars",
     "arcaica": "peendença",
-    "modernizada": "peendença <penitência>",
+    "modernizada": "penitência",
     "anotada": "peendença <penitência>"
   },
   {
@@ -2054,7 +2054,7 @@
   {
     "id": "#0343#vida_tars",
     "arcaica": "desy",
-    "modernizada": "desy<depois>",
+    "modernizada": "depois",
     "anotada": "desy<depois>"
   },
   {
@@ -3620,7 +3620,7 @@
   {
     "id": "#0604#vida_tars",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -3788,7 +3788,7 @@
   {
     "id": "#0632#vida_tars",
     "arcaica": "pugy a",
-    "modernizada": "pugy a<pus-a>",
+    "modernizada": "pus-a",
     "anotada": "pugy a<pus-a>"
   },
   {
@@ -3914,7 +3914,7 @@
   {
     "id": "#0653#vida_tars",
     "arcaica": "peendença",
-    "modernizada": "peendença<penitência>",
+    "modernizada": "penitência",
     "anotada": "peendença<penitência>"
   },
   {

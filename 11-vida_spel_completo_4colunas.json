@@ -212,13 +212,13 @@
   {
     "id": "#0036#vida_spel",
     "arcaica": "ende",
-    "modernizada": "ende<isso>",
+    "modernizada": "isso",
     "anotada": "ende<isso>"
   },
   {
     "id": "#0037#vida_spel",
     "arcaica": "ouvide",
-    "modernizada": "ouvide<ouçam>",
+    "modernizada": "ouçam",
     "anotada": "ouvide<ouçam>"
   },
   {
@@ -398,7 +398,7 @@
   {
     "id": "#0067#vida_spel",
     "arcaica": "ajades",
-    "modernizada": "ajades<tenhais>",
+    "modernizada": "tenhais",
     "anotada": "ajades<tenhais>"
   },
   {
@@ -752,7 +752,7 @@
   {
     "id": "#0126#vida_spel",
     "arcaica": "ouvide",
-    "modernizada": "ouvide<ouçam>",
+    "modernizada": "ouçam",
     "anotada": "ouvide<ouçam>"
   },
   {
@@ -794,7 +794,7 @@
   {
     "id": "#0133#vida_spel",
     "arcaica": "penssade",
-    "modernizada": "penssade<pensem>",
+    "modernizada": "pensem",
     "anotada": "penssade<pensem>"
   },
   {
@@ -1436,7 +1436,7 @@
   {
     "id": "#0240#vida_spel",
     "arcaica": "hospicio",
-    "modernizada": "hospicio<hospedagem>",
+    "modernizada": "hospedagem",
     "anotada": "hospicio<hospedagem>"
   },
   {
@@ -1568,7 +1568,7 @@
   {
     "id": "#0262#vida_spel",
     "arcaica": "descenderom",
-    "modernizada": "descenderom<desceram>",
+    "modernizada": "desceram",
     "anotada": "descenderom<desceram>"
   },
   {
@@ -1988,7 +1988,7 @@
   {
     "id": "#0332#vida_spel",
     "arcaica": "ex",
-    "modernizada": "ex<de>",
+    "modernizada": "de",
     "anotada": "ex<de>"
   },
   {
@@ -2114,7 +2114,7 @@
   {
     "id": "#0353#vida_spel",
     "arcaica": "linguoajem",
-    "modernizada": "linguogaem<linguajar>",
+    "modernizada": "linguajar",
     "anotada": "linguogaem<linguajar>"
   },
   {
@@ -2666,7 +2666,7 @@
   {
     "id": "#0445#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pelo>",
+    "modernizada": "pelo",
     "anotada": "per<pelo>"
   },
   {
@@ -2918,7 +2918,7 @@
   {
     "id": "#0487#vida_spel",
     "arcaica": "desçender",
-    "modernizada": "desçender<descer>",
+    "modernizada": "descer",
     "anotada": "desçender<descer>"
   },
   {
@@ -3062,7 +3062,7 @@
   {
     "id": "#0511#vida_spel",
     "arcaica": "hispo",
-    "modernizada": "hispo<bispo>",
+    "modernizada": "bispo",
     "anotada": "hispo<bispo>"
   },
   {
@@ -3458,7 +3458,7 @@
   {
     "id": "#0577#vida_spel",
     "arcaica": "digades",
-    "modernizada": "digades<digam>",
+    "modernizada": "digam",
     "anotada": "digades<digam>"
   },
   {
@@ -3500,7 +3500,7 @@
   {
     "id": "#0584#vida_spel",
     "arcaica": "delectastes",
-    "modernizada": "delectastes<deleitaram>",
+    "modernizada": "deleitaram",
     "anotada": "delectastes<deleitaram>"
   },
   {
@@ -3860,7 +3860,7 @@
   {
     "id": "#0644#vida_spel",
     "arcaica": "ouvestes",
-    "modernizada": "ouvestes<tiveram>",
+    "modernizada": "tiveram",
     "anotada": "ouvestes<tiveram>"
   },
   {
@@ -4004,7 +4004,7 @@
   {
     "id": "#0668#vida_spel",
     "arcaica": "prouve",
-    "modernizada": "prouve<agradou>",
+    "modernizada": "agradou",
     "anotada": "prouve<agradou>"
   },
   {
@@ -4256,7 +4256,7 @@
   {
     "id": "#0710#vida_spel",
     "arcaica": "pensades",
-    "modernizada": "pensades<pensam>",
+    "modernizada": "pensam",
     "anotada": "pensades<pensam>"
   },
   {
@@ -4352,7 +4352,7 @@
   {
     "id": "#0726#vida_spel",
     "arcaica": "affremosentando",
-    "modernizada": "affremosentando<afeiçoando>",
+    "modernizada": "afeiçoando",
     "anotada": "affremosentando<afeiçoando>"
   },
   {
@@ -4562,7 +4562,7 @@
   {
     "id": "#0761#vida_spel",
     "arcaica": "cras",
-    "modernizada": "cras<amanhã>",
+    "modernizada": "amanhã",
     "anotada": "cras<amanhã>"
   },
   {
@@ -5012,7 +5012,7 @@
   {
     "id": "#0836#vida_spel",
     "arcaica": "affectamos",
-    "modernizada": "affectamos<afeiçoamos>",
+    "modernizada": "afeiçoamos",
     "anotada": "affectamos<afeiçoamos>"
   },
   {
@@ -5300,7 +5300,7 @@
   {
     "id": "#0884#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pela>",
+    "modernizada": "pela",
     "anotada": "per<pela>"
   },
   {
@@ -6266,7 +6266,7 @@
   {
     "id": "#1045#vida_spel",
     "arcaica": "nimigalha",
-    "modernizada": "nimigalha<pequenez>",
+    "modernizada": "pequenez",
     "anotada": "nimigalha<pequenez>"
   },
   {
@@ -6524,7 +6524,7 @@
   {
     "id": "#1088#vida_spel",
     "arcaica": "por as<pelas>",
-    "modernizada": "por as<pelas>",
+    "modernizada": "pelas",
     "anotada": "por as<pelas>"
   },
   {
@@ -6620,7 +6620,7 @@
   {
     "id": "#1104#vida_spel",
     "arcaica": "afremosenta",
-    "modernizada": "afremosenta<afeiçoa>",
+    "modernizada": "afeiçoa",
     "anotada": "afremosenta<afeiçoa>"
   },
   {
@@ -7034,7 +7034,7 @@
   {
     "id": "#1173#vida_spel",
     "arcaica": "mỹ",
-    "modernizada": "mỹ<minha>",
+    "modernizada": "minha",
     "anotada": "mỹ<minha>"
   },
   {
@@ -7148,7 +7148,7 @@
   {
     "id": "#1192#vida_spel",
     "arcaica": "porende",
-    "modernizada": "porende<portanto>",
+    "modernizada": "portanto",
     "anotada": "porende<portanto>"
   },
   {
@@ -7550,7 +7550,7 @@
   {
     "id": "#1259#vida_spel",
     "arcaica": "turbado",
-    "modernizada": "turbado<perturbado>",
+    "modernizada": "perturbado",
     "anotada": "turbado<perturbado>"
   },
   {
@@ -8720,7 +8720,7 @@
   {
     "id": "#1454#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pela>",
+    "modernizada": "pela",
     "anotada": "per<pela>"
   },
   {
@@ -9104,7 +9104,7 @@
   {
     "id": "#1518#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pela>",
+    "modernizada": "pela",
     "anotada": "per<pela>"
   },
   {
@@ -9350,7 +9350,7 @@
   {
     "id": "#1559#vida_spel",
     "arcaica": "predicava",
-    "modernizada": "predicava<pregava>",
+    "modernizada": "pregava",
     "anotada": "predicava<pregava>"
   },
   {
@@ -9638,7 +9638,7 @@
   {
     "id": "#1607#vida_spel",
     "arcaica": "per a",
-    "modernizada": "per a<pela>",
+    "modernizada": "pela",
     "anotada": "per a<pela>"
   },
   {
@@ -9740,7 +9740,7 @@
   {
     "id": "#1624#vida_spel",
     "arcaica": "hy",
-    "modernizada": "hy<aí>",
+    "modernizada": "aí",
     "anotada": "hy<aí>"
   },
   {
@@ -9842,7 +9842,7 @@
   {
     "id": "#1641#vida_spel",
     "arcaica": "per a",
-    "modernizada": "per a<pela>",
+    "modernizada": "pela",
     "anotada": "per a<pela>"
   },
   {
@@ -10274,7 +10274,7 @@
   {
     "id": "#1713#vida_spel",
     "arcaica": "letera",
-    "modernizada": "letera<carta>",
+    "modernizada": "carta",
     "anotada": "letera<carta>"
   },
   {
@@ -10532,7 +10532,7 @@
   {
     "id": "#1756#vida_spel",
     "arcaica": "por os",
-    "modernizada": "por os<pelos>",
+    "modernizada": "pelos",
     "anotada": "por os<pelos>"
   },
   {
@@ -10598,7 +10598,7 @@
   {
     "id": "#1767#vida_spel",
     "arcaica": "peendença",
-    "modernizada": "peendença<penitência>",
+    "modernizada": "penitência",
     "anotada": "peendença<penitência>"
   },
   {
@@ -11168,7 +11168,7 @@
   {
     "id": "#1862#vida_spel",
     "arcaica": "em",
-    "modernizada": "em<isso>",
+    "modernizada": "isso",
     "anotada": "em<isso>"
   },
   {
@@ -11498,7 +11498,7 @@
   {
     "id": "#1917#vida_spel",
     "arcaica": "letra",
-    "modernizada": "letra<carta>",
+    "modernizada": "carta",
     "anotada": "letra<carta>"
   },
   {
@@ -11918,7 +11918,7 @@
   {
     "id": "#1987#vida_spel",
     "arcaica": "jazendo",
-    "modernizada": "jazendo<jazeu>",
+    "modernizada": "jazeu",
     "anotada": "jazendo<jazeu>"
   },
   {
@@ -12236,7 +12236,7 @@
   {
     "id": "#2040#vida_spel",
     "arcaica": "amercea",
-    "modernizada": "amercea<apieda>",
+    "modernizada": "apieda",
     "anotada": "amercea<apieda>"
   },
   {
@@ -12350,7 +12350,7 @@
   {
     "id": "#2059#vida_spel",
     "arcaica": "ave",
-    "modernizada": "ave<tenha>",
+    "modernizada": "tenha",
     "anotada": "ave<tenha>"
   },
   {
@@ -13004,7 +13004,7 @@
   {
     "id": "#2168#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pela>",
+    "modernizada": "pela",
     "anotada": "per<pela>"
   },
   {
@@ -13124,7 +13124,7 @@
   {
     "id": "#2188#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pelo>",
+    "modernizada": "pelo",
     "anotada": "per<pelo>"
   },
   {
@@ -14114,7 +14114,7 @@
   {
     "id": "#2353#vida_spel",
     "arcaica": "turpidades",
-    "modernizada": "turpidades<torpezas>",
+    "modernizada": "torpezas",
     "anotada": "turpidades<torpezas>"
   },
   {
@@ -14204,7 +14204,7 @@
   {
     "id": "#2368#vida_spel",
     "arcaica": "ajas",
-    "modernizada": "ajas<tenhas>",
+    "modernizada": "tenhas",
     "anotada": "ajas<tenhas>"
   },
   {
@@ -14588,7 +14588,7 @@
   {
     "id": "#2432#vida_spel",
     "arcaica": "hi",
-    "modernizada": "hi<ali>",
+    "modernizada": "ali",
     "anotada": "hi<ali>"
   },
   {
@@ -15914,7 +15914,7 @@
   {
     "id": "#2653#vida_spel",
     "arcaica": "esguardar",
-    "modernizada": "esguardar<examinar>",
+    "modernizada": "examinar",
     "anotada": "esguardar<examinar>"
   },
   {
@@ -16478,7 +16478,7 @@
   {
     "id": "#2747#vida_spel",
     "arcaica": "por a",
-    "modernizada": "por a<pela>",
+    "modernizada": "pela",
     "anotada": "por a<pela>"
   },
   {
@@ -16532,7 +16532,7 @@
   {
     "id": "#2756#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pelos>",
+    "modernizada": "pelos",
     "anotada": "per<pelos>"
   },
   {
@@ -17168,7 +17168,7 @@
   {
     "id": "#2862#vida_spel",
     "arcaica": "por o",
-    "modernizada": "por o<pelo>",
+    "modernizada": "pelo",
     "anotada": "por o<pelo>"
   },
   {
@@ -17360,7 +17360,7 @@
   {
     "id": "#2894#vida_spel",
     "arcaica": "ẽcravelhadas",
-    "modernizada": "ẽcravelhadas<encravadas>",
+    "modernizada": "encravadas",
     "anotada": "ẽcravelhadas<encravadas>"
   },
   {
@@ -17600,7 +17600,7 @@
   {
     "id": "#2934#vida_spel",
     "arcaica": "avondava",
-    "modernizada": "avondava<bastava>",
+    "modernizada": "bastava",
     "anotada": "avondava<bastava>"
   },
   {
@@ -18458,7 +18458,7 @@
   {
     "id": "#3077#vida_spel",
     "arcaica": "emtanto",
-    "modernizada": "emtanto<enquanto>",
+    "modernizada": "enquanto",
     "anotada": "emtanto<enquanto>"
   },
   {
@@ -18746,7 +18746,7 @@
   {
     "id": "#3125#vida_spel",
     "arcaica": "semelhavel",
-    "modernizada": "semelhavel<semelhante>",
+    "modernizada": "semelhante",
     "anotada": "semelhavel<semelhante>"
   },
   {
@@ -19442,7 +19442,7 @@
   {
     "id": "#3241#vida_spel",
     "arcaica": "afeytey",
-    "modernizada": "afeytey<afeiçoei>",
+    "modernizada": "afeiçoei",
     "anotada": "afeytey<afeiçoei>"
   },
   {
@@ -19796,7 +19796,7 @@
   {
     "id": "#3300#vida_spel",
     "arcaica": "doesto",
-    "modernizada": "doesto<desdém>",
+    "modernizada": "desdém",
     "anotada": "doesto<desdém>"
   },
   {
@@ -20732,7 +20732,7 @@
   {
     "id": "#3456#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pelo>",
+    "modernizada": "pelo",
     "anotada": "per<pelo>"
   },
   {
@@ -20972,7 +20972,7 @@
   {
     "id": "#3496#vida_spel",
     "arcaica": "per as",
-    "modernizada": "per as<pelas>",
+    "modernizada": "pelas",
     "anotada": "per as<pelas>"
   },
   {
@@ -21002,7 +21002,7 @@
   {
     "id": "#3501#vida_spel",
     "arcaica": "por os",
-    "modernizada": "por os<pelos>",
+    "modernizada": "pelos",
     "anotada": "por os<pelos>"
   },
   {
@@ -21050,7 +21050,7 @@
   {
     "id": "#3509#vida_spel",
     "arcaica": "em",
-    "modernizada": "em<isso>",
+    "modernizada": "isso",
     "anotada": "em<isso>"
   },
   {
@@ -21482,7 +21482,7 @@
   {
     "id": "#3581#vida_spel",
     "arcaica": "teedor",
-    "modernizada": "teedor<tesoureiro>",
+    "modernizada": "tesoureiro",
     "anotada": "teedor<tesoureiro>"
   },
   {
@@ -21836,7 +21836,7 @@
   {
     "id": "#3640#vida_spel",
     "arcaica": "gancadas",
-    "modernizada": "gancadas<ganhadas>",
+    "modernizada": "ganhadas",
     "anotada": "gancadas<ganhadas>"
   },
   {
@@ -21908,7 +21908,7 @@
   {
     "id": "#3652#vida_spel",
     "arcaica": "despesas",
-    "modernizada": "despesas<despendidas>",
+    "modernizada": "despendidas",
     "anotada": "despesas<despendidas>"
   },
   {
@@ -22262,7 +22262,7 @@
   {
     "id": "#3711#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pela>",
+    "modernizada": "pela",
     "anotada": "per<pela>"
   },
   {
@@ -22700,7 +22700,7 @@
   {
     "id": "#3784#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pelo>",
+    "modernizada": "pelo",
     "anotada": "per<pelo>"
   },
   {
@@ -23498,7 +23498,7 @@
   {
     "id": "#3917#vida_spel",
     "arcaica": "por a",
-    "modernizada": "por a<pela>",
+    "modernizada": "pela",
     "anotada": "por a<pela>"
   },
   {
@@ -23660,7 +23660,7 @@
   {
     "id": "#3944#vida_spel",
     "arcaica": "he",
-    "modernizada": "he<está>",
+    "modernizada": "está",
     "anotada": "he<está>"
   },
   {
@@ -24080,7 +24080,7 @@
   {
     "id": "#4014#vida_spel",
     "arcaica": "por o",
-    "modernizada": "por o<pelo>",
+    "modernizada": "pelo",
     "anotada": "por o<pelo>"
   },
   {
@@ -24128,7 +24128,7 @@
   {
     "id": "#4022#vida_spel",
     "arcaica": "olivete",
-    "modernizada": "olivete<Oliveiras>",
+    "modernizada": "Oliveiras",
     "anotada": "olivete<Oliveiras>"
   },
   {
@@ -24314,7 +24314,7 @@
   {
     "id": "#4053#vida_spel",
     "arcaica": "carrada",
-    "modernizada": "carrada<fechada>",
+    "modernizada": "fechada",
     "anotada": "carrada<fechada>"
   },
   {
@@ -24362,7 +24362,7 @@
   {
     "id": "#4061#vida_spel",
     "arcaica": "fery",
-    "modernizada": "fery<bati>",
+    "modernizada": "bati",
     "anotada": "fery<bati>"
   },
   {
@@ -24536,7 +24536,7 @@
   {
     "id": "#4090#vida_spel",
     "arcaica": "por a",
-    "modernizada": "por a<pela>",
+    "modernizada": "pela",
     "anotada": "por a<pela>"
   },
   {
@@ -24608,7 +24608,7 @@
   {
     "id": "#4102#vida_spel",
     "arcaica": "junturas",
-    "modernizada": "junturas<juntas>",
+    "modernizada": "juntas",
     "anotada": "junturas<juntas>"
   },
   {
@@ -24698,7 +24698,7 @@
   {
     "id": "#4117#vida_spel",
     "arcaica": "ẽverrugada",
-    "modernizada": "ẽverrugada<enrugada>",
+    "modernizada": "enrugada",
     "anotada": "ẽverrugada<enrugada>"
   },
   {
@@ -24710,7 +24710,7 @@
   {
     "id": "#4119#vida_spel",
     "arcaica": "emcolheyta",
-    "modernizada": "emcolheyta<encolhida>",
+    "modernizada": "encolhida",
     "anotada": "emcolheyta<encolhida>"
   },
   {
@@ -24758,7 +24758,7 @@
   {
     "id": "#4127#vida_spel",
     "arcaica": "beezeo",
-    "modernizada": "beezeo<abençoou>",
+    "modernizada": "abençoou",
     "anotada": "beezeo<abençoou>"
   },
   {
@@ -25244,7 +25244,7 @@
   {
     "id": "#4208#vida_spel",
     "arcaica": "ledo",
-    "modernizada": "ledo<alegre>",
+    "modernizada": "alegre",
     "anotada": "ledo<alegre>"
   },
   {
@@ -25538,7 +25538,7 @@
   {
     "id": "#4257#vida_spel",
     "arcaica": "soya",
-    "modernizada": "soya<costumava>",
+    "modernizada": "costumava",
     "anotada": "soya<costumava>"
   },
   {
@@ -25790,7 +25790,7 @@
   {
     "id": "#4299#vida_spel",
     "arcaica": "saímento",
-    "modernizada": "saímento<falecimento>",
+    "modernizada": "falecimento",
     "anotada": "saímento<falecimento>"
   },
   {
@@ -25976,7 +25976,7 @@
   {
     "id": "#4330#vida_spel",
     "arcaica": "olivete",
-    "modernizada": "olivete<Oliveiras>",
+    "modernizada": "Oliveiras",
     "anotada": "olivete<Oliveiras>"
   },
   {
@@ -26552,7 +26552,7 @@
   {
     "id": "#4426#vida_spel",
     "arcaica": "per",
-    "modernizada": "per<pelos>",
+    "modernizada": "pelos",
     "anotada": "per<pelos>"
   },
   {
@@ -26654,7 +26654,7 @@
   {
     "id": "#4443#vida_spel",
     "arcaica": "tumulado",
-    "modernizada": "tumulado<sepultado>",
+    "modernizada": "sepultado",
     "anotada": "tumulado<sepultado>"
   },
   {

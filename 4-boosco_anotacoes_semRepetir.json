@@ -506,7 +506,7 @@
   {
     "id": 85,
     "arcaica": "abastosa",
-    "modernizada": "abastosa<abastada>",
+    "modernizada": "abastada",
     "anotada": "abastosa<abastada>"
   },
   {
@@ -2132,7 +2132,7 @@
   {
     "id": 356,
     "arcaica": "afortelegou",
-    "modernizada": "afortelegou<fortaleceu>",
+    "modernizada": "fortaleceu",
     "anotada": "afortelegou<fortaleceu>"
   },
   {
@@ -2450,7 +2450,7 @@
   {
     "id": 409,
     "arcaica": "aguçosos",
-    "modernizada": "aguçosos<aguçados>",
+    "modernizada": "aguçados",
     "anotada": "aguçosos<aguçados>"
   },
   {
@@ -2774,14 +2774,14 @@
   {
     "id": 463,
     "arcaica": "al",
-    "modernizada": "al<tempo>",
-    "anotada": "al<tempo>"
+    "modernizada": "ao",
+    "anotada": "al[o]"
   },
   {
     "id": 464,
     "arcaica": "al",
-    "modernizada": "ao",
-    "anotada": "al[o]"
+    "modernizada": "tempo",
+    "anotada": "al<tempo>"
   },
   {
     "id": 465,
@@ -3398,7 +3398,7 @@
   {
     "id": 567,
     "arcaica": "alloguado",
-    "modernizada": "alloguado<afogado>",
+    "modernizada": "afogado",
     "anotada": "alloguado<afogado>"
   },
   {
@@ -4838,13 +4838,13 @@
   {
     "id": 807,
     "arcaica": "angustura",
-    "modernizada": "angustura<angústia>",
+    "modernizada": "angústia",
     "anotada": "angustura<angústia>"
   },
   {
     "id": 808,
     "arcaica": "angusturas",
-    "modernizada": "angusturas<angústias>",
+    "modernizada": "angústias",
     "anotada": "angusturas<angústias>"
   },
   {
@@ -5018,7 +5018,7 @@
   {
     "id": 837,
     "arcaica": "antexpo",
-    "modernizada": "antexpo<anticristo>",
+    "modernizada": "anticristo",
     "anotada": "antexpo<anticristo>"
   },
   {
@@ -7898,20 +7898,20 @@
   {
     "id": 1317,
     "arcaica": "aue",
-    "modernizada": "aue<tenha>",
-    "anotada": "aue<tenha>"
-  },
-  {
-    "id": 1318,
-    "arcaica": "aue",
     "modernizada": "ave",
     "anotada": "au[v]e"
   },
   {
-    "id": 1319,
+    "id": 1318,
     "arcaica": "aue",
     "modernizada": "have",
     "anotada": "[+h]au[v]e"
+  },
+  {
+    "id": 1319,
+    "arcaica": "aue",
+    "modernizada": "tenha",
+    "anotada": "aue<tenha>"
   },
   {
     "id": 1320,
@@ -10220,19 +10220,19 @@
   {
     "id": 1704,
     "arcaica": "ca",
-    "modernizada": "ca<pois>",
+    "modernizada": "pois",
     "anotada": "ca<pois>"
   },
   {
     "id": 1705,
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
     "id": 1706,
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -10442,7 +10442,7 @@
   {
     "id": 1741,
     "arcaica": "calhou",
-    "modernizada": "calhou<talhou>",
+    "modernizada": "talhou",
     "anotada": "calhou<talhou>"
   },
   {
@@ -14006,13 +14006,13 @@
   {
     "id": 2335,
     "arcaica": "confortosa",
-    "modernizada": "confortosa<confortante>",
+    "modernizada": "confortante",
     "anotada": "confortosa<confortante>"
   },
   {
     "id": 2336,
     "arcaica": "confortoso",
-    "modernizada": "confortoso<confortante>",
+    "modernizada": "confortante",
     "anotada": "confortoso<confortante>"
   },
   {
@@ -16076,7 +16076,7 @@
   {
     "id": 2680,
     "arcaica": "cras",
-    "modernizada": "cras<amanhã>",
+    "modernizada": "amanhã",
     "anotada": "cras<amanhã>"
   },
   {
@@ -17342,19 +17342,19 @@
   {
     "id": 2891,
     "arcaica": "cõfortosa",
-    "modernizada": "cõfortosa<confortantes>",
+    "modernizada": "confortantes",
     "anotada": "cõfortosa<confortantes>"
   },
   {
     "id": 2892,
     "arcaica": "cõfortosas",
-    "modernizada": "cõfortosas<confortantes>",
+    "modernizada": "confortantes",
     "anotada": "cõfortosas<confortantes>"
   },
   {
     "id": 2893,
     "arcaica": "cõfortoso",
-    "modernizada": "cõfortoso<confortante>",
+    "modernizada": "confortante",
     "anotada": "cõfortoso<confortante>"
   },
   {
@@ -19394,7 +19394,7 @@
   {
     "id": 3233,
     "arcaica": "del",
-    "modernizada": "del<do>",
+    "modernizada": "do",
     "anotada": "del<do>"
   },
   {
@@ -21308,7 +21308,7 @@
   {
     "id": 3552,
     "arcaica": "desolundas",
-    "modernizada": "desolundas<dissolvidas>",
+    "modernizada": "dissolvidas",
     "anotada": "desolundas<dissolvidas>"
   },
   {
@@ -22766,7 +22766,7 @@
   {
     "id": 3795,
     "arcaica": "dhi",
-    "modernizada": "dhi<dali>",
+    "modernizada": "dali",
     "anotada": "dhi<dali>"
   },
   {
@@ -23588,7 +23588,7 @@
   {
     "id": 3932,
     "arcaica": "doairo",
-    "modernizada": "doairo<semblante>",
+    "modernizada": "semblante",
     "anotada": "doairo<semblante>"
   },
   {
@@ -23600,7 +23600,7 @@
   {
     "id": 3934,
     "arcaica": "doayro",
-    "modernizada": "doayro<semblante>",
+    "modernizada": "semblante",
     "anotada": "doayro<semblante>"
   },
   {
@@ -24140,19 +24140,19 @@
   {
     "id": 4024,
     "arcaica": "ds",
-    "modernizada": "dos",
-    "anotada": "d[+o]s"
+    "modernizada": "deus",
+    "anotada": "ds<deus>"
   },
   {
     "id": 4025,
     "arcaica": "ds",
-    "modernizada": "ds<deus>",
-    "anotada": "ds<deus>"
+    "modernizada": "dos",
+    "anotada": "d[+o]s"
   },
   {
     "id": 4026,
     "arcaica": "du",
-    "modernizada": "du<onde>",
+    "modernizada": "onde",
     "anotada": "du<onde>"
   },
   {
@@ -24710,14 +24710,14 @@
   {
     "id": 4119,
     "arcaica": "el",
-    "modernizada": "el<o>",
-    "anotada": "el<o>"
+    "modernizada": "ele",
+    "anotada": "el[+e]"
   },
   {
     "id": 4120,
     "arcaica": "el",
-    "modernizada": "ele",
-    "anotada": "el[+e]"
+    "modernizada": "o",
+    "anotada": "el<o>"
   },
   {
     "id": 4121,
@@ -26174,7 +26174,7 @@
   {
     "id": 4363,
     "arcaica": "ende",
-    "modernizada": "ende<daí>",
+    "modernizada": "daí",
     "anotada": "ende<daí>"
   },
   {
@@ -30530,7 +30530,7 @@
   {
     "id": 5089,
     "arcaica": "esteuerom",
-    "modernizada": "esteuerom<escreveram>",
+    "modernizada": "escreveram",
     "anotada": "esteuerom<escreveram>"
   },
   {
@@ -34304,7 +34304,7 @@
   {
     "id": 5718,
     "arcaica": "ge",
-    "modernizada": "ge<com>",
+    "modernizada": "com",
     "anotada": "ge<com>"
   },
   {
@@ -36452,19 +36452,19 @@
   {
     "id": 6076,
     "arcaica": "hi",
-    "modernizada": "hi<ali>",
+    "modernizada": "ali",
     "anotada": "hi<ali>"
   },
   {
     "id": 6077,
     "arcaica": "hi",
-    "modernizada": "hi<aqui>",
+    "modernizada": "aqui",
     "anotada": "hi<aqui>"
   },
   {
     "id": 6078,
     "arcaica": "hi",
-    "modernizada": "hi<então>",
+    "modernizada": "então",
     "anotada": "hi<então>"
   },
   {
@@ -36518,7 +36518,7 @@
   {
     "id": 6087,
     "arcaica": "hij",
-    "modernizada": "hij<ali>",
+    "modernizada": "ali",
     "anotada": "hij<ali>"
   },
   {
@@ -36548,7 +36548,7 @@
   {
     "id": 6092,
     "arcaica": "himos",
-    "modernizada": "himos<vamos>",
+    "modernizada": "vamos",
     "anotada": "himos<vamos>"
   },
   {
@@ -37016,14 +37016,14 @@
   {
     "id": 6170,
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
-    "anotada": "hu<onde>"
+    "modernizada": "o",
+    "anotada": "h[0h]u[o]"
   },
   {
     "id": 6171,
     "arcaica": "hu",
-    "modernizada": "o",
-    "anotada": "h[0h]u[o]"
+    "modernizada": "onde",
+    "anotada": "hu<onde>"
   },
   {
     "id": 6172,
@@ -37370,19 +37370,19 @@
   {
     "id": 6229,
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
     "id": 6230,
     "arcaica": "hy",
-    "modernizada": "hy<aqui>",
+    "modernizada": "aqui",
     "anotada": "hy<aqui>"
   },
   {
     "id": 6231,
     "arcaica": "hy",
-    "modernizada": "hy<então>",
+    "modernizada": "então",
     "anotada": "hy<então>"
   },
   {
@@ -38018,7 +38018,7 @@
   {
     "id": 6337,
     "arcaica": "jhu",
-    "modernizada": "jhu<jesus>",
+    "modernizada": "jesus",
     "anotada": "jhu<jesus>"
   },
   {
@@ -38852,7 +38852,7 @@
   {
     "id": 6476,
     "arcaica": "karloniano",
-    "modernizada": "karloniano<karlomano>",
+    "modernizada": "karlomano",
     "anotada": "karloniano<karlomano>"
   },
   {
@@ -41876,14 +41876,14 @@
   {
     "id": 6980,
     "arcaica": "major",
-    "modernizada": "maior",
-    "anotada": "maj[i]or"
+    "modernizada": "amor",
+    "anotada": "major<amor>"
   },
   {
     "id": 6981,
     "arcaica": "major",
-    "modernizada": "major<amor>",
-    "anotada": "major<amor>"
+    "modernizada": "maior",
+    "anotada": "maj[i]or"
   },
   {
     "id": 6982,
@@ -42878,7 +42878,7 @@
   {
     "id": 7147,
     "arcaica": "me",
-    "modernizada": "me<nos>",
+    "modernizada": "nos",
     "anotada": "me<nos>"
   },
   {
@@ -43544,7 +43544,7 @@
   {
     "id": 7258,
     "arcaica": "mesturarom",
-    "modernizada": "misturarom<misturavam>",
+    "modernizada": "misturavam",
     "anotada": "misturarom<misturavam>"
   },
   {
@@ -44018,7 +44018,7 @@
   {
     "id": 7337,
     "arcaica": "mius",
-    "modernizada": "mius<nus>",
+    "modernizada": "nus",
     "anotada": "mius<nus>"
   },
   {
@@ -45680,7 +45680,7 @@
   {
     "id": 7614,
     "arcaica": "mñdo",
-    "modernizada": "mñdo<mundo>",
+    "modernizada": "mundo",
     "anotada": "mñdo<mundo>"
   },
   {
@@ -46640,14 +46640,14 @@
   {
     "id": 7774,
     "arcaica": "no",
-    "modernizada": "no<nós>",
-    "anotada": "no<nós>"
+    "modernizada": "não",
+    "anotada": "no[ã][+o]"
   },
   {
     "id": 7775,
     "arcaica": "no",
-    "modernizada": "não",
-    "anotada": "no[ã][+o]"
+    "modernizada": "nós",
+    "anotada": "no<nós>"
   },
   {
     "id": 7776,
@@ -47006,26 +47006,26 @@
   {
     "id": 7835,
     "arcaica": "nõ",
+    "modernizada": "com",
+    "anotada": "nõ<com>"
+  },
+  {
+    "id": 7836,
+    "arcaica": "nõ",
     "modernizada": "no",
     "anotada": "nõ[o]"
   },
   {
-    "id": 7836,
+    "id": 7837,
     "arcaica": "nõ",
     "modernizada": "não",
     "anotada": "nõ[ã][+o]"
   },
   {
-    "id": 7837,
+    "id": 7838,
     "arcaica": "nõ",
     "modernizada": "nõ",
     "anotada": "nõ"
-  },
-  {
-    "id": 7838,
-    "arcaica": "nõ",
-    "modernizada": "nõ<com>",
-    "anotada": "nõ<com>"
   },
   {
     "id": 7839,
@@ -47630,7 +47630,7 @@
   {
     "id": 7939,
     "arcaica": "olimprolo",
-    "modernizada": "olimprolo<olimpo>",
+    "modernizada": "olimpo",
     "anotada": "olimprolo<olimpo>"
   },
   {
@@ -48362,7 +48362,7 @@
   {
     "id": 8061,
     "arcaica": "ouriẽte",
-    "modernizada": "ouriẽte<ocidente>",
+    "modernizada": "ocidente",
     "anotada": "ouriẽte<ocidente>"
   },
   {
@@ -48398,7 +48398,7 @@
   {
     "id": 8067,
     "arcaica": "ousança",
-    "modernizada": "ousança<ousadia>",
+    "modernizada": "ousadia",
     "anotada": "ousança<ousadia>"
   },
   {
@@ -50690,7 +50690,7 @@
   {
     "id": 8449,
     "arcaica": "pendẽça",
-    "modernizada": "pendẽça<penitência>",
+    "modernizada": "penitência",
     "anotada": "pendẽça<penitência>"
   },
   {
@@ -51626,14 +51626,14 @@
   {
     "id": 8605,
     "arcaica": "pero",
-    "modernizada": "pero",
-    "anotada": "pero"
+    "modernizada": "mas",
+    "anotada": "pero<mas>"
   },
   {
     "id": 8606,
     "arcaica": "pero",
-    "modernizada": "pero<mas>",
-    "anotada": "pero<mas>"
+    "modernizada": "pero",
+    "anotada": "pero"
   },
   {
     "id": 8607,
@@ -59396,7 +59396,7 @@
   {
     "id": 9900,
     "arcaica": "rija",
-    "modernizada": "rija<sentava>",
+    "modernizada": "sentava",
     "anotada": "rija<sentava>"
   },
   {
@@ -60236,13 +60236,13 @@
   {
     "id": 10040,
     "arcaica": "sagesmente",
-    "modernizada": "sagesmente<sabiamente>",
+    "modernizada": "sabiamente",
     "anotada": "sagesmente<sabiamente>"
   },
   {
     "id": 10041,
     "arcaica": "sagesmẽte",
-    "modernizada": "sagesmẽte<sabiamente>",
+    "modernizada": "sabiamente",
     "anotada": "sagesmẽte<sabiamente>"
   },
   {
@@ -61040,14 +61040,14 @@
   {
     "id": 10174,
     "arcaica": "see",
-    "modernizada": "see",
-    "anotada": "see"
+    "modernizada": "está",
+    "anotada": "see<está>"
   },
   {
     "id": 10175,
     "arcaica": "see",
-    "modernizada": "see<está>",
-    "anotada": "see<está>"
+    "modernizada": "see",
+    "anotada": "see"
   },
   {
     "id": 10176,
@@ -61082,7 +61082,7 @@
   {
     "id": 10181,
     "arcaica": "seem",
-    "modernizada": "seem<estão>",
+    "modernizada": "estão",
     "anotada": "seem<estão>"
   },
   {
@@ -61694,7 +61694,7 @@
   {
     "id": 10283,
     "arcaica": "senhas",
-    "modernizada": "senhas<suas>",
+    "modernizada": "suas",
     "anotada": "senhas<suas>"
   },
   {
@@ -62444,7 +62444,7 @@
   {
     "id": 10408,
     "arcaica": "sey",
-    "modernizada": "sey<sou>",
+    "modernizada": "sou",
     "anotada": "sey<sou>"
   },
   {
@@ -62504,14 +62504,14 @@
   {
     "id": 10418,
     "arcaica": "si",
-    "modernizada": "<ti>",
-    "anotada": "<ti>"
+    "modernizada": "si",
+    "anotada": "si"
   },
   {
     "id": 10419,
     "arcaica": "si",
-    "modernizada": "si",
-    "anotada": "si"
+    "modernizada": "ti",
+    "anotada": "<ti>"
   },
   {
     "id": 10420,
@@ -63296,7 +63296,7 @@
   {
     "id": 10550,
     "arcaica": "soguguaua",
-    "modernizada": "soguguaua<subjugava>",
+    "modernizada": "subjugava",
     "anotada": "soguguaua<subjugava>"
   },
   {
@@ -71378,43 +71378,43 @@
   {
     "id": 11897,
     "arcaica": "xp",
-    "modernizada": "xp<cristo>",
+    "modernizada": "cristo",
     "anotada": "xp<cristo>"
   },
   {
     "id": 11898,
     "arcaica": "xp",
-    "modernizada": "xp<cristão>",
+    "modernizada": "cristão",
     "anotada": "xp<cristão>"
   },
   {
     "id": 11899,
     "arcaica": "xp",
-    "modernizada": "xp<cristãos>",
+    "modernizada": "cristãos",
     "anotada": "xp<cristãos>"
   },
   {
     "id": 11900,
     "arcaica": "xpaa",
-    "modernizada": "xpaa<cristã>",
+    "modernizada": "cristã",
     "anotada": "xpaa<cristã>"
   },
   {
     "id": 11901,
     "arcaica": "xpaã",
-    "modernizada": "xpaã<cristã>",
+    "modernizada": "cristã",
     "anotada": "xpaã<cristã>"
   },
   {
     "id": 11902,
     "arcaica": "xpaão",
-    "modernizada": "xpaão<cristão>",
+    "modernizada": "cristão",
     "anotada": "xpaão<cristão>"
   },
   {
     "id": 11903,
     "arcaica": "xpaãos",
-    "modernizada": "xpaãos<cristãos>",
+    "modernizada": "cristãos",
     "anotada": "xpaãos<cristãos>"
   },
   {
@@ -71594,7 +71594,7 @@
   {
     "id": 11933,
     "arcaica": "ygualdeza",
-    "modernizada": "ygualdeza<igualdade>",
+    "modernizada": "igualdade",
     "anotada": "ygualdeza<igualdade>"
   },
   {
@@ -71876,7 +71876,7 @@
   {
     "id": 11980,
     "arcaica": "yres",
-    "modernizada": "yres<fores>",
+    "modernizada": "fores",
     "anotada": "yres<fores>"
   },
   {

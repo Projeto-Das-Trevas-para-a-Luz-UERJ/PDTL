@@ -242,7 +242,7 @@
   {
     "id": "#0041#vida_sme",
     "arcaica": "auja",
-    "modernizada": "auja<tinha>",
+    "modernizada": "tinha",
     "anotada": "auja<tinha>"
   },
   {
@@ -428,7 +428,7 @@
   {
     "id": "#0072#vida_sme",
     "arcaica": "asteença",
-    "modernizada": "asteença<abstinência>",
+    "modernizada": "abstinência",
     "anotada": "asteença<abstinência>"
   },
   {
@@ -512,7 +512,7 @@
   {
     "id": "#0086#vida_sme",
     "arcaica": "religuas",
-    "modernizada": "religuas<regras>",
+    "modernizada": "regras",
     "anotada": "religuas<regras>"
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "id": "#0212#vida_sme",
     "arcaica": "aficado",
-    "modernizada": "aficado<afligido>",
+    "modernizada": "afligido",
     "anotada": "aficado<afligido>"
   },
   {
@@ -1286,7 +1286,7 @@
   {
     "id": "#0215#vida_sme",
     "arcaica": "cujdaçoões",
-    "modernizada": "cujdaçoões<cogitações>",
+    "modernizada": "cogitações",
     "anotada": "cujdaçoões<cogitações>"
   },
   {
@@ -1952,7 +1952,7 @@
   {
     "id": "#0326#vida_sme",
     "arcaica": "aia",
-    "modernizada": "aia<tenha>",
+    "modernizada": "tenha",
     "anotada": "aia<tenha>"
   },
   {
@@ -1976,7 +1976,7 @@
   {
     "id": "#0330#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -2000,7 +2000,7 @@
   {
     "id": "#0334#vida_sme",
     "arcaica": "hy",
-    "modernizada": "hy<aí>",
+    "modernizada": "aí",
     "anotada": "hy<aí>"
   },
   {
@@ -3158,7 +3158,7 @@
   {
     "id": "#0527#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -3482,7 +3482,7 @@
   {
     "id": "#0581#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -3584,7 +3584,7 @@
   {
     "id": "#0598#vida_sme",
     "arcaica": "conujdou",
-    "modernizada": "conujdou<conduziu>",
+    "modernizada": "conduziu",
     "anotada": "conujdou<conduziu>"
   },
   {
@@ -3734,7 +3734,7 @@
   {
     "id": "#0623#vida_sme",
     "arcaica": "asũados",
-    "modernizada": "asũados<assinalados>",
+    "modernizada": "assinalados",
     "anotada": "asũados<assinalados>"
   },
   {
@@ -4130,7 +4130,7 @@
   {
     "id": "#0689#vida_sme",
     "arcaica": "quedar",
-    "modernizada": "quedar<cessar>",
+    "modernizada": "cessar",
     "anotada": "quedar<cessar>"
   },
   {
@@ -4334,7 +4334,7 @@
   {
     "id": "#0723#vida_sme",
     "arcaica": "segre",
-    "modernizada": "segre<século>",
+    "modernizada": "século",
     "anotada": "segre<século>"
   },
   {
@@ -4388,7 +4388,7 @@
   {
     "id": "#0732#vida_sme",
     "arcaica": "aujam",
-    "modernizada": "aujam<tinham>",
+    "modernizada": "tinham",
     "anotada": "aujam<tinham>"
   },
   {
@@ -4466,7 +4466,7 @@
   {
     "id": "#0745#vida_sme",
     "arcaica": "ssegre",
-    "modernizada": "ssegre<século>",
+    "modernizada": "século",
     "anotada": "ssegre<século>"
   },
   {
@@ -5300,7 +5300,7 @@
   {
     "id": "#0884#vida_sme",
     "arcaica": "camjnheiros",
-    "modernizada": "camjnheiros<caminhantes>",
+    "modernizada": "caminhantes",
     "anotada": "camjnheiros<caminhantes>"
   },
   {
@@ -5660,7 +5660,7 @@
   {
     "id": "#0944#vida_sme",
     "arcaica": "aujam",
-    "modernizada": "aujam<tinham>",
+    "modernizada": "tinham",
     "anotada": "aujam<tinham>"
   },
   {
@@ -6188,7 +6188,7 @@
   {
     "id": "#1032#vida_sme",
     "arcaica": "jlumjnaçio",
-    "modernizada": "jlumjnaçio<illuminatio>",
+    "modernizada": "illuminatio",
     "anotada": "jlumjnaçio<illuminatio>"
   },
   {
@@ -6242,13 +6242,13 @@
   {
     "id": "#1041#vida_sme",
     "arcaica": "ujte",
-    "modernizada": "ujte<vitae>",
+    "modernizada": "vitae",
     "anotada": "ujte<vitae>"
   },
   {
     "id": "#1042#vida_sme",
     "arcaica": "mee",
-    "modernizada": "mee<meae>",
+    "modernizada": "meae",
     "anotada": "mee<meae>"
   },
   {
@@ -6374,7 +6374,7 @@
   {
     "id": "#1063#vida_sme",
     "arcaica": "defendedor",
-    "modernizada": "defendedor<defensor>",
+    "modernizada": "defensor",
     "anotada": "defendedor<defensor>"
   },
   {
@@ -6410,7 +6410,7 @@
   {
     "id": "#1069#vida_sme",
     "arcaica": "auerey",
-    "modernizada": "auerey<terei>",
+    "modernizada": "terei",
     "anotada": "auerey<terei>"
   },
   {
@@ -6524,7 +6524,7 @@
   {
     "id": "#1088#vida_sme",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -6536,7 +6536,7 @@
   {
     "id": "#1090#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -6554,7 +6554,7 @@
   {
     "id": "#1093#vida_sme",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -7034,7 +7034,7 @@
   {
     "id": "#1173#vida_sme",
     "arcaica": "aujam",
-    "modernizada": "aujam<tinham>",
+    "modernizada": "tinham",
     "anotada": "aujam<tinham>"
   },
   {
@@ -7940,7 +7940,7 @@
   {
     "id": "#1324#vida_sme",
     "arcaica": "quejando",
-    "modernizada": "quejando<similar>",
+    "modernizada": "similar",
     "anotada": "quejando<similar>"
   },
   {
@@ -8030,7 +8030,7 @@
   {
     "id": "#1339#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -8354,7 +8354,7 @@
   {
     "id": "#1393#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -8588,7 +8588,7 @@
   {
     "id": "#1432#vida_sme",
     "arcaica": "ssostimento",
-    "modernizada": "ssostimento<sustento>",
+    "modernizada": "sustento",
     "anotada": "ssostimento<sustento>"
   },
   {
@@ -9092,7 +9092,7 @@
   {
     "id": "#1516#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -9968,7 +9968,7 @@
   {
     "id": "#1662#vida_sme",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -10010,7 +10010,7 @@
   {
     "id": "#1669#vida_sme",
     "arcaica": "ledo",
-    "modernizada": "ledo<alegre>",
+    "modernizada": "alegre",
     "anotada": "ledo<alegre>"
   },
   {
@@ -10946,7 +10946,7 @@
   {
     "id": "#1825#vida_sme",
     "arcaica": "has",
-    "modernizada": "has<tens>",
+    "modernizada": "tens",
     "anotada": "has<tens>"
   },
   {
@@ -11498,7 +11498,7 @@
   {
     "id": "#1917#vida_sme",
     "arcaica": "palura",
-    "modernizada": "palura<palavra>",
+    "modernizada": "palavra",
     "anotada": "palura<palavra>"
   },
   {
@@ -11672,7 +11672,7 @@
   {
     "id": "#1946#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -12116,7 +12116,7 @@
   {
     "id": "#2020#vida_sme",
     "arcaica": "desujstyo",
-    "modernizada": "desujstyo<despiu>",
+    "modernizada": "despiu",
     "anotada": "desujstyo<despiu>"
   },
   {
@@ -12248,7 +12248,7 @@
   {
     "id": "#2042#vida_sme",
     "arcaica": "cinge",
-    "modernizada": "cinge<cingiu>",
+    "modernizada": "cingiu",
     "anotada": "cinge<cingiu>"
   },
   {
@@ -13274,7 +13274,7 @@
   {
     "id": "#2213#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -13310,7 +13310,7 @@
   {
     "id": "#2219#vida_sme",
     "arcaica": "ssaçerdote",
-    "modernizada": "ssaçerdote<sacerdócio>",
+    "modernizada": "sacerdócio",
     "anotada": "ssaçerdote<sacerdócio>"
   },
   {
@@ -13328,7 +13328,7 @@
   {
     "id": "#2222#vida_sme",
     "arcaica": "ey",
-    "modernizada": "ey<tenho>",
+    "modernizada": "tenho",
     "anotada": "ey<tenho>"
   },
   {
@@ -13712,7 +13712,7 @@
   {
     "id": "#2286#vida_sme",
     "arcaica": "beento",
-    "modernizada": "beento<bendito>",
+    "modernizada": "bendito",
     "anotada": "beento<bendito>"
   },
   {
@@ -13796,7 +13796,7 @@
   {
     "id": "#2300#vida_sme",
     "arcaica": "goyuos",
-    "modernizada": "goyuos<gozos>",
+    "modernizada": "gozos",
     "anotada": "goyuos<gozos>"
   },
   {
@@ -14546,7 +14546,7 @@
   {
     "id": "#2425#vida_sme",
     "arcaica": "remijdor",
-    "modernizada": "remijdor<redentor>",
+    "modernizada": "redentor",
     "anotada": "remijdor<redentor>"
   },
   {
@@ -14864,7 +14864,7 @@
   {
     "id": "#2478#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -14942,7 +14942,7 @@
   {
     "id": "#2491#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -15248,7 +15248,7 @@
   {
     "id": "#2542#vida_sme",
     "arcaica": "beiços",
-    "modernizada": "beiços<lábios>",
+    "modernizada": "lábios",
     "anotada": "beiços<lábios>"
   },
   {
@@ -15830,7 +15830,7 @@
   {
     "id": "#2639#vida_sme",
     "arcaica": "ẽtanto",
-    "modernizada": "ẽtanto<enquanto>",
+    "modernizada": "enquanto",
     "anotada": "ẽtanto<enquanto>"
   },
   {
@@ -15878,7 +15878,7 @@
   {
     "id": "#2647#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -16100,7 +16100,7 @@
   {
     "id": "#2684#vida_sme",
     "arcaica": "cujdaçoões",
-    "modernizada": "cujdaçoões<cogitações>",
+    "modernizada": "cogitações",
     "anotada": "cujdaçoões<cogitações>"
   },
   {
@@ -16364,7 +16364,7 @@
   {
     "id": "#2728#vida_sme",
     "arcaica": "ey",
-    "modernizada": "ey<tenho>",
+    "modernizada": "tenho",
     "anotada": "ey<tenho>"
   },
   {
@@ -16682,7 +16682,7 @@
   {
     "id": "#2781#vida_sme",
     "arcaica": "queda",
-    "modernizada": "queda<cessa>",
+    "modernizada": "cessa",
     "anotada": "queda<cessa>"
   },
   {
@@ -16694,7 +16694,7 @@
   {
     "id": "#2783#vida_sme",
     "arcaica": "lidar",
-    "modernizada": "lidar<lutar>",
+    "modernizada": "lutar",
     "anotada": "lidar<lutar>"
   },
   {
@@ -16898,7 +16898,7 @@
   {
     "id": "#2817#vida_sme",
     "arcaica": "remijr",
-    "modernizada": "remijr<redimir>",
+    "modernizada": "redimir",
     "anotada": "remijr<redimir>"
   },
   {
@@ -16964,7 +16964,7 @@
   {
     "id": "#2828#vida_sme",
     "arcaica": "nujdade",
-    "modernizada": "nujdade<nudez>",
+    "modernizada": "nudez",
     "anotada": "nujdade<nudez>"
   },
   {
@@ -17348,7 +17348,7 @@
   {
     "id": "#2892#vida_sme",
     "arcaica": "proll",
-    "modernizada": "proll<proveito>",
+    "modernizada": "proveito",
     "anotada": "proll<proveito>"
   },
   {
@@ -17492,7 +17492,7 @@
   {
     "id": "#2916#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -17678,7 +17678,7 @@
   {
     "id": "#2947#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -17762,7 +17762,7 @@
   {
     "id": "#2961#vida_sme",
     "arcaica": "prougessem",
-    "modernizada": "prougessem<prouvera>",
+    "modernizada": "prouvera",
     "anotada": "prougessem<prouvera>"
   },
   {
@@ -18356,7 +18356,7 @@
   {
     "id": "#3060#vida_sme",
     "arcaica": "doesto",
-    "modernizada": "doesto<desdouro>",
+    "modernizada": "desdouro",
     "anotada": "doesto<desdouro>"
   },
   {
@@ -18428,7 +18428,7 @@
   {
     "id": "#3072#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -18656,7 +18656,7 @@
   {
     "id": "#3110#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -18818,7 +18818,7 @@
   {
     "id": "#3137#vida_sme",
     "arcaica": "quedes",
-    "modernizada": "quedes<cesses>",
+    "modernizada": "cesses",
     "anotada": "quedes<cesses>"
   },
   {
@@ -18848,7 +18848,7 @@
   {
     "id": "#3142#vida_sme",
     "arcaica": "mizquindade",
-    "modernizada": "mizquindade<mesquinhez>",
+    "modernizada": "mesquinhez",
     "anotada": "mizquindade<mesquinhez>"
   },
   {
@@ -19382,7 +19382,7 @@
   {
     "id": "#3231#vida_sme",
     "arcaica": "cõtinoadamente",
-    "modernizada": "cõtinoadamente<continuamente>",
+    "modernizada": "continuamente",
     "anotada": "cõtinoadamente<continuamente>"
   },
   {
@@ -19742,7 +19742,7 @@
   {
     "id": "#3291#vida_sme",
     "arcaica": "trebelhos",
-    "modernizada": "trebelhos<brinquedos>",
+    "modernizada": "brinquedos",
     "anotada": "trebelhos<brinquedos>"
   },
   {
@@ -19754,7 +19754,7 @@
   {
     "id": "#3293#vida_sme",
     "arcaica": "beuediçes",
-    "modernizada": "beuediçes<bebedeiras>",
+    "modernizada": "bebedeiras",
     "anotada": "beuediçes<bebedeiras>"
   },
   {
@@ -20006,7 +20006,7 @@
   {
     "id": "#3335#vida_sme",
     "arcaica": "lazeyra",
-    "modernizada": "lazeyra<miséria>",
+    "modernizada": "miséria",
     "anotada": "lazeyra<miséria>"
   },
   {
@@ -20228,7 +20228,7 @@
   {
     "id": "#3372#vida_sme",
     "arcaica": "mançebia",
-    "modernizada": "mançebia<mocidade>",
+    "modernizada": "mocidade",
     "anotada": "mançebia<mocidade>"
   },
   {
@@ -21104,7 +21104,7 @@
   {
     "id": "#3518#vida_sme",
     "arcaica": "hy",
-    "modernizada": "hy<lá>",
+    "modernizada": "lá",
     "anotada": "hy<lá>"
   },
   {
@@ -21248,7 +21248,7 @@
   {
     "id": "#3542#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -21464,7 +21464,7 @@
   {
     "id": "#3578#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -22178,7 +22178,7 @@
   {
     "id": "#3697#vida_sme",
     "arcaica": "mãçebia",
-    "modernizada": "mãçebia<mocidade>",
+    "modernizada": "mocidade",
     "anotada": "mãçebia<mocidade>"
   },
   {
@@ -22238,7 +22238,7 @@
   {
     "id": "#3707#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -22298,7 +22298,7 @@
   {
     "id": "#3717#vida_sme",
     "arcaica": "em",
-    "modernizada": "em<no>",
+    "modernizada": "no",
     "anotada": "em<no>"
   },
   {
@@ -22382,7 +22382,7 @@
   {
     "id": "#3731#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -22592,7 +22592,7 @@
   {
     "id": "#3766#vida_sme",
     "arcaica": "beuediçes",
-    "modernizada": "beuediçes<bebedeiras>",
+    "modernizada": "bebedeiras",
     "anotada": "beuediçes<bebedeiras>"
   },
   {
@@ -22958,7 +22958,7 @@
   {
     "id": "#3827#vida_sme",
     "arcaica": "mizquindade",
-    "modernizada": "mizquindade<mesquinhez>",
+    "modernizada": "mesquinhez",
     "anotada": "mizquindade<mesquinhez>"
   },
   {
@@ -23360,7 +23360,7 @@
   {
     "id": "#3894#vida_sme",
     "arcaica": "peendença",
-    "modernizada": "peendença<pendência>",
+    "modernizada": "pendência",
     "anotada": "peendença<pendência>"
   },
   {
@@ -23378,7 +23378,7 @@
   {
     "id": "#3897#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -23612,7 +23612,7 @@
   {
     "id": "#3936#vida_sme",
     "arcaica": "quedey",
-    "modernizada": "quedey<cessei>",
+    "modernizada": "cessei",
     "anotada": "quedey<cessei>"
   },
   {
@@ -24926,7 +24926,7 @@
   {
     "id": "#4155#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -25616,7 +25616,7 @@
   {
     "id": "#4270#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -25886,7 +25886,7 @@
   {
     "id": "#4315#vida_sme",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -25958,7 +25958,7 @@
   {
     "id": "#4327#vida_sme",
     "arcaica": "adeparte",
-    "modernizada": "adeparte<à parte>",
+    "modernizada": "à parte",
     "anotada": "adeparte<à parte>"
   },
   {
@@ -26186,7 +26186,7 @@
   {
     "id": "#4365#vida_sme",
     "arcaica": "ençujada",
-    "modernizada": "ençujada<suja>",
+    "modernizada": "suja",
     "anotada": "ençujada<suja>"
   },
   {
@@ -26234,7 +26234,7 @@
   {
     "id": "#4373#vida_sme",
     "arcaica": "mizquindades",
-    "modernizada": "mizquindades<mesquinharias>",
+    "modernizada": "mesquinharias",
     "anotada": "mizquindades<mesquinharias>"
   },
   {
@@ -26336,7 +26336,7 @@
   {
     "id": "#4390#vida_sme",
     "arcaica": "peendença",
-    "modernizada": "peendença<pendência>",
+    "modernizada": "pendência",
     "anotada": "peendença<pendência>"
   },
   {
@@ -26396,7 +26396,7 @@
   {
     "id": "#4400#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -26414,7 +26414,7 @@
   {
     "id": "#4403#vida_sme",
     "arcaica": "ey",
-    "modernizada": "ey<tenho>",
+    "modernizada": "tenho",
     "anotada": "ey<tenho>"
   },
   {
@@ -26456,7 +26456,7 @@
   {
     "id": "#4410#vida_sme",
     "arcaica": "per",
-    "modernizada": "per<pelas>",
+    "modernizada": "pelas",
     "anotada": "per<pelas>"
   },
   {
@@ -26702,7 +26702,7 @@
   {
     "id": "#4451#vida_sme",
     "arcaica": "ẽçugarey",
-    "modernizada": "ẽçugarey<sujarei>",
+    "modernizada": "sujarei",
     "anotada": "ẽçugarey<sujarei>"
   },
   {
@@ -26840,7 +26840,7 @@
   {
     "id": "#4474#vida_sme",
     "arcaica": "ssegre",
-    "modernizada": "ssegre<século>",
+    "modernizada": "século",
     "anotada": "ssegre<século>"
   },
   {
@@ -26900,7 +26900,7 @@
   {
     "id": "#4484#vida_sme",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -26930,7 +26930,7 @@
   {
     "id": "#4489#vida_sme",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -27662,7 +27662,7 @@
   {
     "id": "#4611#vida_sme",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -27764,7 +27764,7 @@
   {
     "id": "#4628#vida_sme",
     "arcaica": "dessy",
-    "modernizada": "dessy<daí>",
+    "modernizada": "daí",
     "anotada": "dessy<daí>"
   },
   {
@@ -28028,7 +28028,7 @@
   {
     "id": "#4672#vida_sme",
     "arcaica": "amerçeaste",
-    "modernizada": "amerçeaste<apiedaste>",
+    "modernizada": "apiedaste",
     "anotada": "amerçeaste<apiedaste>"
   },
   {
@@ -28334,7 +28334,7 @@
   {
     "id": "#4723#vida_sme",
     "arcaica": "peendença",
-    "modernizada": "peendença<pendência>",
+    "modernizada": "pendência",
     "anotada": "peendença<pendência>"
   },
   {
@@ -28682,7 +28682,7 @@
   {
     "id": "#4781#vida_sme",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -29012,7 +29012,7 @@
   {
     "id": "#4836#vida_sme",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -29876,7 +29876,7 @@
   {
     "id": "#4980#vida_sme",
     "arcaica": "desy",
-    "modernizada": "desy<daí>",
+    "modernizada": "daí",
     "anotada": "desy<daí>"
   },
   {
@@ -29936,7 +29936,7 @@
   {
     "id": "#4990#vida_sme",
     "arcaica": "hora",
-    "modernizada": "hora<agora>",
+    "modernizada": "agora",
     "anotada": "hora<agora>"
   },
   {
@@ -30824,7 +30824,7 @@
   {
     "id": "#5138#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -30896,7 +30896,7 @@
   {
     "id": "#5150#vida_sme",
     "arcaica": "emseias",
-    "modernizada": "emseias<ansiedades>",
+    "modernizada": "ansiedades",
     "anotada": "emseias<ansiedades>"
   },
   {
@@ -30908,7 +30908,7 @@
   {
     "id": "#5152#vida_sme",
     "arcaica": "coidações",
-    "modernizada": "coidações<cogitações>",
+    "modernizada": "cogitações",
     "anotada": "coidações<cogitações>"
   },
   {
@@ -31082,7 +31082,7 @@
   {
     "id": "#5181#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -31244,7 +31244,7 @@
   {
     "id": "#5208#vida_sme",
     "arcaica": "coydações",
-    "modernizada": "coydações<cogitações>",
+    "modernizada": "cogitações",
     "anotada": "coydações<cogitações>"
   },
   {
@@ -31514,7 +31514,7 @@
   {
     "id": "#5253#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -31562,7 +31562,7 @@
   {
     "id": "#5261#vida_sme",
     "arcaica": "segre",
-    "modernizada": "segre<século>",
+    "modernizada": "século",
     "anotada": "segre<século>"
   },
   {
@@ -31580,7 +31580,7 @@
   {
     "id": "#5264#vida_sme",
     "arcaica": "teptada",
-    "modernizada": "teptada<tentada>",
+    "modernizada": "tentada",
     "anotada": "teptada<tentada>"
   },
   {
@@ -31634,7 +31634,7 @@
   {
     "id": "#5273#vida_sme",
     "arcaica": "demoes",
-    "modernizada": "demoes<demônios>",
+    "modernizada": "demônios",
     "anotada": "demoes<demônios>"
   },
   {
@@ -31688,7 +31688,7 @@
   {
     "id": "#5282#vida_sme",
     "arcaica": "teptada",
-    "modernizada": "teptada<tentada>",
+    "modernizada": "tentada",
     "anotada": "teptada<tentada>"
   },
   {
@@ -31988,7 +31988,7 @@
   {
     "id": "#5332#vida_sme",
     "arcaica": "cujdaçõons",
-    "modernizada": "cujdaçõons<cogitações>",
+    "modernizada": "cogitações",
     "anotada": "cujdaçõons<cogitações>"
   },
   {
@@ -32186,7 +32186,7 @@
   {
     "id": "#5365#vida_sme",
     "arcaica": "cujdaçõons",
-    "modernizada": "cujdaçõons<cogitações>",
+    "modernizada": "cogitações",
     "anotada": "cujdaçõons<cogitações>"
   },
   {
@@ -32570,7 +32570,7 @@
   {
     "id": "#5429#vida_sme",
     "arcaica": "acorresse",
-    "modernizada": "acorresse<acudisse>",
+    "modernizada": "acudisse",
     "anotada": "acorresse<acudisse>"
   },
   {
@@ -32612,7 +32612,7 @@
   {
     "id": "#5436#vida_sme",
     "arcaica": "ffalssasse",
-    "modernizada": "ffalssasse<falhasse>",
+    "modernizada": "falhasse",
     "anotada": "ffalssasse<falhasse>"
   },
   {
@@ -32900,7 +32900,7 @@
   {
     "id": "#5484#vida_sme",
     "arcaica": "cuydaçõ",
-    "modernizada": "cuydaçõ<cogitação>",
+    "modernizada": "cogitação",
     "anotada": "cuydaçõ<cogitação>"
   },
   {
@@ -32924,7 +32924,7 @@
   {
     "id": "#5488#vida_sme",
     "arcaica": "emssejas",
-    "modernizada": "emssejas<ansiedades>",
+    "modernizada": "ansiedades",
     "anotada": "emssejas<ansiedades>"
   },
   {
@@ -33284,7 +33284,7 @@
   {
     "id": "#5548#vida_sme",
     "arcaica": "de",
-    "modernizada": "de<desde>",
+    "modernizada": "desde",
     "anotada": "de<desde>"
   },
   {
@@ -33542,7 +33542,7 @@
   {
     "id": "#5591#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -33650,7 +33650,7 @@
   {
     "id": "#5609#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -33902,7 +33902,7 @@
   {
     "id": "#5651#vida_sme",
     "arcaica": "mj",
-    "modernizada": "mj<minha>",
+    "modernizada": "minha",
     "anotada": "mj<minha>"
   },
   {
@@ -33938,7 +33938,7 @@
   {
     "id": "#5657#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -34262,7 +34262,7 @@
   {
     "id": "#5711#vida_sme",
     "arcaica": "lijas",
-    "modernizada": "lijas<lês>",
+    "modernizada": "lês",
     "anotada": "lijas<lês>"
   },
   {
@@ -35030,7 +35030,7 @@
   {
     "id": "#5839#vida_sme",
     "arcaica": "beento",
-    "modernizada": "beento<bendito>",
+    "modernizada": "bendito",
     "anotada": "beento<bendito>"
   },
   {
@@ -36134,7 +36134,7 @@
   {
     "id": "#6023#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -36518,7 +36518,7 @@
   {
     "id": "#6087#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -36818,7 +36818,7 @@
   {
     "id": "#6137#vida_sme",
     "arcaica": "hy",
-    "modernizada": "hy<aí>",
+    "modernizada": "aí",
     "anotada": "hy<aí>"
   },
   {
@@ -37190,7 +37190,7 @@
   {
     "id": "#6199#vida_sme",
     "arcaica": "beenzendo",
-    "modernizada": "beenzendo<bendizendo>",
+    "modernizada": "bendizendo",
     "anotada": "beenzendo<bendizendo>"
   },
   {
@@ -38054,7 +38054,7 @@
   {
     "id": "#6343#vida_sme",
     "arcaica": "calez",
-    "modernizada": "calez<cálice>",
+    "modernizada": "cálice",
     "anotada": "calez<cálice>"
   },
   {
@@ -38156,7 +38156,7 @@
   {
     "id": "#6360#vida_sme",
     "arcaica": "datilles",
-    "modernizada": "datilles<tâmaras>",
+    "modernizada": "tâmaras",
     "anotada": "datilles<tâmaras>"
   },
   {
@@ -38354,7 +38354,7 @@
   {
     "id": "#6393#vida_sme",
     "arcaica": "aginha",
-    "modernizada": "aginha<rapidamente>",
+    "modernizada": "rapidamente",
     "anotada": "aginha<rapidamente>"
   },
   {
@@ -38414,7 +38414,7 @@
   {
     "id": "#6403#vida_sme",
     "arcaica": "esguardando",
-    "modernizada": "esguardando<aguardando>",
+    "modernizada": "aguardando",
     "anotada": "esguardando<aguardando>"
   },
   {
@@ -39062,7 +39062,7 @@
   {
     "id": "#6511#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -39122,7 +39122,7 @@
   {
     "id": "#6521#vida_sme",
     "arcaica": "aqueste",
-    "modernizada": "aqueste<este>",
+    "modernizada": "este",
     "anotada": "aqueste<este>"
   },
   {
@@ -39854,7 +39854,7 @@
   {
     "id": "#6643#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -40634,13 +40634,13 @@
   {
     "id": "#6773#vida_sme",
     "arcaica": "pater",
-    "modernizada": "pater<pai>",
+    "modernizada": "pai",
     "anotada": "pater<pai>"
   },
   {
     "id": "#6774#vida_sme",
     "arcaica": "noster",
-    "modernizada": "noster<nosso>",
+    "modernizada": "nosso",
     "anotada": "noster<nosso>"
   },
   {
@@ -41150,7 +41150,7 @@
   {
     "id": "#6859#vida_sme",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -41900,7 +41900,7 @@
   {
     "id": "#6984#vida_sme",
     "arcaica": "ssaluaron",
-    "modernizada": "ssaluaron<saudaram>",
+    "modernizada": "saudaram",
     "anotada": "ssaluaron<saudaram>"
   },
   {
@@ -42182,7 +42182,7 @@
   {
     "id": "#7031#vida_sme",
     "arcaica": "desi",
-    "modernizada": "desi<daí>",
+    "modernizada": "daí",
     "anotada": "desi<daí>"
   },
   {
@@ -42668,7 +42668,7 @@
   {
     "id": "#7112#vida_sme",
     "arcaica": "segre",
-    "modernizada": "segre<século>",
+    "modernizada": "século",
     "anotada": "segre<século>"
   },
   {
@@ -42758,7 +42758,7 @@
   {
     "id": "#7127#vida_sme",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -42902,7 +42902,7 @@
   {
     "id": "#7151#vida_sme",
     "arcaica": "cataua",
-    "modernizada": "cataua<olhava>",
+    "modernizada": "olhava",
     "anotada": "cataua<olhava>"
   },
   {
@@ -43088,7 +43088,7 @@
   {
     "id": "#7182#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -43112,7 +43112,7 @@
   {
     "id": "#7186#vida_sme",
     "arcaica": "tanger",
-    "modernizada": "tanger<tocar>",
+    "modernizada": "tocar",
     "anotada": "tanger<tocar>"
   },
   {
@@ -43622,7 +43622,7 @@
   {
     "id": "#7271#vida_sme",
     "arcaica": "ssegrre",
-    "modernizada": "ssegrre<mundo>",
+    "modernizada": "mundo",
     "anotada": "ssegrre<mundo>"
   },
   {
@@ -43838,7 +43838,7 @@
   {
     "id": "#7307#vida_sme",
     "arcaica": "trespassado",
-    "modernizada": "trespassado<passado>",
+    "modernizada": "passado",
     "anotada": "trespassado<passado>"
   },
   {
@@ -43958,7 +43958,7 @@
   {
     "id": "#7327#vida_sme",
     "arcaica": "aadur",
-    "modernizada": "aadur<raramente>",
+    "modernizada": "raramente",
     "anotada": "aadur<raramente>"
   },
   {
@@ -44222,7 +44222,7 @@
   {
     "id": "#7371#vida_sme",
     "arcaica": "ca",
-    "modernizada": "ca<que>",
+    "modernizada": "que",
     "anotada": "ca<que>"
   },
   {
@@ -44918,7 +44918,7 @@
   {
     "id": "#7487#vida_sme",
     "arcaica": "ura",
-    "modernizada": "ura<viria>",
+    "modernizada": "viria",
     "anotada": "ura<viria>"
   },
   {
@@ -44954,7 +44954,7 @@
   {
     "id": "#7493#vida_sme",
     "arcaica": "ssynou",
-    "modernizada": "ssynou<sinalou>",
+    "modernizada": "sinalou",
     "anotada": "ssynou<sinalou>"
   },
   {
@@ -45596,7 +45596,7 @@
   {
     "id": "#7600#vida_sme",
     "arcaica": "cal",
-    "modernizada": "cal<que>",
+    "modernizada": "que",
     "anotada": "cal<que>"
   },
   {
@@ -46982,7 +46982,7 @@
   {
     "id": "#7831#vida_sme",
     "arcaica": "ssegres",
-    "modernizada": "ssegres<séculos>",
+    "modernizada": "séculos",
     "anotada": "ssegres<séculos>"
   },
   {

@@ -608,7 +608,7 @@
   {
     "id": "#0102#vida_sm",
     "arcaica": "guysa",
-    "modernizada": "guisa<forma>",
+    "modernizada": "forma",
     "anotada": "guysa<forma>"
   },
   {
@@ -908,7 +908,7 @@
   {
     "id": "#0152#vida_sm",
     "arcaica": "guisa",
-    "modernizada": "guisa<forma>",
+    "modernizada": "forma",
     "anotada": "guisa<forma>"
   },
   {
@@ -992,7 +992,7 @@
   {
     "id": "#0166#vida_sm",
     "arcaica": "baralha",
-    "modernizada": "baralha<briga>",
+    "modernizada": "briga",
     "anotada": "baralha<briga>"
   },
   {
@@ -1976,7 +1976,7 @@
   {
     "id": "#0330#vida_sm",
     "arcaica": "cõsijrey",
-    "modernizada": "cõsijrey<considerei>",
+    "modernizada": "considerei",
     "anotada": "cõsijrey<considerei>"
   },
   {
@@ -3134,7 +3134,7 @@
   {
     "id": "#0523#vida_sm",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -3224,7 +3224,7 @@
   {
     "id": "#0538#vida_sm",
     "arcaica": "hi",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hi<ali>"
   },
   {
@@ -3566,7 +3566,7 @@
   {
     "id": "#0595#vida_sm",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {

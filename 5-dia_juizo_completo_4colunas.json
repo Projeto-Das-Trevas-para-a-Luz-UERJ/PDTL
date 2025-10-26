@@ -332,7 +332,7 @@
   {
     "id": "#0056#dia_juizo",
     "arcaica": "segre",
-    "modernizada": "segre<mundo>",
+    "modernizada": "mundo",
     "anotada": "segre<mundo>"
   },
   {
@@ -2150,7 +2150,7 @@
   {
     "id": "#0359#dia_juizo",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -2324,7 +2324,7 @@
   {
     "id": "#0388#dia_juizo",
     "arcaica": "rrefrigeram",
-    "modernizada": "rrefrigeram<refrigerarão>",
+    "modernizada": "refrigerarão",
     "anotada": "rrefrigeram<refrigerarão>"
   },
   {
@@ -2564,7 +2564,7 @@
   {
     "id": "#0428#dia_juizo",
     "arcaica": "arteirias",
-    "modernizada": "arteirias<astúcia>",
+    "modernizada": "astúcia",
     "anotada": "arteirias<astúcia>"
   },
   {
@@ -2828,7 +2828,7 @@
   {
     "id": "#0472#dia_juizo",
     "arcaica": "pendença",
-    "modernizada": "pendença<penitência>",
+    "modernizada": "penitência",
     "anotada": "pendença<penitência>"
   },
   {
@@ -3266,7 +3266,7 @@
   {
     "id": "#0545#dia_juizo",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -3296,7 +3296,7 @@
   {
     "id": "#0550#dia_juizo",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -3860,7 +3860,7 @@
   {
     "id": "#0644#dia_juizo",
     "arcaica": "goyuo",
-    "modernizada": "goyuo<gozo>",
+    "modernizada": "gozo",
     "anotada": "goyuo<gozo>"
   },
   {
@@ -3932,7 +3932,7 @@
   {
     "id": "#0656#dia_juizo",
     "arcaica": "aquesta",
-    "modernizada": "aquesta<esta>",
+    "modernizada": "esta",
     "anotada": "aquesta<esta>"
   },
   {
@@ -3998,7 +3998,7 @@
   {
     "id": "#0667#dia_juizo",
     "arcaica": "ẽde",
-    "modernizada": "ẽde<isso>",
+    "modernizada": "isso",
     "anotada": "ẽde<isso>"
   },
   {
@@ -4286,7 +4286,7 @@
   {
     "id": "#0715#dia_juizo",
     "arcaica": "pero",
-    "modernizada": "pero<mas>",
+    "modernizada": "mas",
     "anotada": "pero<mas>"
   },
   {
@@ -4676,7 +4676,7 @@
   {
     "id": "#0780#dia_juizo",
     "arcaica": "goyuo",
-    "modernizada": "goyuo<gozo>",
+    "modernizada": "gozo",
     "anotada": "goyuo<gozo>"
   },
   {
@@ -4850,7 +4850,7 @@
   {
     "id": "#0809#dia_juizo",
     "arcaica": "poiado",
-    "modernizada": "poiado<exaltado>",
+    "modernizada": "exaltado",
     "anotada": "poiado<exaltado>"
   },
   {
@@ -5738,7 +5738,7 @@
   {
     "id": "#0957#dia_juizo",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -5762,7 +5762,7 @@
   {
     "id": "#0961#dia_juizo",
     "arcaica": "pendença",
-    "modernizada": "pendença<penitência>",
+    "modernizada": "penitência",
     "anotada": "pendença<penitência>"
   },
   {
@@ -5834,7 +5834,7 @@
   {
     "id": "#0973#dia_juizo",
     "arcaica": "chanto",
-    "modernizada": "chanto<pranto>",
+    "modernizada": "pranto",
     "anotada": "chanto<pranto>"
   },
   {
@@ -5852,7 +5852,7 @@
   {
     "id": "#0976#dia_juizo",
     "arcaica": "estonce",
-    "modernizada": "estonce<então>",
+    "modernizada": "então",
     "anotada": "estonce<então>"
   },
   {
@@ -5966,7 +5966,7 @@
   {
     "id": "#0995#dia_juizo",
     "arcaica": "escarnido",
-    "modernizada": "escarnido<escarnecido>",
+    "modernizada": "escarnecido",
     "anotada": "escarnido<escarnecido>"
   },
   {
@@ -6146,7 +6146,7 @@
   {
     "id": "#1025#dia_juizo",
     "arcaica": "espargy",
-    "modernizada": "espargi<espalhei>",
+    "modernizada": "espalhei",
     "anotada": "espargy[i]<espalhei>"
   },
   {
@@ -6524,7 +6524,7 @@
   {
     "id": "#1088#dia_juizo",
     "arcaica": "aauõõdo",
-    "modernizada": "aauõõdo<abundância>",
+    "modernizada": "abundância",
     "anotada": "aauõõdo<abundância>"
   },
   {
@@ -6542,7 +6542,7 @@
   {
     "id": "#1091#dia_juizo",
     "arcaica": "catarem",
-    "modernizada": "catarem<olharem>",
+    "modernizada": "olharem",
     "anotada": "catarem<olharem>"
   },
   {
@@ -6650,7 +6650,7 @@
   {
     "id": "#1109#dia_juizo",
     "arcaica": "catarẽ",
-    "modernizada": "catarem<olharem>",
+    "modernizada": "olharem",
     "anotada": "catarẽ<olharem>"
   },
   {
@@ -6764,7 +6764,7 @@
   {
     "id": "#1128#dia_juizo",
     "arcaica": "catarẽ",
-    "modernizada": "catarem<olharem>",
+    "modernizada": "olharem",
     "anotada": "catarẽ<olharem>"
   },
   {
@@ -7268,7 +7268,7 @@
   {
     "id": "#1212#dia_juizo",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {

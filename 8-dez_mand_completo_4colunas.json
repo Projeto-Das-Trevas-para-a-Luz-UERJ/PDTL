@@ -212,7 +212,7 @@
   {
     "id": "#0036#dez_mand",
     "arcaica": "teudos",
-    "modernizada": "teudos<tidos>",
+    "modernizada": "tidos",
     "anotada": "teudos<tidos>"
   },
   {
@@ -422,7 +422,7 @@
   {
     "id": "#0071#dez_mand",
     "arcaica": "pendẽça",
-    "modernizada": "pendẽça<penitência>",
+    "modernizada": "penitência",
     "anotada": "pendẽça<penitência>"
   },
   {
@@ -626,7 +626,7 @@
   {
     "id": "#0105#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -722,7 +722,7 @@
   {
     "id": "#0121#dez_mand",
     "arcaica": "ija",
-    "modernizada": "ija<segunda>",
+    "modernizada": "segunda",
     "anotada": "ija<segunda>"
   },
   {
@@ -752,7 +752,7 @@
   {
     "id": "#0126#dez_mand",
     "arcaica": "iija",
-    "modernizada": "iija<terceira>",
+    "modernizada": "terceira",
     "anotada": "iija<terceira>"
   },
   {
@@ -980,7 +980,7 @@
   {
     "id": "#0164#dez_mand",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -1184,7 +1184,7 @@
   {
     "id": "#0198#dez_mand",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "id": "#0256#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -1832,7 +1832,7 @@
   {
     "id": "#0306#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -2054,7 +2054,7 @@
   {
     "id": "#0343#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -2204,7 +2204,7 @@
   {
     "id": "#0368#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -2444,7 +2444,7 @@
   {
     "id": "#0408#dez_mand",
     "arcaica": "hu",
-    "modernizada": "hu<onde>",
+    "modernizada": "onde",
     "anotada": "hu<onde>"
   },
   {
@@ -2600,7 +2600,7 @@
   {
     "id": "#0434#dez_mand",
     "arcaica": "suso",
-    "modernizada": "suso<antes>",
+    "modernizada": "antes",
     "anotada": "suso<antes>"
   },
   {
@@ -3026,7 +3026,7 @@
   {
     "id": "#0505#dez_mand",
     "arcaica": "aginha",
-    "modernizada": "aginha<rapidamente>",
+    "modernizada": "rapidamente",
     "anotada": "aginha<rapidamente>"
   },
   {
@@ -3236,7 +3236,7 @@
   {
     "id": "#0540#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -3566,7 +3566,7 @@
   {
     "id": "#0595#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "id": "#0722#dez_mand",
     "arcaica": "trebelham",
-    "modernizada": "trebelham<brincam>",
+    "modernizada": "brincam",
     "anotada": "trebelham<brincam>"
   },
   {
@@ -4376,7 +4376,7 @@
   {
     "id": "#0730#dez_mand",
     "arcaica": "aginha",
-    "modernizada": "aginha<rapidamente>",
+    "modernizada": "rapidamente",
     "anotada": "aginha<rapidamente>"
   },
   {
@@ -4640,7 +4640,7 @@
   {
     "id": "#0774#dez_mand",
     "arcaica": "aquestes",
-    "modernizada": "aquestes<estes>",
+    "modernizada": "estes",
     "anotada": "aquestes<estes>"
   },
   {
@@ -8102,7 +8102,7 @@
   {
     "id": "#1351#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -8462,7 +8462,7 @@
   {
     "id": "#1411#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -9260,13 +9260,13 @@
   {
     "id": "#1544#dez_mand",
     "arcaica": "boamente",
-    "modernizada": "boamente<boa vontade>",
+    "modernizada": "boa vontade",
     "anotada": "boamente<boa vontade>"
   },
   {
     "id": "#1545#dez_mand",
     "arcaica": "see",
-    "modernizada": "see<está>",
+    "modernizada": "está",
     "anotada": "see<está>"
   },
   {
@@ -9314,7 +9314,7 @@
   {
     "id": "#1553#dez_mand",
     "arcaica": "steença",
-    "modernizada": "steença<abstinência>",
+    "modernizada": "abstinência",
     "anotada": "steença<abstinência>"
   },
   {
@@ -9464,7 +9464,7 @@
   {
     "id": "#1578#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -9632,7 +9632,7 @@
   {
     "id": "#1606#dez_mand",
     "arcaica": "hy",
-    "modernizada": "hy<ali>",
+    "modernizada": "ali",
     "anotada": "hy<ali>"
   },
   {
@@ -10022,7 +10022,7 @@
   {
     "id": "#1671#dez_mand",
     "arcaica": "stẽẽça",
-    "modernizada": "stẽẽça<abstinência>",
+    "modernizada": "abstinência",
     "anotada": "stẽẽça<abstinência>"
   },
   {
@@ -10340,7 +10340,7 @@
   {
     "id": "#1724#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -11384,7 +11384,7 @@
   {
     "id": "#1898#dez_mand",
     "arcaica": "pendença",
-    "modernizada": "pendença<penitência>",
+    "modernizada": "penitência",
     "anotada": "pendença<penitência>"
   },
   {
@@ -11426,7 +11426,7 @@
   {
     "id": "#1905#dez_mand",
     "arcaica": "steenca",
-    "modernizada": "steenca<abstinência>",
+    "modernizada": "abstinência",
     "anotada": "steenca<abstinência>"
   },
   {
@@ -11450,7 +11450,7 @@
   {
     "id": "#1909#dez_mand",
     "arcaica": "daquesto",
-    "modernizada": "daquesto<disto>",
+    "modernizada": "disto",
     "anotada": "daquesto<disto>"
   },
   {
@@ -12164,7 +12164,7 @@
   {
     "id": "#2028#dez_mand",
     "arcaica": "aquesta",
-    "modernizada": "aquesta<esta>",
+    "modernizada": "esta",
     "anotada": "aquesta<esta>"
   },
   {
@@ -12836,7 +12836,7 @@
   {
     "id": "#2140#dez_mand",
     "arcaica": "tauolas",
-    "modernizada": "tauolas<tábuas>",
+    "modernizada": "tábuas",
     "anotada": "tauolas<tábuas>"
   },
   {
@@ -13562,7 +13562,7 @@
   {
     "id": "#2261#dez_mand",
     "arcaica": "daquesto",
-    "modernizada": "daquesto<disto>",
+    "modernizada": "disto",
     "anotada": "daquesto<disto>"
   },
   {
@@ -13724,7 +13724,7 @@
   {
     "id": "#2288#dez_mand",
     "arcaica": "aue o",
-    "modernizada": "aue o<tenha-o>",
+    "modernizada": "tenha-o",
     "anotada": "aue o<tenha-o>"
   },
   {
@@ -13976,7 +13976,7 @@
   {
     "id": "#2330#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -15026,7 +15026,7 @@
   {
     "id": "#2505#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -16256,7 +16256,7 @@
   {
     "id": "#2710#dez_mand",
     "arcaica": "malquerença",
-    "modernizada": "malquerença<inimizade>",
+    "modernizada": "inimizade",
     "anotada": "malquerença<inimizade>"
   },
   {
@@ -16298,7 +16298,7 @@
   {
     "id": "#2717#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -16682,7 +16682,7 @@
   {
     "id": "#2781#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -18680,7 +18680,7 @@
   {
     "id": "#3114#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -18890,7 +18890,7 @@
   {
     "id": "#3149#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -19070,7 +19070,7 @@
   {
     "id": "#3179#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -19544,7 +19544,7 @@
   {
     "id": "#3258#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -20762,7 +20762,7 @@
   {
     "id": "#3461#dez_mand",
     "arcaica": "de aquestas",
-    "modernizada": "de aquestas<destas>",
+    "modernizada": "destas",
     "anotada": "de aquestas<destas>"
   },
   {
@@ -20834,7 +20834,7 @@
   {
     "id": "#3473#dez_mand",
     "arcaica": "boamente",
-    "modernizada": "boamente<boa vontade>",
+    "modernizada": "boa vontade",
     "anotada": "boamente<boa vontade>"
   },
   {
@@ -20876,7 +20876,7 @@
   {
     "id": "#3480#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -21152,7 +21152,7 @@
   {
     "id": "#3526#dez_mand",
     "arcaica": "ca",
-    "modernizada": "ca<porque>",
+    "modernizada": "porque",
     "anotada": "ca<porque>"
   },
   {
@@ -21596,7 +21596,7 @@
   {
     "id": "#3600#dez_mand",
     "arcaica": "al",
-    "modernizada": "al<resto>",
+    "modernizada": "resto",
     "anotada": "al<resto>"
   },
   {
